@@ -1,0 +1,312 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#101214">
+  <title>L'Ultima Alba · Beta 005</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #101214;
+      --panel: #171a1e;
+      --panel-2: #1e2227;
+      --text: #f2f2f2;
+      --muted: #9ca3ad;
+      --line: #2b3138;
+      --nico: #23282e;
+      --player: #2e3b35;
+      --accent: #d8ddd9;
+      --danger: #4a2727;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: var(--bg);
+      color: var(--text);
+    }
+
+    button, select, input { font: inherit; }
+
+    .shell {
+      width: min(760px, 100%);
+      margin: 0 auto;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      padding: 12px 14px;
+      background: rgba(16, 18, 20, 0.94);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .title-row {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: center;
+    }
+
+    h1 {
+      font-size: 16px;
+      margin: 0;
+      font-weight: 650;
+    }
+
+    .beta {
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .meta {
+      margin-top: 8px;
+      display: flex;
+      gap: 8px 14px;
+      flex-wrap: wrap;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .toolbar {
+      margin-top: 10px;
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .toolbar button,
+    .toolbar select,
+    .file-label {
+      border: 1px solid var(--line);
+      background: var(--panel);
+      color: var(--text);
+      border-radius: 8px;
+      padding: 7px 9px;
+      cursor: pointer;
+    }
+
+    .toolbar label.toggle {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .file-label input { display: none; }
+
+    main {
+      flex: 1;
+      padding: 18px 12px 190px;
+    }
+
+    #chat {
+      display: flex;
+      flex-direction: column;
+      gap: 7px;
+    }
+
+    .message-row {
+      display: flex;
+      width: 100%;
+    }
+
+    .message-row.nico { justify-content: flex-start; }
+    .message-row.player { justify-content: flex-end; }
+
+    .bubble {
+      max-width: min(82%, 580px);
+      padding: 10px 12px;
+      border-radius: 16px;
+      line-height: 1.38;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+
+    .nico .bubble {
+      background: var(--nico);
+      border-bottom-left-radius: 5px;
+    }
+
+    .player .bubble {
+      background: var(--player);
+      border-bottom-right-radius: 5px;
+    }
+
+    .system-message {
+      color: var(--muted);
+      font-size: 12px;
+      text-align: center;
+      padding: 8px;
+    }
+
+    #status-label {
+      min-height: 22px;
+      color: var(--muted);
+      font-size: 12px;
+      padding: 8px 3px;
+    }
+
+    #choices {
+      position: fixed;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: linear-gradient(to top, var(--bg) 78%, rgba(16,18,20,0));
+      padding: 24px 12px max(12px, env(safe-area-inset-bottom));
+      pointer-events: none;
+    }
+
+    .choice-card {
+      width: min(736px, calc(100% - 24px));
+      margin: 0 auto;
+      padding: 10px;
+      border: 1px solid var(--line);
+      background: var(--panel);
+      border-radius: 14px;
+      pointer-events: auto;
+      box-shadow: 0 12px 40px rgba(0,0,0,.35);
+    }
+
+    .choice-prompt {
+      color: var(--muted);
+      font-size: 12px;
+      margin: 2px 4px 8px;
+    }
+
+    .choice-timer { color: var(--muted); font-size: 12px; margin: 3px 4px 8px; }
+
+    .choice-button {
+      width: 100%;
+      display: block;
+      border: 1px solid var(--line);
+      background: var(--panel-2);
+      color: var(--text);
+      text-align: left;
+      border-radius: 10px;
+      padding: 11px 12px;
+      margin-top: 7px;
+      cursor: pointer;
+    }
+
+    .choice-button:hover { border-color: #4b545e; }
+
+    #debug-panel,
+    #error-panel,
+    #end-panel {
+      margin-top: 18px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 12px;
+      background: var(--panel);
+    }
+
+    #error-panel { background: var(--danger); }
+
+    pre {
+      overflow: auto;
+      white-space: pre-wrap;
+      font-size: 11px;
+      color: #cbd2d9;
+    }
+
+    #end-panel h2 { margin: 0 0 8px; font-size: 18px; }
+
+    #continue-slice {
+      border: 1px solid var(--line);
+      color: var(--text);
+      background: var(--panel-2);
+      border-radius: 9px;
+      padding: 9px 11px;
+      margin-top: 8px;
+    }
+
+    @media (max-width: 560px) {
+      .toolbar .wide-label { display: none; }
+      main { padding-left: 9px; padding-right: 9px; }
+      .bubble { max-width: 88%; }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <header>
+      <div class="title-row">
+        <h1>L'Ultima Alba</h1>
+        <div class="beta">Beta Web 005 · Gioco completo</div>
+      </div>
+
+      <div class="meta">
+        <span id="scene-label"></span>
+        <span id="signal-label"></span>
+        <span id="battery-label"></span>
+      </div>
+
+      <div class="toolbar">
+        <span class="wide-label beta">Tempo</span>
+        <select id="time-mode" aria-label="Modalità tempo">
+          <option value="INSTANT">Istantaneo</option>
+          <option value="FAST">Veloce</option>
+          <option value="STORY">Storia</option>
+        </select>
+
+        <label class="toggle">
+          <input id="debug-toggle" type="checkbox">
+          Debug
+        </label>
+
+        <button id="export-button" type="button">Esporta save</button>
+        <label class="file-label">Importa save
+          <input id="import-input" type="file" accept="application/json,.json">
+        </label>
+        <button id="reset-button" type="button">Ricomincia</button>
+      </div>
+    </header>
+
+    <main>
+      <div id="chat" aria-live="polite"></div>
+      <div id="status-label"></div>
+
+      <section id="end-panel" hidden>
+        <h2 id="end-title"></h2>
+        <p id="end-message"></p>
+        <button id="continue-slice" type="button">Ok</button>
+      </section>
+
+      <section id="debug-panel" hidden>
+        <strong>Debug state</strong>
+        <pre id="debug-state"></pre>
+      </section>
+
+      <section id="error-panel" hidden>
+        <strong>Errore beta</strong>
+        <p id="error-text"></p>
+        <pre id="error-state"></pre>
+      </section>
+    </main>
+
+    <div id="choices"></div>
+  </div>
+
+  <script src="content/manifest.js"></script>
+  <script src="content/act1.js"></script>
+  <script src="content/act2.js"></script>
+  <script src="content/act3.js"></script>
+  <script src="content/act4.js"></script>
+  <script src="storage.js"></script>
+  <script src="ui.js"></script>
+  <script src="engine.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

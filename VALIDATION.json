@@ -1,0 +1,57 @@
+{
+  "package": "L_Ultima_Alba_BETA_WEB_005",
+  "contentVersion": "beta-005-complete-001",
+  "coverage": "A1-S01 → A4-S24",
+  "scenes": 75,
+  "nodes": 761,
+  "messages": 3713,
+  "choices": 44,
+  "choiceOptions": 156,
+  "act4Choices": 10,
+  "act4OptionsIndividuallyTested": 40,
+  "allAct4OptionsReachGameEnd": true,
+  "timedChoiceC40": {
+    "timeoutMs": 10000,
+    "fallback": "C40-A",
+    "resumeDeadlinePersisted": true
+  },
+  "finalQueue": {
+    "expectedOrder": [
+      "Marta dorme.",
+      "1%.",
+      "Fantastico.",
+      "Ha resistito più di noi.",
+      "Abbiamo trovato un posto dove sederci.",
+      "Fa freddo.",
+      "Non credo che arriverà nessuno.",
+      "Mi dispiace."
+    ],
+    "flushVerified": true,
+    "endsWithCanonicalMessage": true
+  },
+  "finalCanonicalMessageCountInMachineContent": 1,
+  "gameComplete": true,
+  "referentialIntegrity": true,
+  "uniqueMessageIds": true,
+  "uniqueOptionIds": true,
+  "allEffectKeysRegistered": true,
+  "storyTimingMultiplier": 1.8,
+  "beta004SaveMigration": {
+    "from": "beta-004-act3-001",
+    "to": "beta-005-complete-001",
+    "a3EndContinuesToA4": true,
+    "allOldNodeIdsStillExist": true
+  },
+  "jsSyntax": {
+    "storage.js": true,
+    "ui.js": true,
+    "engine.js": true,
+    "app.js": true,
+    "manifest.js": true,
+    "act1.js": true,
+    "act2.js": true,
+    "act3.js": true,
+    "act4.js": true
+  },
+  "status": "PASS"
+}
