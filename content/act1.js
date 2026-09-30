@@ -253,71 +253,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S01-B01-M01",
           "sender": "nico",
-          "text": "Ok.",
+          "text": "Ho fatto una cosa. E sì, prima che tu lo dica, c'entra Marta.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S01-B01-M02",
           "sender": "nico",
-          "text": "Ho fatto una cosa.",
-          "delayMs": 1000,
+          "text": "Sono su un pulmino con lei, diretto in montagna. Tutti sembrano sapere dove stiamo andando.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S01-B01-M03",
           "sender": "nico",
-          "text": "Prima che tu lo dica:",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B01-M04",
-          "sender": "nico",
-          "text": "sì, riguarda Marta.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B01-M05",
-          "sender": "nico",
-          "text": "Sono su un pulmino.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B01-M06",
-          "sender": "nico",
-          "text": "In montagna.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B01-M07",
-          "sender": "nico",
-          "text": "Con Marta.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B01-M08",
-          "sender": "nico",
-          "text": "E con un po' di gente che sembra sapere perfettamente dove stiamo andando.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B01-M09",
-          "sender": "nico",
           "text": "Io no.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B01-M10",
-          "sender": "nico",
-          "text": "Dettaglio minore.",
-          "delayMs": 2000,
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -331,141 +282,50 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S01-B02-M01",
           "sender": "nico",
-          "text": "Ti ricordi quando ti ho detto che lei mi aveva parlato di quel ritiro?",
+          "text": "Ti ricordi quel ritiro di cui mi aveva parlato? Comunità dell'Aurora.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S01-B02-M02",
           "sender": "nico",
-          "text": "Comunità dell'Aurora.",
-          "delayMs": 1000,
+          "text": "Già dal nome sospetto una sveglia alle cinque per guardare il sole.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S01-B02-M03",
           "sender": "nico",
-          "text": "Nome molto tranquillo.",
-          "delayMs": 0,
+          "text": "Comunque, lei mi dice che ci sarebbe tornata per qualche giorno. E io, invece di fare una domanda normale, me ne esco con: \"Sì, conosco bene quel genere di percorso.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S01-B02-M04",
           "sender": "nico",
-          "text": "Per niente da posto dove ti fanno alzare alle cinque per guardare il sole.",
-          "delayMs": 0,
+          "text": "Non so neanche cosa intendano per percorso.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A1-S01-B02-M05",
           "sender": "nico",
-          "text": "Comunque.",
-          "delayMs": 2000,
+          "text": "Poi le ho chiesto se potevano venire anche persone nuove. Mi ha detto di sì, e io: \"Potrei venire anch'io.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S01-B02-M06",
           "sender": "nico",
-          "text": "Lei mi fa che ci sarebbe tornata per qualche giorno.",
-          "delayMs": 0,
+          "text": "Ha fatto una faccia che ho deciso di prendere per entusiasmo.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A1-S01-B02-M07",
           "sender": "nico",
-          "text": "Io, persona adulta e con un ottimo controllo degli impulsi, ho risposto:",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B02-M08",
-          "sender": "nico",
-          "text": "\"Sì, conosco bene quel genere di percorso.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B02-M09",
-          "sender": "nico",
-          "text": "Non conosco bene quel genere di percorso.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B02-M10",
-          "sender": "nico",
-          "text": "Non so neanche cosa significhi \"percorso\" quando la gente lo dice con quella faccia.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B02-M11",
-          "sender": "nico",
-          "text": "A un certo punto le ho chiesto se potevano venire anche persone nuove.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B02-M12",
-          "sender": "nico",
-          "text": "Lei ha detto:",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B02-M13",
-          "sender": "nico",
-          "text": "\"Sì.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B02-M14",
-          "sender": "nico",
-          "text": "Io ho detto:",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B02-M15",
-          "sender": "nico",
-          "text": "\"Potrei venire anch'io.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B02-M16",
-          "sender": "nico",
-          "text": "Lei ha fatto una faccia.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B02-M17",
-          "sender": "nico",
-          "text": "Che in quel momento ho deciso di interpretare come entusiasmo.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B02-M18",
-          "sender": "nico",
-          "text": "E io sono venuto.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B02-M19",
-          "sender": "nico",
-          "text": "Quindi tecnicamente questa è una spedizione scientifica.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B02-M20",
-          "sender": "nico",
-          "text": "Sto studiando quanto può essere stupido un uomo di ventinove anni.",
-          "delayMs": 0,
+          "text": "Ed eccomi qui. Ventinove anni e ancora bisogno che qualcuno mi tolga le parole di bocca prima che facciano danni.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -479,64 +339,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S01-B03-M01",
           "sender": "nico",
-          "text": "Sto cercando di recuperare.",
+          "text": "Sto cercando di recuperare. Ho cercato \"millenarismo\".",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S01-B03-M02",
           "sender": "nico",
-          "text": "Ho cercato \"millenarismo\".",
-          "delayMs": 1000,
+          "text": "Il primo risultato contiene \"fine del mondo\".",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S01-B03-M03",
           "sender": "nico",
-          "text": "Il primo risultato contiene le parole \"fine del mondo\".",
-          "delayMs": 2000,
+          "text": "Aspetta, non carica più. Una tacca, poi niente.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S01-B03-M04",
           "sender": "nico",
-          "text": "Molto sobrio.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B03-M05",
-          "sender": "nico",
-          "text": "Aspetta.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B03-M06",
-          "sender": "nico",
-          "text": "Non carica più.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B03-M07",
-          "sender": "nico",
-          "text": "Una tacca.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B03-M08",
-          "sender": "nico",
-          "text": "Poi zero.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B03-M09",
-          "sender": "nico",
-          "text": "Ottimo posto per diventare improvvisamente esperto di religioni alternative.",
-          "delayMs": 0,
+          "text": "Mi sembrava un argomento da approfondire prima di arrivare, ma va bene.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -550,50 +375,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S01-B04-M01",
           "sender": "nico",
-          "text": "Lei è due file davanti.",
+          "text": "Marta è due file davanti. Si è girata due volte.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S01-B04-M02",
           "sender": "nico",
-          "text": "Si è girata due volte.",
-          "delayMs": 1000,
+          "text": "La prima perché a uno è caduta una bottiglia. Quella non conta.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S01-B04-M03",
           "sender": "nico",
-          "text": "La prima perché a uno è caduta una bottiglia.",
-          "delayMs": 1000,
+          "text": "La seconda non era caduto niente.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S01-B04-M04",
           "sender": "nico",
-          "text": "Quella non la conto.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B04-M05",
-          "sender": "nico",
-          "text": "La seconda non aveva una causa evidente.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B04-M06",
-          "sender": "nico",
-          "text": "Non voglio sovrainterpretare.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B04-M07",
-          "sender": "nico",
-          "text": "Però statisticamente è interessante.",
-          "delayMs": 1000,
+          "text": "Te lo dico solo per completezza.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -663,92 +467,36 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S01-C01-A-R-M01",
           "sender": "nico",
-          "text": "Sì.",
+          "text": "Va bene, ci parlo.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S01-C01-A-R-M02",
           "sender": "nico",
-          "text": "Facile.",
-          "delayMs": 0,
+          "text": "Eccomi. Le ho chiesto se andava tutto bene.",
+          "delayMs": 3500,
           "delivery": "live"
         },
         {
           "id": "A1-S01-C01-A-R-M03",
           "sender": "nico",
-          "text": "Aggiornamento.",
-          "delayMs": 5000,
+          "text": "Lei: \"Sì. Tu?\" Io: \"Sì.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S01-C01-A-R-M04",
           "sender": "nico",
-          "text": "Sono arrivato a:",
-          "delayMs": 0,
+          "text": "Poi ho esaurito tutto quello che so della lingua italiana.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S01-C01-A-R-M05",
           "sender": "nico",
-          "text": "\"Tutto bene?\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-C01-A-R-M06",
-          "sender": "nico",
-          "text": "Lei ha detto:",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-C01-A-R-M07",
-          "sender": "nico",
-          "text": "\"Sì. Tu?\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-C01-A-R-M08",
-          "sender": "nico",
-          "text": "Io ho detto:",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-C01-A-R-M09",
-          "sender": "nico",
-          "text": "\"Sì.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-C01-A-R-M10",
-          "sender": "nico",
-          "text": "Conversazione storica.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-C01-A-R-M11",
-          "sender": "nico",
-          "text": "Tra qualche anno ne parleranno i libri.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-C01-A-R-M12",
-          "sender": "nico",
           "text": "Però ha sorriso.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-C01-A-R-M13",
-          "sender": "nico",
-          "text": "Questo lo registro.",
-          "delayMs": 0,
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -762,50 +510,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S01-C01-B-R-M01",
           "sender": "nico",
-          "text": "Finalmente qualcuno ragionevole.",
+          "text": "Sì, meglio. Aspetto un momento che sembri naturale.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S01-C01-B-R-M02",
           "sender": "nico",
-          "text": "Lo odio.",
-          "delayMs": 1000,
+          "text": "Si è girata di nuovo.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S01-C01-B-R-M03",
           "sender": "nico",
-          "text": "Ok.",
-          "delayMs": 4000,
+          "text": "Non è caduto niente neanche stavolta.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S01-C01-B-R-M04",
           "sender": "nico",
-          "text": "Si è girata di nuovo.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-C01-B-R-M05",
-          "sender": "nico",
-          "text": "Questa volta non è caduto niente.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-C01-B-R-M06",
-          "sender": "nico",
-          "text": "Quindi tecnicamente l'iniziativa è sua.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-C01-B-R-M07",
-          "sender": "nico",
           "text": "Non dire niente.",
-          "delayMs": 1000,
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -819,64 +546,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S01-C01-C-R-M01",
           "sender": "nico",
-          "text": "Questa è la risposta adulta.",
+          "text": "Hai ragione. Posso ancora ridurre i danni.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S01-C01-C-R-M02",
           "sender": "nico",
-          "text": "Mi oppongo per principio.",
-          "delayMs": 0,
+          "text": "Quando si è girata le ho detto: \"Comunque non sono esattamente un esperto di queste cose.\"",
+          "delayMs": 2500,
           "delivery": "live"
         },
         {
           "id": "A1-S01-C01-C-R-M03",
           "sender": "nico",
-          "text": "Ok.",
-          "delayMs": 4000,
+          "text": "\"Non devi esserlo.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S01-C01-C-R-M04",
           "sender": "nico",
-          "text": "Quando si è girata le ho detto:",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-C01-C-R-M05",
-          "sender": "nico",
-          "text": "\"Comunque non sono esattamente un esperto di queste cose.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-C01-C-R-M06",
-          "sender": "nico",
-          "text": "Lei:",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-C01-C-R-M07",
-          "sender": "nico",
-          "text": "\"Non devi esserlo.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-C01-C-R-M08",
-          "sender": "nico",
-          "text": "Che è una risposta molto rassicurante.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-C01-C-R-M09",
-          "sender": "nico",
-          "text": "E completamente priva di informazioni.",
-          "delayMs": 0,
+          "text": "L'ha detto tranquilla. Io intanto spero che non ci sia un test d'ingresso.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -890,64 +582,36 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S01-B05-M01",
           "sender": "nico",
-          "text": "Sta iniziando a piovere più forte.",
+          "text": "Sta piovendo più forte. Il tizio che guida dice che da qui in poi il telefono prende male.",
           "delayMs": 3000,
           "delivery": "live"
         },
         {
           "id": "A1-S01-B05-M02",
           "sender": "nico",
-          "text": "Il tizio che guida ha appena detto che da qui in poi il telefono prende male.",
-          "delayMs": 2000,
+          "text": "\"Con questa pioggia andiamo piano. È l'unica strada che sale alla proprietà.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S01-B05-M03",
           "sender": "nico",
-          "text": "Poi ha aggiunto:",
-          "delayMs": 1000,
+          "text": "Spero di aver sentito male la parte su \"unica\".",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S01-B05-M04",
           "sender": "nico",
-          "text": "\"Con questa pioggia andiamo piano. È l'unica strada che sale alla proprietà.\"",
-          "delayMs": 0,
+          "text": "Anche il navigatore ha rinunciato: ci mette in una zona verde senza nome.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S01-B05-M05",
           "sender": "nico",
-          "text": "Mi piace che abbia messo queste due informazioni nella stessa frase.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B05-M06",
-          "sender": "nico",
-          "text": "Molto rassicurante.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B05-M07",
-          "sender": "nico",
-          "text": "Il navigatore ha appena perso la strada.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B05-M08",
-          "sender": "nico",
-          "text": "Cioè il telefono sostiene che siamo in mezzo a una zona verde senza nome.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S01-B05-M09",
-          "sender": "nico",
-          "text": "Che, guardando fuori, è difficile contestare.",
-          "delayMs": 1000,
+          "text": "Guardando fuori non posso dargli torto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1013,78 +677,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S02-B01-M01",
           "sender": "nico",
-          "text": "Update geografico.",
+          "text": "Non vedo una casa da un bel po'. Solo bosco, qualche campo e altro bosco.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S02-B01-M02",
           "sender": "nico",
-          "text": "Adesso ci sono solo alberi.",
-          "delayMs": 1000,
+          "text": "Abbiamo appena attraversato un ponte che sembra più vecchio del concetto di manutenzione.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S02-B01-M03",
           "sender": "nico",
-          "text": "Cioè:",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B01-M04",
-          "sender": "nico",
-          "text": "bosco",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B01-M05",
-          "sender": "nico",
-          "text": "campo",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B01-M06",
-          "sender": "nico",
-          "text": "bosco",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B01-M07",
-          "sender": "nico",
-          "text": "altro bosco",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B01-M08",
-          "sender": "nico",
-          "text": "Nessuna casa da un po'.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B01-M09",
-          "sender": "nico",
-          "text": "Abbiamo appena attraversato un ponte che sembra più vecchio del concetto di manutenzione.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B01-M10",
-          "sender": "nico",
-          "text": "Molto carino.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B01-M11",
-          "sender": "nico",
-          "text": "Molto rassicurante anche lui.",
-          "delayMs": 0,
+          "text": "Cerco di non pensare che dobbiamo ripassarci.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1098,50 +706,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S02-B02-M01",
           "sender": "nico",
-          "text": "Credo che i messaggi ti stiano arrivando a gruppi.",
+          "text": "Credo che i messaggi ti arrivino tutti insieme.",
           "delayMs": 4000,
           "delivery": "live"
         },
         {
           "id": "A1-S02-B02-M02",
           "sender": "nico",
-          "text": "Qui fa:",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B02-M03",
-          "sender": "nico",
-          "text": "una tacca",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B02-M04",
-          "sender": "nico",
-          "text": "zero",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B02-M05",
-          "sender": "nico",
-          "text": "una tacca",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B02-M06",
-          "sender": "nico",
-          "text": "zero",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B02-M07",
-          "sender": "nico",
-          "text": "È un sistema semplice.",
-          "delayMs": 1000,
+          "text": "Qui prende per un secondo, poi sparisce. Quando torna mando quello che è rimasto in coda.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1155,85 +728,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S02-B03-M01",
           "sender": "nico",
-          "text": "Altra cosa.",
+          "text": "Quasi tutti sul pulmino si conoscono. Due si sono abbracciati come se non si vedessero da mesi.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S02-B03-M02",
           "sender": "nico",
-          "text": "Quasi tutti qui sembrano conoscersi.",
-          "delayMs": 1000,
+          "text": "Uno ha chiesto a un'altra se Tommaso ha sistemato il tetto del dormitorio.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S02-B03-M03",
           "sender": "nico",
-          "text": "Non tutti tutti.",
-          "delayMs": 0,
+          "text": "Quindi vengono qui spesso. Non siamo un gruppo di sconosciuti raccolti su internet.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S02-B03-M04",
           "sender": "nico",
-          "text": "Ma abbastanza.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B03-M05",
-          "sender": "nico",
-          "text": "Due si sono salutati come se non si vedessero da mesi.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B03-M06",
-          "sender": "nico",
-          "text": "Uno ha chiesto a un'altra se \"Tommaso ha sistemato il tetto del dormitorio\".",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B03-M07",
-          "sender": "nico",
-          "text": "Quindi non è esattamente una gita di gente presa a caso su internet.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B03-M08",
-          "sender": "nico",
-          "text": "Probabilmente vengono qui spesso.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B03-M09",
-          "sender": "nico",
-          "text": "Normale.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B03-M10",
-          "sender": "nico",
-          "text": "La gente ha hobby.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B03-M11",
-          "sender": "nico",
-          "text": "Alcuni fanno trekking.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B03-M12",
-          "sender": "nico",
-          "text": "Alcuni tornano volontariamente in posti senza campo.",
-          "delayMs": 0,
+          "text": "Ognuno ha i suoi hobby. Io di solito scelgo quelli con la copertura dati.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1247,85 +764,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S02-B04-M01",
           "sender": "nico",
-          "text": "Ok.",
+          "text": "Quello davanti ha appena detto: \"Pensavo che quest'anno non sarei riuscito a tornare prima del Giorno Bianco.\"",
           "delayMs": 3000,
           "delivery": "live"
         },
         {
           "id": "A1-S02-B04-M02",
           "sender": "nico",
-          "text": "Quello davanti ha appena detto:",
-          "delayMs": 0,
+          "text": "Gli ho chiesto cos'è.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A1-S02-B04-M03",
           "sender": "nico",
-          "text": "\"Pensavo che quest'anno non sarei riuscito a tornare prima del Giorno Bianco.\"",
-          "delayMs": 0,
+          "text": "Si è girato, ha sorriso: \"Lo capirai.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S02-B04-M04",
           "sender": "nico",
-          "text": "Io, con la delicatezza che mi contraddistingue, ho chiesto:",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B04-M05",
-          "sender": "nico",
-          "text": "\"Cos'è il Giorno Bianco?\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B04-M06",
-          "sender": "nico",
-          "text": "Mi ha guardato.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B04-M07",
-          "sender": "nico",
-          "text": "Ha sorriso.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B04-M08",
-          "sender": "nico",
-          "text": "E ha detto:",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B04-M09",
-          "sender": "nico",
-          "text": "\"Lo capirai.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B04-M10",
-          "sender": "nico",
-          "text": "Odio quando la gente spirituale risponde così.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B04-M11",
-          "sender": "nico",
-          "text": "Se chiedo dov'è il bagno voglio una direzione.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B04-M12",
-          "sender": "nico",
-          "text": "Non un percorso interiore.",
-          "delayMs": 0,
+          "text": "Se chiedo dov'è il bagno mi rispondono così? Perché lì avrei bisogno di indicazioni un po' più precise.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1339,57 +800,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S02-B05-M01",
           "sender": "nico",
-          "text": "Comunque sarà una festa.",
+          "text": "Sarà una festa. O una cerimonia, una di quelle in cui si sta zitti sei ore e poi si dice che è stato intenso.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S02-B05-M02",
           "sender": "nico",
-          "text": "O una cerimonia.",
-          "delayMs": 0,
+          "text": "Comunque qui sembrano tutti contenti di tornare.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A1-S02-B05-M03",
           "sender": "nico",
-          "text": "O una di quelle cose dove tutti stanno zitti per sei ore e poi dicono che è stato intenso.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B05-M04",
-          "sender": "nico",
-          "text": "Non sembra che nessuno qui sia particolarmente preoccupato.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B05-M05",
-          "sender": "nico",
-          "text": "Anzi.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B05-M06",
-          "sender": "nico",
-          "text": "Sembrano contenti di tornare.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B05-M07",
-          "sender": "nico",
-          "text": "Questo, per ora, lo metto nella cartella:",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S02-B05-M08",
-          "sender": "nico",
-          "text": "\"gente strana ma apparentemente felice\".",
-          "delayMs": 0,
+          "text": "Per ora direi gente strana, ma felice. Posso reggere qualche giorno.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1446,78 +872,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S03-B01-M02",
           "sender": "nico",
-          "text": "Pessime notizie.",
-          "delayMs": 2000,
+          "text": "Devo rivedere parecchi pregiudizi. Ci sono edifici di pietra, orti, un capannone. Animali, gente che porta cassette.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S03-B01-M03",
           "sender": "nico",
-          "text": "È normale.",
-          "delayMs": 0,
+          "text": "Nessun gong. Nessuno mi ha chiesto il segno zodiacale.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A1-S03-B01-M04",
           "sender": "nico",
-          "text": "Cioè molto più normale di quanto sperassi.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B01-M05",
-          "sender": "nico",
-          "text": "Edifici di pietra.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B01-M06",
-          "sender": "nico",
-          "text": "Orti.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B01-M07",
-          "sender": "nico",
-          "text": "Un capannone.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B01-M08",
-          "sender": "nico",
-          "text": "Animali.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B01-M09",
-          "sender": "nico",
-          "text": "Gente che porta cassette.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B01-M10",
-          "sender": "nico",
-          "text": "Nessun gong.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B01-M11",
-          "sender": "nico",
-          "text": "Nessuno mi ha chiesto il segno zodiacale.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B01-M12",
-          "sender": "nico",
           "text": "Per ora.",
-          "delayMs": 2000,
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1531,57 +901,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S03-B02-M01",
           "sender": "nico",
-          "text": "Ci sono persone di tutte le età.",
+          "text": "Ci sono adulti di tutte le età, coppie, gente che lavora. Uno sta litigando con una carriola.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S03-B02-M02",
           "sender": "nico",
-          "text": "Adulte.",
-          "delayMs": 0,
+          "text": "Sembra un agriturismo preso molto sul serio.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S03-B02-M03",
           "sender": "nico",
-          "text": "Coppie.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B02-M04",
-          "sender": "nico",
-          "text": "Gente che lavora.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B02-M05",
-          "sender": "nico",
-          "text": "Uno sta litigando con una carriola.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B02-M06",
-          "sender": "nico",
-          "text": "Sembra più un agriturismo organizzato molto seriamente che quello che mi ero immaginato.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B02-M07",
-          "sender": "nico",
-          "text": "Questo complica la mia posizione.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B02-M08",
-          "sender": "nico",
-          "text": "Ero preparato a giudicare.",
-          "delayMs": 0,
+          "text": "Ero venuto preparato a giudicare. Mi stanno rendendo difficile il lavoro.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1595,57 +930,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S03-B03-M01",
           "sender": "nico",
-          "text": "È arrivato uno che si chiama Tommaso.",
+          "text": "Ci ha accolti Tommaso. Avrà quarant'anni, sembra quello a cui chiedi dove sono gli estintori.",
           "delayMs": 3000,
           "delivery": "live"
         },
         {
           "id": "A1-S03-B03-M02",
           "sender": "nico",
-          "text": "Quaranta circa.",
-          "delayMs": 0,
+          "text": "Sta sistemando tutti senza fare una piega.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S03-B03-M03",
           "sender": "nico",
-          "text": "Sembra quello che in qualunque altro posto ti spiega dove sono gli estintori.",
-          "delayMs": 0,
+          "text": "\"Se vi serve una coperta in più chiedete pure. Di notte qui viene un freddo assurdo.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S03-B03-M04",
           "sender": "nico",
-          "text": "Molto gentile.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B03-M05",
-          "sender": "nico",
-          "text": "Molto pratico.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B03-M06",
-          "sender": "nico",
-          "text": "Ha appena detto:",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B03-M07",
-          "sender": "nico",
-          "text": "\"Se vi serve una coperta in più chiedete pure. Di notte qui viene un freddo assurdo.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B03-M08",
-          "sender": "nico",
-          "text": "È difficile avere paura di uno che si preoccupa delle coperte.",
-          "delayMs": 1000,
+          "text": "Almeno sul freddo qualcuno è stato chiaro.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1659,106 +966,43 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S03-B04-M01",
           "sender": "nico",
-          "text": "Aspetta.",
+          "text": "Marta invece non ha bisogno di farsi spiegare niente.",
           "delayMs": 4000,
           "delivery": "live"
         },
         {
           "id": "A1-S03-B04-M02",
           "sender": "nico",
-          "text": "Ok.",
-          "delayMs": 2000,
+          "text": "Una l'ha chiamata per nome da metà cortile. Un altro le ha detto: \"Sei tornata.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S03-B04-M03",
           "sender": "nico",
-          "text": "Marta conosce questa gente.",
-          "delayMs": 0,
+          "text": "Lei li saluta, sorride. Sembra proprio contenta.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S03-B04-M04",
           "sender": "nico",
-          "text": "Non nel senso:",
-          "delayMs": 1000,
+          "text": "Sapevo che conosceva il posto. Non pensavo avesse una specie di tessera fedeltà.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S03-B04-M05",
           "sender": "nico",
-          "text": "\"ciao, piacere\".",
-          "delayMs": 0,
+          "text": "No, non sono geloso. Vorrei solo sapere chi sono tutte queste persone che la conoscono meglio di me.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S03-B04-M06",
           "sender": "nico",
-          "text": "Nel senso che una l'ha chiamata per nome da metà cortile.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B04-M07",
-          "sender": "nico",
-          "text": "Un altro le ha detto:",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B04-M08",
-          "sender": "nico",
-          "text": "\"Sei tornata.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B04-M09",
-          "sender": "nico",
-          "text": "Lei sta sorridendo.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B04-M10",
-          "sender": "nico",
-          "text": "Sembra davvero contenta di essere qui.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B04-M11",
-          "sender": "nico",
-          "text": "Questa parte non me l'aveva detta.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B04-M12",
-          "sender": "nico",
-          "text": "Cioè mi aveva detto che conosceva il posto.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B04-M13",
-          "sender": "nico",
-          "text": "Non che avesse una specie di tessera fedeltà.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B04-M14",
-          "sender": "nico",
-          "text": "Non sto facendo il geloso.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B04-M15",
-          "sender": "nico",
-          "text": "Sto facendo analisi contestuale.",
-          "delayMs": 1000,
+          "text": "Rileggendo, capisco l'equivoco.",
+          "delayMs": 1800,
           "delivery": "live"
         }
       ],
@@ -1772,36 +1016,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S03-B05-M01",
           "sender": "nico",
-          "text": "Tommaso ci sta portando dentro.",
+          "text": "Tommaso ci sta portando dentro. Dice che prima sistemiamo \"le cose del mondo esterno\".",
           "delayMs": 3000,
           "delivery": "live"
         },
         {
           "id": "A1-S03-B05-M02",
           "sender": "nico",
-          "text": "Ha detto:",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B05-M03",
-          "sender": "nico",
-          "text": "\"Prima sistemiamo le cose del mondo esterno.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B05-M04",
-          "sender": "nico",
-          "text": "Immagino intenda i bagagli.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S03-B05-M05",
-          "sender": "nico",
-          "text": "Ti aggiorno.",
-          "delayMs": 1000,
+          "text": "Immagino i bagagli. Ti scrivo dopo.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1868,85 +1091,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S04-B01-M01",
           "sender": "nico",
-          "text": "Aggiornamento.",
+          "text": "Non intendeva i bagagli.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S04-B01-M02",
           "sender": "nico",
-          "text": "Non intendeva i bagagli.",
-          "delayMs": 1000,
+          "text": "Ha messo una cassetta sul tavolo e sta raccogliendo telefoni, smartwatch e tablet.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S04-B01-M03",
           "sender": "nico",
-          "text": "Hanno messo una cassetta sul tavolo.",
-          "delayMs": 2000,
+          "text": "Anche documenti e chiavi della macchina.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S04-B01-M04",
           "sender": "nico",
-          "text": "Tommaso sta chiedendo a tutti di lasciare:",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-B01-M05",
-          "sender": "nico",
-          "text": "telefono",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-B01-M06",
-          "sender": "nico",
-          "text": "smartwatch",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-B01-M07",
-          "sender": "nico",
-          "text": "tablet",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-B01-M08",
-          "sender": "nico",
-          "text": "documenti",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-B01-M09",
-          "sender": "nico",
-          "text": "chiavi della macchina",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-B01-M10",
-          "sender": "nico",
-          "text": "Le chiavi.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-B01-M11",
-          "sender": "nico",
-          "text": "E i documenti.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-B01-M12",
-          "sender": "nico",
-          "text": "Per una vacanza spirituale.",
-          "delayMs": 1000,
+          "text": "Le chiavi e i documenti. Quelli che notoriamente ti distraggono mentre mediti.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1960,57 +1127,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S04-B02-M01",
           "sender": "nico",
-          "text": "La spiegazione è:",
+          "text": "Dice che così non abbiamo distrazioni e non rischiamo di perdere oggetti importanti durante i lavori.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S04-B02-M02",
           "sender": "nico",
-          "text": "niente distrazioni",
-          "delayMs": 0,
+          "text": "Chiudono tutto in un armadio dell'ufficio.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A1-S04-B02-M03",
           "sender": "nico",
-          "text": "niente oggetti importanti da perdere mentre lavoriamo",
-          "delayMs": 0,
+          "text": "Gli altri stanno consegnando le cose senza discutere. Marta compresa.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S04-B02-M04",
           "sender": "nico",
-          "text": "e tutto resta chiuso in un armadio dell'ufficio.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-B02-M05",
-          "sender": "nico",
-          "text": "Detto così sembra quasi sensato.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-B02-M06",
-          "sender": "nico",
-          "text": "Quasi.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-B02-M07",
-          "sender": "nico",
-          "text": "Comunque tutti stanno consegnando tutto senza fare storie.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-B02-M08",
-          "sender": "nico",
-          "text": "Marta compresa.",
-          "delayMs": 0,
+          "text": "Mi sento l'unico che ha saltato una spiegazione.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2024,64 +1163,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S04-B03-M01",
           "sender": "nico",
-          "text": "C'è un dettaglio.",
+          "text": "Però io ho due telefoni.",
           "delayMs": 2000,
           "delivery": "live"
         },
         {
           "id": "A1-S04-B03-M02",
           "sender": "nico",
-          "text": "Io ho due telefoni.",
-          "delayMs": 1000,
+          "text": "Quello principale l'ho messo nella cassetta. Ti sto scrivendo dal vecchio rottame col vetro rotto, quello che tengo nello zaino per le emergenze.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S04-B03-M03",
           "sender": "nico",
-          "text": "Quello normale.",
-          "delayMs": 0,
+          "text": "Di solito mi dimentico perfino di averlo.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A1-S04-B03-M04",
           "sender": "nico",
-          "text": "E questo rottame da cui ti sto scrivendo.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-B03-M05",
-          "sender": "nico",
-          "text": "Quello d'emergenza.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-B03-M06",
-          "sender": "nico",
-          "text": "Quello con il vetro rotto che tengo nello zaino e dimentico di avere per mesi.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-B03-M07",
-          "sender": "nico",
-          "text": "Il principale l'ho messo nella cassetta.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-B03-M08",
-          "sender": "nico",
-          "text": "Questo no.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-B03-M09",
-          "sender": "nico",
-          "text": "Questo è ancora nella tasca interna dello zaino.",
-          "delayMs": 1000,
+          "text": "Questo è ancora nella tasca interna dello zaino. Non l'ha visto nessuno.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2146,71 +1250,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S04-C02-A-R-M01",
           "sender": "nico",
-          "text": "Esatto.",
+          "text": "Sì, lo tengo. Basta non tirarlo fuori davanti a tutti.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S04-C02-A-R-M02",
           "sender": "nico",
-          "text": "Finalmente una decisione equilibrata e responsabile.",
-          "delayMs": 0,
+          "text": "Mi serve per scriverti. E magari Marta mi manda qualcosa.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S04-C02-A-R-M03",
           "sender": "nico",
-          "text": "Nascondere un telefono a una comunità religiosa isolata.",
-          "delayMs": 1000,
+          "text": "Ha appena consegnato il telefono, vero?",
+          "delayMs": 2200,
           "delivery": "live"
         },
         {
           "id": "A1-S04-C02-A-R-M04",
           "sender": "nico",
-          "text": "Comportamento da adulto.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-C02-A-R-M05",
-          "sender": "nico",
-          "text": "Ma mi serve per scriverti.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-C02-A-R-M06",
-          "sender": "nico",
-          "text": "E nel caso Marta mi mandi qualcosa.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-C02-A-R-M07",
-          "sender": "nico",
-          "text": "...",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-C02-A-R-M08",
-          "sender": "nico",
-          "text": "Sì.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-C02-A-R-M09",
-          "sender": "nico",
-          "text": "Ha appena consegnato il telefono.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-C02-A-R-M10",
-          "sender": "nico",
-          "text": "Questo è effettivamente un punto debole del piano.",
-          "delayMs": 0,
+          "text": "Va bene. Mi serve per scriverti.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2224,71 +1286,36 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S04-C02-B-R-M01",
           "sender": "nico",
-          "text": "Sì.",
+          "text": "Ho chiesto dei documenti.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S04-C02-B-R-M02",
           "sender": "nico",
-          "text": "Questa domanda è legittima.",
-          "delayMs": 0,
+          "text": "Tommaso dice che durante il lavoro la gente lascia vestiti e zaini ovunque. Preferiscono tenere documenti e oggetti di valore tutti insieme.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S04-C02-B-R-M03",
           "sender": "nico",
-          "text": "Ho chiesto.",
-          "delayMs": 4000,
+          "text": "Poi: \"Quando vi serviranno, sapete dove sono.\"",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A1-S04-C02-B-R-M04",
           "sender": "nico",
-          "text": "Tommaso ha detto che preferiscono tenere insieme documenti e oggetti di valore perché durante il lavoro la gente lascia vestiti e zaini un po' ovunque.",
-          "delayMs": 0,
+          "text": "Detta così faccio quasi fatica a insistere.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S04-C02-B-R-M05",
           "sender": "nico",
-          "text": "Poi ha aggiunto:",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-C02-B-R-M06",
-          "sender": "nico",
-          "text": "\"Quando vi serviranno, sapete dove sono.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-C02-B-R-M07",
-          "sender": "nico",
-          "text": "Risposta ragionevole.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-C02-B-R-M08",
-          "sender": "nico",
-          "text": "Fastidiosamente ragionevole.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-C02-B-R-M09",
-          "sender": "nico",
-          "text": "Il vecchio telefono resta qui.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-C02-B-R-M10",
-          "sender": "nico",
-          "text": "Non l'ha visto nessuno.",
-          "delayMs": 0,
+          "text": "Il vecchio telefono comunque me lo tengo. Nessuno l'ha visto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2302,71 +1329,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S04-C02-C-R-M01",
           "sender": "nico",
-          "text": "No.",
+          "text": "Capisco cosa dici, ma questo no. Il principale gliel'ho già dato.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S04-C02-C-R-M02",
           "sender": "nico",
-          "text": "Cioè.",
-          "delayMs": 1000,
+          "text": "Se lascio anche questo non posso più scriverti. E se Marta mi manda qualcosa?",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S04-C02-C-R-M03",
           "sender": "nico",
-          "text": "Capisco il concetto.",
-          "delayMs": 0,
+          "text": "Sì, lo so. Il suo è nella cassetta.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S04-C02-C-R-M04",
           "sender": "nico",
-          "text": "Ma no.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-C02-C-R-M05",
-          "sender": "nico",
-          "text": "Mi serve per scriverti.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-C02-C-R-M06",
-          "sender": "nico",
-          "text": "E nel caso Marta mi mandi qualcosa.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-C02-C-R-M07",
-          "sender": "nico",
-          "text": "...",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-C02-C-R-M08",
-          "sender": "nico",
-          "text": "Sì.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-C02-C-R-M09",
-          "sender": "nico",
-          "text": "Lo so che ha appena consegnato il suo.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-C02-C-R-M10",
-          "sender": "nico",
-          "text": "Non è il momento di attaccarsi ai dettagli.",
-          "delayMs": 0,
+          "text": "Non era il mio argomento migliore, ma il telefono resta qui.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2380,43 +1365,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S04-B04-M01",
           "sender": "nico",
-          "text": "Fatto.",
+          "text": "Fatto. Telefono principale, documento e chiavi sono nell'armadio.",
           "delayMs": 3000,
           "delivery": "live"
         },
         {
           "id": "A1-S04-B04-M02",
           "sender": "nico",
-          "text": "Telefono principale, documento e chiavi sono nell'armadio.",
-          "delayMs": 0,
+          "text": "Il vecchio è con me. Mi sento come se avessi rubato qualcosa, ed è mio.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S04-B04-M03",
           "sender": "nico",
-          "text": "Questo è con me.",
-          "delayMs": 0,
+          "text": "Tommaso non ha notato niente.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S04-B04-M04",
           "sender": "nico",
-          "text": "Non so perché mi sembra di aver appena commesso un reato molto piccolo.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-B04-M05",
-          "sender": "nico",
-          "text": "Tommaso non ha notato niente.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S04-B04-M06",
-          "sender": "nico",
           "text": "Credo.",
-          "delayMs": 0,
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2470,43 +1441,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S05-B01-M01",
           "sender": "nico",
-          "text": "Ok.",
+          "text": "Siamo rimasti un po' indietro, io e Marta.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S05-B01-M02",
           "sender": "nico",
-          "text": "Siamo rimasti indietro un attimo.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B01-M03",
-          "sender": "nico",
-          "text": "Io e Marta.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B01-M04",
-          "sender": "nico",
-          "text": "Da soli.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B01-M05",
-          "sender": "nico",
-          "text": "Calma.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B01-M06",
-          "sender": "nico",
-          "text": "Sto gestendo la situazione con grande maturità.",
-          "delayMs": 0,
+          "text": "Da soli. Sto cercando di non sembrare uno che se n'è accorto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2520,85 +1463,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S05-B02-M01",
           "sender": "nico",
-          "text": "Ha detto:",
+          "text": "Mi ha guardato: \"Quindi sei venuto davvero.\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S05-B02-M02",
           "sender": "nico",
-          "text": "\"Quindi sei venuto davvero.\"",
-          "delayMs": 0,
+          "text": "\"Te l'avevo detto.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S05-B02-M03",
           "sender": "nico",
-          "text": "Non so esattamente che tono fosse.",
-          "delayMs": 2000,
+          "text": "\"Tu dici molte cose.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S05-B02-M04",
           "sender": "nico",
-          "text": "Un po' sorpresa.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B02-M05",
-          "sender": "nico",
-          "text": "Un po' divertita.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B02-M06",
-          "sender": "nico",
-          "text": "Io ho risposto:",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B02-M07",
-          "sender": "nico",
-          "text": "\"Te l'avevo detto.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B02-M08",
-          "sender": "nico",
-          "text": "Lei:",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B02-M09",
-          "sender": "nico",
-          "text": "\"Tu dici molte cose.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B02-M10",
-          "sender": "nico",
-          "text": "Colpo basso.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B02-M11",
-          "sender": "nico",
-          "text": "Corretto.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B02-M12",
-          "sender": "nico",
-          "text": "Ma basso.",
-          "delayMs": 0,
+          "text": "Rideva un po'. Purtroppo non posso neanche darle torto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2612,36 +1499,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S05-CBACK01-TRUE-M01",
           "sender": "nico",
-          "text": "Poi ha aggiunto:",
+          "text": "\"Almeno hai già ammesso di non essere un esperto.\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S05-CBACK01-TRUE-M02",
           "sender": "nico",
-          "text": "\"Almeno hai già ammesso di non essere un esperto.\"",
-          "delayMs": 0,
+          "text": "Le ho ricordato che avevo detto \"non esattamente un esperto\".",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S05-CBACK01-TRUE-M03",
           "sender": "nico",
-          "text": "Io:",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-CBACK01-TRUE-M04",
-          "sender": "nico",
-          "text": "\"Ho detto non esattamente un esperto.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-CBACK01-TRUE-M05",
-          "sender": "nico",
-          "text": "C'è una differenza legale.",
-          "delayMs": 0,
+          "text": "Mi resta quella piccola tutela legale.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2671,71 +1544,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S05-B03-M01",
           "sender": "nico",
-          "text": "Comunque lei sa tutto.",
+          "text": "Sa dove sono gli alloggi, dove si mangia, perfino dove lasciare gli stivali bagnati. Ha salutato altre due persone per nome.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S05-B03-M02",
           "sender": "nico",
-          "text": "Dove sono gli alloggi.",
-          "delayMs": 0,
+          "text": "Le ho chiesto da quanto viene qui.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A1-S05-B03-M03",
           "sender": "nico",
-          "text": "Dove si mangia.",
-          "delayMs": 0,
+          "text": "\"Da un po'.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S05-B03-M04",
           "sender": "nico",
-          "text": "Dove lasciano gli stivali bagnati.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B03-M05",
-          "sender": "nico",
-          "text": "Ha salutato altre due persone per nome.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B03-M06",
-          "sender": "nico",
-          "text": "Quindi ho chiesto da quanto viene qui.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B03-M07",
-          "sender": "nico",
-          "text": "Risposta:",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B03-M08",
-          "sender": "nico",
-          "text": "\"Da un po'.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B03-M09",
-          "sender": "nico",
-          "text": "Fine.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B03-M10",
-          "sender": "nico",
-          "text": "Molto esaustiva.",
-          "delayMs": 0,
+          "text": "Poi ha continuato a camminare.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2810,50 +1641,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S05-C03-A-R-M01",
           "sender": "nico",
-          "text": "Ho chiesto:",
+          "text": "Ho provato a chiederle quanto sarebbe \"un po'\".",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S05-C03-A-R-M02",
           "sender": "nico",
-          "text": "\"Quanto sarebbe un po'?\"",
-          "delayMs": 0,
+          "text": "Mi ha guardato. \"Abbastanza da sapere dove sono le docce. Vieni, sono di là.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S05-C03-A-R-M03",
           "sender": "nico",
-          "text": "Lei mi ha guardato.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-C03-A-R-M04",
-          "sender": "nico",
-          "text": "\"Abbastanza da sapere dove sono le docce.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-C03-A-R-M05",
-          "sender": "nico",
-          "text": "Poi ha indicato il vialetto.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-C03-A-R-M06",
-          "sender": "nico",
-          "text": "Cambio argomento certificato.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-C03-A-R-M07",
-          "sender": "nico",
-          "text": "Ricevuto.",
-          "delayMs": 1000,
+          "text": "Messaggio ricevuto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2867,36 +1670,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S05-C03-B-R-M01",
           "sender": "nico",
-          "text": "Sì.",
+          "text": "Sì, lascio stare. Non siamo soli da abbastanza tempo da cominciare un interrogatorio.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S05-C03-B-R-M02",
           "sender": "nico",
-          "text": "Ho lasciato perdere.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-C03-B-R-M03",
-          "sender": "nico",
-          "text": "Per una volta posso anche non interrogare una persona dopo trenta secondi da soli.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-C03-B-R-M04",
-          "sender": "nico",
-          "text": "Lei ha continuato a camminare.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-C03-B-R-M05",
-          "sender": "nico",
-          "text": "Non sembrava dispiaciuta.",
-          "delayMs": 0,
+          "text": "Abbiamo continuato a camminare. Lei sembrava a suo agio così.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2910,43 +1692,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S05-C03-C-R-M01",
           "sender": "nico",
-          "text": "Ho chiesto se ha una tessera punti.",
+          "text": "Le ho chiesto se ha una tessera punti.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S05-C03-C-R-M02",
           "sender": "nico",
-          "text": "Lei:",
-          "delayMs": 2000,
+          "text": "\"Sì. Al decimo ritiro ti danno una capra.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S05-C03-C-R-M03",
           "sender": "nico",
-          "text": "\"Sì.\"",
-          "delayMs": 0,
+          "text": "Non ha esitato un secondo.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S05-C03-C-R-M04",
           "sender": "nico",
-          "text": "\"Al decimo ritiro ti danno una capra.\"",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-C03-C-R-M05",
-          "sender": "nico",
-          "text": "Ok.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-C03-C-R-M06",
-          "sender": "nico",
           "text": "Mi piace quando collabora.",
-          "delayMs": 0,
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2960,7 +1728,7 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S05-B04-M01",
           "sender": "nico",
-          "text": "Poi, prima di raggiungere gli altri, ha detto:",
+          "text": "Prima di raggiungere gli altri si è girata verso di me.",
           "delayMs": 3000,
           "delivery": "live"
         },
@@ -2968,49 +1736,21 @@ window.LUA_CONTENT.act1 = {
           "id": "A1-S05-B04-M02",
           "sender": "nico",
           "text": "\"Comunque sono contenta che tu sia qui.\"",
-          "delayMs": 0,
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S05-B04-M03",
           "sender": "nico",
-          "text": "Ok.",
-          "delayMs": 3000,
+          "text": "Questo l'ha detto lei. Testuale.",
+          "delayMs": 2200,
           "delivery": "live"
         },
         {
           "id": "A1-S05-B04-M04",
           "sender": "nico",
-          "text": "Non diciamo niente.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B04-M05",
-          "sender": "nico",
-          "text": "Però l'ha detto lei.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B04-M06",
-          "sender": "nico",
-          "text": "Testuale.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B04-M07",
-          "sender": "nico",
-          "text": "Non sto interpretando.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S05-B04-M08",
-          "sender": "nico",
-          "text": "Sto riportando un fatto.",
-          "delayMs": 0,
+          "text": "Lasciami godere la cosa prima di trovare un'altra interpretazione.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3044,71 +1784,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S06-B01-M01",
           "sender": "nico",
-          "text": "Ho visto Elia.",
+          "text": "Ho visto Elia. Jeans, maglione, scarpe infangate.",
           "delayMs": 6500,
           "delivery": "live"
         },
         {
           "id": "A1-S06-B01-M02",
           "sender": "nico",
-          "text": "Problema.",
-          "delayMs": 1000,
+          "text": "Niente tunica, niente collana enorme. Sembra appena tornato dall'orto.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S06-B01-M03",
           "sender": "nico",
-          "text": "È normale anche lui.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B01-M04",
-          "sender": "nico",
-          "text": "Jeans.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B01-M05",
-          "sender": "nico",
-          "text": "Maglione.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B01-M06",
-          "sender": "nico",
-          "text": "Scarpe con del fango.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B01-M07",
-          "sender": "nico",
-          "text": "Niente tunica.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B01-M08",
-          "sender": "nico",
-          "text": "Niente collana di legno enorme.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B01-M09",
-          "sender": "nico",
-          "text": "Niente sguardo da \"ho visto l'universo mentre mangiavo una radice\".",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B01-M10",
-          "sender": "nico",
-          "text": "Mi stanno togliendo tutti i punti di riferimento.",
-          "delayMs": 2000,
+          "text": "Mi ero preparato una persona molto più facile da prendere in giro.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3122,78 +1813,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S06-B02-M01",
           "sender": "nico",
-          "text": "Ci ha fatto sedere.",
+          "text": "Ci ha fatto sedere e ha iniziato così: \"Se qualcuno vi dice di avere tutte le risposte, probabilmente vuole qualcosa da voi.\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S06-B02-M02",
           "sender": "nico",
-          "text": "Non ha iniziato con una preghiera.",
-          "delayMs": 0,
+          "text": "Non era l'inizio che mi aspettavo.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A1-S06-B02-M03",
           "sender": "nico",
-          "text": "Ha detto:",
-          "delayMs": 1000,
+          "text": "Dice che non siamo qui per imparare una dottrina a memoria. Dovremmo osservare quello che ci portiamo dietro: paure, abitudini, cose di cui siamo convinti di non poter fare a meno.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S06-B02-M04",
           "sender": "nico",
-          "text": "\"Se qualcuno vi dice di avere tutte le risposte, probabilmente vuole qualcosa da voi.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B02-M05",
-          "sender": "nico",
-          "text": "Ok.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B02-M06",
-          "sender": "nico",
-          "text": "Questa era sorprendentemente sensata.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B02-M07",
-          "sender": "nico",
-          "text": "Poi ha detto che non siamo qui per imparare una dottrina a memoria.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B02-M08",
-          "sender": "nico",
-          "text": "Che ognuno dovrebbe osservare cosa si porta dietro.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B02-M09",
-          "sender": "nico",
-          "text": "Paure.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B02-M10",
-          "sender": "nico",
-          "text": "Abitudini.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B02-M11",
-          "sender": "nico",
-          "text": "Cose che considera indispensabili solo perché non ha mai provato a farne a meno.",
-          "delayMs": 0,
+          "text": "Ammetto che fin qui lo seguo.",
+          "delayMs": 1800,
           "delivery": "live"
         }
       ],
@@ -3207,57 +1849,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S06-B03-M01",
           "sender": "nico",
-          "text": "Lui la chiama \"Vecchia Epoca\".",
+          "text": "La chiama \"Vecchia Epoca\". Intende il modo in cui viviamo, non un periodo storico.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S06-B03-M02",
           "sender": "nico",
-          "text": "Non il periodo storico.",
-          "delayMs": 1000,
+          "text": "Dice che cerchiamo di tenere ferme cose che cambiano comunque: il lavoro, le persone, l'immagine che abbiamo di noi.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S06-B03-M03",
           "sender": "nico",
-          "text": "Più tipo il modo in cui viviamo adesso.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B03-M04",
-          "sender": "nico",
-          "text": "Dice che passiamo metà del tempo a cercare di controllare cose che comunque cambiano.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B03-M05",
-          "sender": "nico",
-          "text": "Persone.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B03-M06",
-          "sender": "nico",
-          "text": "Lavoro.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B03-M07",
-          "sender": "nico",
-          "text": "Immagine che abbiamo di noi.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B03-M08",
-          "sender": "nico",
-          "text": "Fin qui è il genere di cosa che potresti sentire anche in un podcast molto lungo.",
-          "delayMs": 2000,
+          "text": "È il genere di discorso che ascolterei in un podcast. Magari mentre faccio altro, ma lo ascolterei.",
+          "delayMs": 1800,
           "delivery": "live"
         }
       ],
@@ -3271,50 +1878,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S06-B04-M01",
           "sender": "nico",
-          "text": "Poi è tornato fuori il Giorno Bianco.",
+          "text": "Poi ha nominato il Giorno Bianco. Lo chiama un passaggio, qualcosa a cui arrivare \"più leggeri\".",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S06-B04-M02",
           "sender": "nico",
-          "text": "Lo ha chiamato un passaggio.",
-          "delayMs": 2000,
+          "text": "\"Non dovete capire tutto adesso. Cominciate da quello che fate fatica a lasciare.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S06-B04-M03",
           "sender": "nico",
-          "text": "Un momento per arrivare \"più leggeri\".",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B04-M04",
-          "sender": "nico",
-          "text": "Ha detto che essere pronti non significa capire tutto adesso.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B04-M05",
-          "sender": "nico",
-          "text": "Significa cominciare a vedere cosa non riusciamo a lasciare.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B04-M06",
-          "sender": "nico",
-          "text": "Molto spirituale.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B04-M07",
-          "sender": "nico",
-          "text": "Ancora nessuna spiegazione concreta.",
-          "delayMs": 0,
+          "text": "Non ho ancora capito cosa succeda, in pratica. Nessuno gliel'ha chiesto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3328,36 +1907,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S06-B05-M01",
           "sender": "nico",
-          "text": "Ah.",
+          "text": "Ha detto anche: \"Nessuno qui deve credere a qualcosa perché glielo dico io.\"",
           "delayMs": 2000,
           "delivery": "live"
         },
         {
           "id": "A1-S06-B05-M02",
           "sender": "nico",
-          "text": "Altra cosa.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B05-M03",
-          "sender": "nico",
-          "text": "\"Nessuno qui deve credere a qualcosa perché glielo dico io.\"",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B05-M04",
-          "sender": "nico",
-          "text": "Questa gente è pessima nel sembrare una setta.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B05-M05",
-          "sender": "nico",
-          "text": "Dovrebbero impegnarsi di più.",
-          "delayMs": 0,
+          "text": "Continuo ad aspettare la frase da setta e lui mi dice queste cose.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3371,36 +1929,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S06-B06-M01",
           "sender": "nico",
-          "text": "Marta però lo sta ascoltando parecchio.",
+          "text": "Marta lo sta ascoltando senza staccargli gli occhi di dosso.",
           "delayMs": 3000,
           "delivery": "live"
         },
         {
           "id": "A1-S06-B06-M02",
           "sender": "nico",
-          "text": "Cioè proprio concentrata.",
-          "delayMs": 1000,
+          "text": "Io ogni tanto guardo lei. Lei non si gira.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S06-B06-M03",
           "sender": "nico",
-          "text": "Non sono geloso di un uomo di cinquant'anni con le scarpe infangate.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B06-M04",
-          "sender": "nico",
-          "text": "Sto solo rilevando una dinamica.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B06-M05",
-          "sender": "nico",
-          "text": "Una dinamica che non mi piace moltissimo.",
-          "delayMs": 2000,
+          "text": "Non avevo previsto di sentirmi in competizione con un uomo di cinquant'anni con le scarpe piene di fango.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3414,29 +1958,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S06-B07-M01",
           "sender": "nico",
-          "text": "Finito.",
+          "text": "È finita. Elia mi è sembrato molto meno ridicolo del previsto.",
           "delayMs": 6500,
           "delivery": "live"
         },
         {
           "id": "A1-S06-B07-M02",
           "sender": "nico",
-          "text": "Verdetto provvisorio su Elia:",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B07-M03",
-          "sender": "nico",
-          "text": "molto meno ridicolo del previsto.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S06-B07-M04",
-          "sender": "nico",
-          "text": "Che in qualche modo mi dà più fastidio.",
-          "delayMs": 1000,
+          "text": "Mi tocca ammetterlo. Non insistere.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3490,29 +2020,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S07-B01-M01",
           "sender": "nico",
-          "text": "Dormitorio uomini.",
+          "text": "Dormitorio uomini. Marta è nell'altro edificio.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S07-B01-M02",
           "sender": "nico",
-          "text": "Quindi questa parte del piano sta andando molto bene.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B01-M03",
-          "sender": "nico",
-          "text": "Marta è nell'altro edificio.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B01-M04",
-          "sender": "nico",
-          "text": "Ovviamente.",
-          "delayMs": 1000,
+          "text": "La mia organizzazione del viaggio aveva trascurato qualche aspetto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3526,99 +2042,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S07-B02-M01",
           "sender": "nico",
-          "text": "Ci hanno dato il programma.",
+          "text": "Ci hanno dato il programma: sveglia presto, pasti insieme, lavori assegnati e altre attività. Poi silenzio la sera.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S07-B02-M02",
           "sender": "nico",
-          "text": "Sveglia presto.",
-          "delayMs": 0,
+          "text": "Niente alcol. Niente sesso.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A1-S07-B02-M03",
           "sender": "nico",
-          "text": "Colazione tutti insieme.",
-          "delayMs": 0,
+          "text": "Quest'ultima mi sembra accanimento.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S07-B02-M04",
           "sender": "nico",
-          "text": "Lavori assegnati.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B02-M05",
-          "sender": "nico",
-          "text": "Pranzo.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B02-M06",
-          "sender": "nico",
-          "text": "Altre attività.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B02-M07",
-          "sender": "nico",
-          "text": "Cena.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B02-M08",
-          "sender": "nico",
-          "text": "Silenzio a una certa ora.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B02-M09",
-          "sender": "nico",
-          "text": "Niente alcol.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B02-M10",
-          "sender": "nico",
-          "text": "Niente sesso.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B02-M11",
-          "sender": "nico",
-          "text": "Questa ultima regola mi sembra particolarmente ostile.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B02-M12",
-          "sender": "nico",
-          "text": "Sì, lo so.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B02-M13",
-          "sender": "nico",
-          "text": "Mi hanno appena preso telefono, documenti e chiavi.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B02-M14",
-          "sender": "nico",
-          "text": "Ma una cosa alla volta.",
-          "delayMs": 1000,
+          "text": "Sì, prima mi hanno preso telefono, documenti e chiavi. Ci arrivo. Una delusione alla volta.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3632,50 +2078,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S07-B03-M01",
           "sender": "nico",
-          "text": "Ah.",
+          "text": "Uffici, depositi e alcuni spazi di lavoro sono vietati ai nuovi arrivati.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S07-B03-M02",
           "sender": "nico",
-          "text": "Alcune zone non sono per i nuovi arrivati.",
-          "delayMs": 0,
+          "text": "Tommaso dice che è per sicurezza.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S07-B03-M03",
           "sender": "nico",
-          "text": "Uffici.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B03-M04",
-          "sender": "nico",
-          "text": "Depositi.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B03-M05",
-          "sender": "nico",
-          "text": "Alcuni spazi di lavoro.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B03-M06",
-          "sender": "nico",
-          "text": "Tommaso l'ha presentata come una questione di sicurezza.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B03-M07",
-          "sender": "nico",
-          "text": "Che, finché non mi chiedono di firmare col sangue, continuo a considerare plausibile.",
-          "delayMs": 0,
+          "text": "Finché non mi affidano un trattore posso anche crederci.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3689,85 +2107,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S07-B04-M01",
           "sender": "nico",
-          "text": "C'è uno qui che si chiama Davide.",
+          "text": "Qui in camera c'è Davide. Avrà venticinque anni, è nuovo anche lui.",
           "delayMs": 3000,
           "delivery": "live"
         },
         {
           "id": "A1-S07-B04-M02",
           "sender": "nico",
-          "text": "Più giovane di me.",
-          "delayMs": 0,
+          "text": "Ha già chiesto a che ora ci svegliano, se le attività sono obbligatorie, quando restituiscono i telefoni e se domani possiamo uscire dalla proprietà.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S07-B04-M03",
           "sender": "nico",
-          "text": "Venticinque, forse.",
-          "delayMs": 0,
+          "text": "Tommaso gli risponde con una calma da reception.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A1-S07-B04-M04",
           "sender": "nico",
-          "text": "È nuovo anche lui.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B04-M05",
-          "sender": "nico",
-          "text": "E mi sta facendo sentire sorprendentemente rilassato.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B04-M06",
-          "sender": "nico",
-          "text": "Ha già chiesto:",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B04-M07",
-          "sender": "nico",
-          "text": "a che ora ci svegliano",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B04-M08",
-          "sender": "nico",
-          "text": "se le attività sono obbligatorie",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B04-M09",
-          "sender": "nico",
-          "text": "quando ridanno i telefoni",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B04-M10",
-          "sender": "nico",
-          "text": "e se domani possiamo uscire dalla proprietà.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B04-M11",
-          "sender": "nico",
-          "text": "Tommaso ha risposto a tutto con una calma da reception.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B04-M12",
-          "sender": "nico",
-          "text": "Davide continua ad annuire come se ogni risposta ne generasse altre tre.",
-          "delayMs": 0,
+          "text": "Davide annuisce, poi gli viene un'altra domanda. Almeno non sono l'unico a non sapere come funziona.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3781,64 +2143,36 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S07-B05-M01",
           "sender": "nico",
-          "text": "Mi ha chiesto se ero già stato qui.",
+          "text": "Mi ha chiesto se ero già stato qui. Gli ho detto di no.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S07-B05-M02",
           "sender": "nico",
-          "text": "Ho detto no.",
-          "delayMs": 0,
+          "text": "\"Però conosci il percorso?\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S07-B05-M03",
           "sender": "nico",
-          "text": "Poi mi ha chiesto se conoscevo bene \"il percorso\".",
-          "delayMs": 1000,
+          "text": "\"Diciamo che sono qui con spirito di apertura.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S07-B05-M04",
           "sender": "nico",
-          "text": "Ho detto:",
-          "delayMs": 2000,
+          "text": "Ha detto solo: \"Ah.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S07-B05-M05",
           "sender": "nico",
-          "text": "\"Diciamo che sono qui con spirito di apertura.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B05-M06",
-          "sender": "nico",
-          "text": "Questa bugia sta diventando più sofisticata.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B05-M07",
-          "sender": "nico",
-          "text": "Lui ha detto:",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B05-M08",
-          "sender": "nico",
-          "text": "\"Ah.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S07-B05-M09",
-          "sender": "nico",
-          "text": "Non credo di averlo rassicurato.",
-          "delayMs": 0,
+          "text": "Credo stesse cercando qualcuno che lo rassicurasse. Ha scelto il letto sbagliato.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3872,78 +2206,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S08-B01-M01",
           "sender": "nico",
-          "text": "Cena.",
+          "text": "Siamo a cena. Devo ammetterlo: si sta bene.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S08-B01-M02",
           "sender": "nico",
-          "text": "E devo ammettere una cosa.",
-          "delayMs": 1000,
+          "text": "Cibo semplice, tavoloni, gente che chiacchiera. Uno ha tirato fuori una chitarra.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S08-B01-M03",
           "sender": "nico",
-          "text": "È piacevole.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B01-M04",
-          "sender": "nico",
-          "text": "Cibo semplice.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B01-M05",
-          "sender": "nico",
-          "text": "Tavoloni.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B01-M06",
-          "sender": "nico",
-          "text": "Gente che parla.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B01-M07",
-          "sender": "nico",
-          "text": "Uno ha tirato fuori una chitarra.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B01-M08",
-          "sender": "nico",
-          "text": "Lo so.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B01-M09",
-          "sender": "nico",
-          "text": "La chitarra è un punto a sfavore.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B01-M10",
-          "sender": "nico",
-          "text": "Però nessuno ha ancora cantato Imagine.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B01-M11",
-          "sender": "nico",
-          "text": "Quindi siamo salvi.",
-          "delayMs": 0,
+          "text": "Nessuno ha cantato Imagine. Ho apprezzato molto la moderazione.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3957,85 +2235,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S08-B02-M01",
           "sender": "nico",
-          "text": "Ci sono coppie.",
+          "text": "Ci sono coppie, fratelli, adulti di tutte le età. Si prendono in giro e discutono dei lavori di domani.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S08-B02-M02",
           "sender": "nico",
-          "text": "Fratelli.",
-          "delayMs": 0,
+          "text": "Uno si lamentava perché gli attrezzi non tornano mai al loro posto.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A1-S08-B02-M03",
           "sender": "nico",
-          "text": "Persone più giovani e più vecchie.",
-          "delayMs": 0,
+          "text": "Insomma, sembrano persone che vivono insieme davvero. Forse io mi aspettavo solo hippie che si abbracciano.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S08-B02-M04",
           "sender": "nico",
-          "text": "Tutti adulti.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B02-M05",
-          "sender": "nico",
-          "text": "Si prendono in giro.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B02-M06",
-          "sender": "nico",
-          "text": "Parlano di lavori da finire domani.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B02-M07",
-          "sender": "nico",
-          "text": "Uno si lamenta che qualcuno lascia sempre gli attrezzi nel posto sbagliato.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B02-M08",
-          "sender": "nico",
-          "text": "Cioè.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B02-M09",
-          "sender": "nico",
-          "text": "Non sembra gente che recita \"comunità\".",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B02-M10",
-          "sender": "nico",
-          "text": "Sembra proprio una comunità.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B02-M11",
-          "sender": "nico",
-          "text": "Ok.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B02-M12",
-          "sender": "nico",
-          "text": "Forse sono solo hippie molto organizzati.",
-          "delayMs": 0,
+          "text": "Questi devono anche ritrovare le vanghe.",
+          "delayMs": 1800,
           "delivery": "live"
         }
       ],
@@ -4049,78 +2271,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S08-B03-M01",
           "sender": "nico",
-          "text": "Problema logistico.",
+          "text": "Avevo individuato il posto accanto a Marta. Stavo per sedermi, è arrivato un tizio e l'ha preso.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S08-B03-M02",
           "sender": "nico",
-          "text": "Avevo individuato il posto accanto a Marta.",
-          "delayMs": 1000,
+          "text": "Così adesso sono due posti più in là.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S08-B03-M03",
           "sender": "nico",
-          "text": "Perfetto.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B03-M04",
-          "sender": "nico",
-          "text": "Naturale.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B03-M05",
-          "sender": "nico",
-          "text": "Non sospetto.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B03-M06",
-          "sender": "nico",
-          "text": "Un tizio si è seduto lì.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B03-M07",
-          "sender": "nico",
-          "text": "Senza nessun rispetto per la pianificazione.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B03-M08",
-          "sender": "nico",
-          "text": "Adesso sono due posti più in là.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B03-M09",
-          "sender": "nico",
-          "text": "Sto valutando un trasferimento tattico quando si alza qualcuno.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B03-M10",
-          "sender": "nico",
-          "text": "Non è ossessione.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B03-M11",
-          "sender": "nico",
-          "text": "È geometria.",
-          "delayMs": 0,
+          "text": "Ho passato metà cena ad aspettare che si alzasse, fingendo interesse per una conversazione sugli attrezzi.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4134,106 +2300,36 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S08-B04-M01",
           "sender": "nico",
-          "text": "Quella davanti a me si chiama Lea.",
+          "text": "Davanti a me c'era Lea. È qui da anni, credo. Mi ha spiegato dove prendono il pane senza farne una metafora.",
           "delayMs": 3000,
           "delivery": "live"
         },
         {
           "id": "A1-S08-B04-M02",
           "sender": "nico",
-          "text": "È qui da anni, credo.",
-          "delayMs": 0,
+          "text": "Poi siamo finiti a parlare di famiglia. Quando è venuta qui, lei aveva quasi smesso di parlare con la sua.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A1-S08-B04-M03",
           "sender": "nico",
-          "text": "Normalissima.",
-          "delayMs": 1000,
+          "text": "Ha detto: \"All'inizio pensavo mi mancassero. Poi ho capito che mi mancava solo l'abitudine.\"",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A1-S08-B04-M04",
           "sender": "nico",
-          "text": "Mi ha spiegato dove prendono il pane senza trasformarlo in una metafora.",
-          "delayMs": 0,
+          "text": "Mi sono fermato con la forchetta in mano.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S08-B04-M05",
           "sender": "nico",
-          "text": "Le sono grato.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B04-M06",
-          "sender": "nico",
-          "text": "Stavano parlando di famiglia.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B04-M07",
-          "sender": "nico",
-          "text": "Non so come ci siano arrivati.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B04-M08",
-          "sender": "nico",
-          "text": "Lei ha detto che quando è venuta qui aveva smesso quasi del tutto di parlare con la sua.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B04-M09",
-          "sender": "nico",
-          "text": "Poi:",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B04-M10",
-          "sender": "nico",
-          "text": "\"All'inizio pensavo mi mancassero. Poi ho capito che mi mancava solo l'abitudine.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B04-M11",
-          "sender": "nico",
-          "text": "Detta così è un po' forte.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B04-M12",
-          "sender": "nico",
-          "text": "Ma lei non l'ha detta in modo triste.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B04-M13",
-          "sender": "nico",
-          "text": "E gli altri non hanno fatto quella faccia che fai quando qualcuno dice una cosa preoccupante.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B04-M14",
-          "sender": "nico",
-          "text": "Uno ha annuito.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B04-M15",
-          "sender": "nico",
-          "text": "Poi hanno continuato a mangiare.",
-          "delayMs": 0,
+          "text": "Lei però era tranquilla. Uno ha annuito e la conversazione è andata avanti.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4247,57 +2343,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S08-B05-M01",
           "sender": "nico",
-          "text": "Non so.",
+          "text": "Forse per loro staccarsi significa proprio questo. Dal telefono, dal lavoro, anche dalla famiglia.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S08-B05-M02",
           "sender": "nico",
-          "text": "Forse per loro il punto è proprio staccarsi da tutto.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B05-M03",
-          "sender": "nico",
-          "text": "Telefono.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B05-M04",
-          "sender": "nico",
-          "text": "Lavoro.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B05-M05",
-          "sender": "nico",
-          "text": "Famiglia.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B05-M06",
-          "sender": "nico",
-          "text": "Molto coerenti.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B05-M07",
-          "sender": "nico",
-          "text": "Personalmente inizierei da qualcosa di più semplice.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B05-M08",
-          "sender": "nico",
-          "text": "Tipo le notifiche delle app.",
-          "delayMs": 0,
+          "text": "Io pensavo più a disattivare le notifiche per un fine settimana.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4311,57 +2365,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S08-B06-M01",
           "sender": "nico",
-          "text": "Aggiornamento importante.",
+          "text": "Ah, poi quello accanto a Marta si è alzato.",
           "delayMs": 2000,
           "delivery": "live"
         },
         {
           "id": "A1-S08-B06-M02",
           "sender": "nico",
-          "text": "Il tizio accanto a Marta si è alzato.",
-          "delayMs": 0,
+          "text": "Io non mi sono mosso. Avevo ormai investito parecchio nel sembrare disinteressato.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S08-B06-M03",
           "sender": "nico",
-          "text": "Non mi sono mosso.",
-          "delayMs": 1000,
+          "text": "Lei ha guardato il posto vuoto. Poi me.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S08-B06-M04",
           "sender": "nico",
-          "text": "Perché ho dignità.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B06-M05",
-          "sender": "nico",
-          "text": "Marta ha guardato il posto vuoto.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B06-M06",
-          "sender": "nico",
-          "text": "Poi me.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B06-M07",
-          "sender": "nico",
-          "text": "Non sto dicendo niente.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S08-B06-M08",
-          "sender": "nico",
-          "text": "Sto solo registrando gli eventi.",
-          "delayMs": 0,
+          "text": "Questo è tutto. Ti lascio valutare.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4395,113 +2421,43 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S09-B01-M01",
           "sender": "nico",
-          "text": "Ok.",
+          "text": "Davide ha fermato Tommaso mentre finivamo di mangiare.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S09-B01-M02",
           "sender": "nico",
-          "text": "Piccola cosa strana.",
-          "delayMs": 1000,
+          "text": "\"Domani posso riprendere il telefono un attimo?\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S09-B01-M03",
           "sender": "nico",
-          "text": "Davide ha fermato Tommaso mentre stavamo finendo di mangiare.",
-          "delayMs": 2000,
+          "text": "Tommaso gli ha chiesto perché. \"Per chiamare mia madre. Dirle che sono arrivato.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S09-B01-M04",
           "sender": "nico",
-          "text": "Ha chiesto:",
-          "delayMs": 0,
+          "text": "\"Lo sa che sei qui?\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S09-B01-M05",
           "sender": "nico",
-          "text": "\"Domani posso riprendere il telefono un attimo?\"",
-          "delayMs": 0,
+          "text": "Davide ha detto di sì.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S09-B01-M06",
           "sender": "nico",
-          "text": "Tommaso:",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B01-M07",
-          "sender": "nico",
-          "text": "\"Perché?\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B01-M08",
-          "sender": "nico",
-          "text": "Davide:",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B01-M09",
-          "sender": "nico",
-          "text": "\"Per chiamare mia madre. Dirle che sono arrivato.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B01-M10",
-          "sender": "nico",
-          "text": "Tommaso:",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B01-M11",
-          "sender": "nico",
-          "text": "\"Lo sa che sei qui?\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B01-M12",
-          "sender": "nico",
-          "text": "Davide:",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B01-M13",
-          "sender": "nico",
-          "text": "\"Sì.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B01-M14",
-          "sender": "nico",
-          "text": "Tommaso ha sorriso.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B01-M15",
-          "sender": "nico",
-          "text": "\"Allora lo sa già.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B01-M16",
-          "sender": "nico",
-          "text": "E basta.",
-          "delayMs": 3000,
+          "text": "Tommaso ha sorriso: \"Allora lo sa già.\"",
+          "delayMs": 2200,
           "delivery": "live"
         }
       ],
@@ -4515,50 +2471,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S09-B02-M01",
           "sender": "nico",
-          "text": "Ora.",
+          "text": "Davide è rimasto lì un secondo, come se aspettasse il resto della risposta.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S09-B02-M02",
           "sender": "nico",
-          "text": "Tecnicamente non gli ha detto di no.",
-          "delayMs": 0,
+          "text": "Tommaso aveva già finito.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S09-B02-M03",
           "sender": "nico",
-          "text": "Ma diciamo che non gli ha neanche detto di sì.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B02-M04",
-          "sender": "nico",
-          "text": "È stata una risposta un po' da stronzo.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B02-M05",
-          "sender": "nico",
-          "text": "Molto educata.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B02-M06",
-          "sender": "nico",
-          "text": "Ma da stronzo.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B02-M07",
-          "sender": "nico",
-          "text": "Davide non sembrava soddisfatto.",
-          "delayMs": 2000,
+          "text": "Si può essere molto educati e molto stronzi nello stesso momento.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4572,36 +2500,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S09-B03-M01",
           "sender": "nico",
-          "text": "Marta ha visto tutto.",
+          "text": "Marta ha visto tutto. Non è intervenuta.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S09-B03-M02",
           "sender": "nico",
-          "text": "Non ha detto niente.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B03-M03",
-          "sender": "nico",
-          "text": "Però stava guardando Tommaso.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B03-M04",
-          "sender": "nico",
-          "text": "Non Davide.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B03-M05",
-          "sender": "nico",
-          "text": "Non so se significa qualcosa.",
-          "delayMs": 2000,
+          "text": "Guardava Tommaso, però. Non Davide.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4671,85 +2578,36 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S09-C04-A-R-M01",
           "sender": "nico",
-          "text": "Sono andato da Davide.",
+          "text": "Sono andato da Davide a chiedergli se stava bene.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S09-C04-A-R-M02",
           "sender": "nico",
-          "text": "Gli ho chiesto se era tutto ok.",
-          "delayMs": 3000,
+          "text": "Mi ha detto di sì. Poi: \"Le avevo promesso che la chiamavo.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S09-C04-A-R-M03",
           "sender": "nico",
-          "text": "Ha detto sì.",
-          "delayMs": 0,
+          "text": "Gli ho chiesto se sua madre fosse preoccupata.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S09-C04-A-R-M04",
           "sender": "nico",
-          "text": "Poi ha detto:",
-          "delayMs": 1000,
+          "text": "Ha fatto spallucce. \"È mia madre.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S09-C04-A-R-M05",
           "sender": "nico",
-          "text": "\"Le avevo promesso che la chiamavo.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-C04-A-R-M06",
-          "sender": "nico",
-          "text": "Gli ho chiesto se sua madre fosse preoccupata.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-C04-A-R-M07",
-          "sender": "nico",
-          "text": "Ha fatto spallucce.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-C04-A-R-M08",
-          "sender": "nico",
-          "text": "\"È mia madre.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-C04-A-R-M09",
-          "sender": "nico",
-          "text": "Traduzione universale.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-C04-A-R-M10",
-          "sender": "nico",
-          "text": "Sì.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-C04-A-R-M11",
-          "sender": "nico",
-          "text": "Gli ho detto che magari domani glielo fanno fare.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-C04-A-R-M12",
-          "sender": "nico",
-          "text": "Non sembrava convinto.",
-          "delayMs": 0,
+          "text": "Gli ho detto che magari domani glielo fanno fare. Non sembrava convinto. Neanch'io molto, a dirla tutta.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4763,71 +2621,36 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S09-C04-B-R-M01",
           "sender": "nico",
-          "text": "Ho chiesto a Marta:",
+          "text": "Ho chiesto a Marta se fosse normale.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S09-C04-B-R-M02",
           "sender": "nico",
-          "text": "\"È normale?\"",
-          "delayMs": 0,
+          "text": "Ha guardato verso Tommaso. \"Qui sì.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S09-C04-B-R-M03",
           "sender": "nico",
-          "text": "Lei ha guardato verso Tommaso.",
-          "delayMs": 3000,
+          "text": "\"E a te va bene?\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S09-C04-B-R-M04",
           "sender": "nico",
-          "text": "Poi:",
-          "delayMs": 0,
+          "text": "\"Non ho detto che mi va bene.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S09-C04-B-R-M05",
           "sender": "nico",
-          "text": "\"Qui sì.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-C04-B-R-M06",
-          "sender": "nico",
-          "text": "Ho chiesto se per lei fosse una risposta.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-C04-B-R-M07",
-          "sender": "nico",
-          "text": "Lei:",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-C04-B-R-M08",
-          "sender": "nico",
-          "text": "\"È quella che ho.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-C04-B-R-M09",
-          "sender": "nico",
-          "text": "E poi ha cambiato argomento.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-C04-B-R-M10",
-          "sender": "nico",
-          "text": "Di nuovo.",
-          "delayMs": 1000,
+          "text": "Poi ha cambiato argomento. Non sono riuscito a farle dire altro.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4841,36 +2664,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S09-C04-C-R-M01",
           "sender": "nico",
-          "text": "Sì.",
+          "text": "Sì, magari domani glielo ridanno. È il primo giorno.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S09-C04-C-R-M02",
           "sender": "nico",
-          "text": "Primo giorno.",
-          "delayMs": 0,
+          "text": "Possono anche essere solo esagerati col detox digitale.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S09-C04-C-R-M03",
           "sender": "nico",
-          "text": "Magari domani glielo ridanno.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-C04-C-R-M04",
-          "sender": "nico",
-          "text": "Magari qui hanno semplicemente un rapporto molto aggressivo con il concetto di detox digitale.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-C04-C-R-M05",
-          "sender": "nico",
-          "text": "Non trasformiamo tutto in un documentario criminale dopo sei ore.",
-          "delayMs": 2000,
+          "text": "Mi sto impegnando a non trasformare questa vacanza in un documentario criminale dopo sei ore.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4884,71 +2693,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S09-B04-M01",
           "sender": "nico",
-          "text": "Comunque ci stanno mandando nei dormitori.",
+          "text": "Ci stanno mandando nei dormitori. Domani sveglia prestissimo.",
           "delayMs": 3000,
           "delivery": "live"
         },
         {
           "id": "A1-S09-B04-M02",
           "sender": "nico",
-          "text": "Domani sveglia presto.",
-          "delayMs": 1000,
+          "text": "Quindi: il posto è strano, la cena era buona, alcune regole mi stanno già sul cazzo.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S09-B04-M03",
           "sender": "nico",
-          "text": "Prestissimo.",
-          "delayMs": 0,
+          "text": "Marta però è contenta che io sia qui.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S09-B04-M04",
           "sender": "nico",
-          "text": "Se sopravvivo all'assenza di caffè decente ti aggiorno.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B04-M05",
-          "sender": "nico",
-          "text": "Per ora:",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B04-M06",
-          "sender": "nico",
-          "text": "posto strano.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B04-M07",
-          "sender": "nico",
-          "text": "Gente sorprendentemente normale.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B04-M08",
-          "sender": "nico",
-          "text": "Regole discutibili.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B04-M09",
-          "sender": "nico",
-          "text": "Marta contenta che io sia qui.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S09-B04-M10",
-          "sender": "nico",
-          "text": "Direi bilancio positivo.",
-          "delayMs": 1000,
+          "text": "Lo so quale parte del bilancio sto sopravvalutando. Buonanotte.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4982,43 +2749,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S10-B01-M01",
           "sender": "nico",
-          "text": "Giorno due.",
+          "text": "Giorno due. Sono sveglio da un'ora che di solito conosco solo dall'altra parte.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S10-B01-M02",
           "sender": "nico",
-          "text": "Sono sveglio da un'ora che normalmente considero illegale.",
-          "delayMs": 1000,
+          "text": "Abbiamo già fatto colazione e adesso spostiamo cassette.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S10-B01-M03",
           "sender": "nico",
-          "text": "Abbiamo già fatto colazione.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B01-M04",
-          "sender": "nico",
-          "text": "E adesso lavoriamo.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B01-M05",
-          "sender": "nico",
-          "text": "Non chiedermi perché una ricerca spirituale richieda di spostare cassette.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B01-M06",
-          "sender": "nico",
-          "text": "Immagino che l'illuminazione sia pesante.",
-          "delayMs": 0,
+          "text": "Non sapevo che la ricerca spirituale coinvolgesse così tanto la schiena.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5032,57 +2778,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S10-B02-M01",
           "sender": "nico",
-          "text": "C'è un edificio che ieri non avevo notato.",
+          "text": "C'è un edificio piccolo, separato dagli altri. Ieri non l'avevo notato.",
           "delayMs": 3000,
           "delivery": "live"
         },
         {
           "id": "A1-S10-B02-M02",
           "sender": "nico",
-          "text": "Piccolo.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B02-M03",
-          "sender": "nico",
-          "text": "Separato dagli altri.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B02-M04",
-          "sender": "nico",
-          "text": "Finestre strette.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B02-M05",
-          "sender": "nico",
-          "text": "Porta chiusa.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B02-M06",
-          "sender": "nico",
-          "text": "Non sembra abbandonato.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B02-M07",
-          "sender": "nico",
-          "text": "Sembra solo...",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B02-M08",
-          "sender": "nico",
-          "text": "molto poco invitante.",
-          "delayMs": 1000,
+          "text": "Finestre strette, porta chiusa. È tenuto bene, ma non invita esattamente a entrare.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5096,64 +2800,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S10-B03-M01",
           "sender": "nico",
-          "text": "Ho chiesto a Tommaso cos'è.",
+          "text": "Ho chiesto a Tommaso cos'è. \"La Casa del Silenzio.\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S10-B03-M02",
           "sender": "nico",
-          "text": "\"La Casa del Silenzio.\"",
-          "delayMs": 2000,
+          "text": "Dice che ci si passa del tempo da soli, senza conversazioni o distrazioni. Ha usato le parole \"interferenze esterne\".",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S10-B03-M03",
           "sender": "nico",
-          "text": "Certo.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B03-M04",
-          "sender": "nico",
-          "text": "Come poteva chiamarsi.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B03-M05",
-          "sender": "nico",
-          "text": "Mi ha spiegato che alcune persone ci passano del tempo da sole.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B03-M06",
-          "sender": "nico",
-          "text": "Per stare senza distrazioni.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B03-M07",
-          "sender": "nico",
-          "text": "Senza conversazioni.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B03-M08",
-          "sender": "nico",
-          "text": "Senza \"interferenze esterne\".",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B03-M09",
-          "sender": "nico",
-          "text": "Ha detto che serve quando uno sente di aver bisogno di ascoltarsi meglio.",
-          "delayMs": 2000,
+          "text": "\"A volte uno ha bisogno di ascoltarsi. Lì può farlo.\"",
+          "delayMs": 1800,
           "delivery": "live"
         }
       ],
@@ -5167,43 +2829,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S10-B04-M01",
           "sender": "nico",
-          "text": "Quindi praticamente isolamento spirituale premium.",
+          "text": "Mi è scappato: \"Isolamento spirituale premium.\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S10-B04-M02",
           "sender": "nico",
-          "text": "Tommaso non ha riso.",
-          "delayMs": 2000,
+          "text": "Tommaso non ha riso. \"Se vuoi chiamarlo così.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S10-B04-M03",
           "sender": "nico",
-          "text": "Non sembrava neanche infastidito.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B04-M04",
-          "sender": "nico",
-          "text": "Ha solo detto:",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B04-M05",
-          "sender": "nico",
-          "text": "\"Se vuoi chiamarlo così.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B04-M06",
-          "sender": "nico",
-          "text": "Punto per lui.",
-          "delayMs": 2000,
+          "text": "Non era neanche infastidito. Mi sono sentito scemo da solo.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5217,92 +2858,36 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S10-B05-M01",
           "sender": "nico",
-          "text": "Aspetta.",
+          "text": "Aspetta. C'è qualcuno alla finestra.",
           "delayMs": 4000,
           "delivery": "live"
         },
         {
           "id": "A1-S10-B05-M02",
           "sender": "nico",
-          "text": "C'era qualcuno a una finestra.",
-          "delayMs": 2000,
+          "text": "O c'era. Ho visto una faccia, solo un pezzo, non so chi fosse.",
+          "delayMs": 2200,
           "delivery": "live"
         },
         {
           "id": "A1-S10-B05-M03",
           "sender": "nico",
-          "text": "Dentro.",
-          "delayMs": 1000,
+          "text": "Tommaso mi ha chiamato per dirmi dove mettere le cassette. Quando ho riguardato non c'era più nessuno.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S10-B05-M04",
           "sender": "nico",
-          "text": "Solo per un secondo.",
-          "delayMs": 0,
+          "text": "Se la gente ci va per stare da sola, qualcuno dentro dovrà pur esserci.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A1-S10-B05-M05",
           "sender": "nico",
-          "text": "Non ho visto chi.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B05-M06",
-          "sender": "nico",
-          "text": "Una faccia.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B05-M07",
-          "sender": "nico",
-          "text": "O metà faccia.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B05-M08",
-          "sender": "nico",
-          "text": "Mi sono girato perché Tommaso mi stava dicendo dove portare le cassette.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B05-M09",
-          "sender": "nico",
-          "text": "Quando ho guardato di nuovo non c'era più nessuno.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B05-M10",
-          "sender": "nico",
-          "text": "Non è necessariamente strano.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B05-M11",
-          "sender": "nico",
-          "text": "È una casa.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B05-M12",
-          "sender": "nico",
-          "text": "Le persone stanno dentro le case.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S10-B05-M13",
-          "sender": "nico",
-          "text": "Questa difesa mi sembra meno forte mentre la scrivo.",
-          "delayMs": 1000,
+          "text": "Non so perché continuo a guardare.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5341,50 +2926,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S11-B01-M01",
           "sender": "nico",
-          "text": "Mi hanno assegnato un lavoro con Marta.",
+          "text": "Mi hanno messo a lavorare con Marta.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S11-B01-M02",
           "sender": "nico",
-          "text": "Ripeto:",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B01-M03",
-          "sender": "nico",
-          "text": "con Marta.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B01-M04",
-          "sender": "nico",
-          "text": "Stiamo dividendo patate.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B01-M05",
-          "sender": "nico",
-          "text": "Quelle buone da quelle marce.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B01-M06",
-          "sender": "nico",
-          "text": "Non era esattamente lo scenario che avevo immaginato.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B01-M07",
-          "sender": "nico",
-          "text": "Ma lavoro con quello che ho.",
-          "delayMs": 0,
+          "text": "Dividiamo le patate buone da quelle marce. Non era lo scenario che avevo in mente, ma accetto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5398,64 +2948,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S11-B02-M01",
           "sender": "nico",
-          "text": "Mi sta prendendo in giro.",
+          "text": "Mi sta prendendo in giro. \"Allora, da esperto, come valuti il percorso finora?\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S11-B02-M02",
           "sender": "nico",
-          "text": "Ha appena detto:",
-          "delayMs": 1000,
+          "text": "Ho guardato il mucchio davanti a noi. \"Molto patata.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-B02-M03",
           "sender": "nico",
-          "text": "\"Quindi, da esperto, come valuti il percorso finora?\"",
-          "delayMs": 0,
+          "text": "Ha riso. Proprio riso.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-B02-M04",
           "sender": "nico",
-          "text": "Ho detto:",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B02-M05",
-          "sender": "nico",
-          "text": "\"Molto patata.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B02-M06",
-          "sender": "nico",
-          "text": "Ha riso.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B02-M07",
-          "sender": "nico",
-          "text": "Non sorriso.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B02-M08",
-          "sender": "nico",
-          "text": "Riso.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B02-M09",
-          "sender": "nico",
-          "text": "Informazione importante.",
-          "delayMs": 1000,
+          "text": "Sì, lo so che era brutta. Dillo a lei.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5469,43 +2984,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S11-CBACK02-TRUE-M01",
           "sender": "nico",
-          "text": "Poi:",
+          "text": "\"Almeno avevi ammesso di non saperne molto.\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S11-CBACK02-TRUE-M02",
           "sender": "nico",
-          "text": "\"Almeno avevi ammesso di non saperne molto.\"",
-          "delayMs": 0,
+          "text": "\"Non saperne molto non significa non saperne niente.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-CBACK02-TRUE-M03",
           "sender": "nico",
-          "text": "Io:",
-          "delayMs": 1000,
+          "text": "\"Tu sei molto vicino alla seconda.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-CBACK02-TRUE-M04",
           "sender": "nico",
-          "text": "\"Non saperne molto è diverso da non saperne niente.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-CBACK02-TRUE-M05",
-          "sender": "nico",
-          "text": "Lei:",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-CBACK02-TRUE-M06",
-          "sender": "nico",
-          "text": "\"Tu sei molto vicino alla seconda.\"",
-          "delayMs": 0,
+          "text": "Non mi sta concedendo niente.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5519,22 +3020,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S11-CBACK02-FALSE-M01",
           "sender": "nico",
-          "text": "Poi mi ha guardato e ha detto:",
+          "text": "Poi mi ha guardato meglio. \"Tu non sai niente di queste cose, vero?\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S11-CBACK02-FALSE-M02",
           "sender": "nico",
-          "text": "\"Tu non sai niente di queste cose, vero?\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-CBACK02-FALSE-M03",
-          "sender": "nico",
-          "text": "Ho scelto di non rispondere perché il silenzio qui sembra culturalmente appropriato.",
-          "delayMs": 2000,
+          "text": "Mi sono concentrato sulle patate. Il silenzio qui dovrebbe essere apprezzato.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5564,50 +3058,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S11-B03-M01",
           "sender": "nico",
-          "text": "Poi mi ha chiesto:",
+          "text": "Mi ha chiesto perché sono venuto davvero.",
           "delayMs": 3000,
           "delivery": "live"
         },
         {
           "id": "A1-S11-B03-M02",
           "sender": "nico",
-          "text": "\"Ma tu perché sei venuto davvero?\"",
-          "delayMs": 0,
+          "text": "Mi è venuto in mente solo \"perché mi piaci\".",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-B03-M03",
           "sender": "nico",
-          "text": "Domanda semplice.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B03-M04",
-          "sender": "nico",
-          "text": "Situazione non ideale.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B03-M05",
-          "sender": "nico",
-          "text": "Il cervello ha proposto:",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B03-M06",
-          "sender": "nico",
-          "text": "\"Perché mi piaci.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B03-M07",
-          "sender": "nico",
-          "text": "La bocca fortunatamente non collabora ancora in automatico.",
-          "delayMs": 1000,
+          "text": "Non l'ho detto. Ma dovrei rispondere qualcosa prima di finire tutte le patate.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5682,57 +3148,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S11-C05-A-R-M01",
           "sender": "nico",
-          "text": "Ho detto:",
+          "text": "Le ho detto che mi incuriosiva il posto.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S11-C05-A-R-M02",
           "sender": "nico",
-          "text": "\"Mi incuriosiva il posto.\"",
-          "delayMs": 0,
+          "text": "\"Nico, hai cercato millenarismo sul pulmino.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-C05-A-R-M03",
           "sender": "nico",
-          "text": "Lei:",
-          "delayMs": 2000,
+          "text": "Ha sorriso. Deve aver visto lo schermo.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-C05-A-R-M04",
           "sender": "nico",
-          "text": "\"Tu hai cercato millenarismo sul pulmino.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C05-A-R-M05",
-          "sender": "nico",
-          "text": "Non so come lo sappia.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C05-A-R-M06",
-          "sender": "nico",
-          "text": "Forse ha visto lo schermo.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C05-A-R-M07",
-          "sender": "nico",
-          "text": "Forse emano incompetenza.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C05-A-R-M08",
-          "sender": "nico",
-          "text": "Comunque ha sorriso.",
-          "delayMs": 1000,
+          "text": "O l'ignoranza mi si legge in faccia, che è anche possibile.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5746,64 +3184,36 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S11-C05-B-R-M01",
           "sender": "nico",
-          "text": "Ho detto:",
+          "text": "\"Perché me ne avevi parlato tu.\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S11-C05-B-R-M02",
           "sender": "nico",
-          "text": "\"Perché me ne avevi parlato tu.\"",
-          "delayMs": 0,
+          "text": "Per un momento non ha risposto.",
+          "delayMs": 2000,
           "delivery": "live"
         },
         {
           "id": "A1-S11-C05-B-R-M03",
           "sender": "nico",
-          "text": "Silenzio.",
-          "delayMs": 3000,
+          "text": "Poi: \"Non è una risposta molto spirituale.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-C05-B-R-M04",
           "sender": "nico",
-          "text": "Lei:",
-          "delayMs": 1000,
+          "text": "\"Sto crescendo. Dammi tempo.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-C05-B-R-M05",
           "sender": "nico",
-          "text": "\"Questa non è una risposta molto spirituale.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C05-B-R-M06",
-          "sender": "nico",
-          "text": "Io:",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C05-B-R-M07",
-          "sender": "nico",
-          "text": "\"Sto crescendo.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C05-B-R-M08",
-          "sender": "nico",
-          "text": "Ha scosso la testa.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C05-B-R-M09",
-          "sender": "nico",
-          "text": "Ma sorrideva.",
-          "delayMs": 0,
+          "text": "Ha scosso la testa, ma sorrideva.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5817,64 +3227,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S11-C05-C-R-M01",
           "sender": "nico",
-          "text": "Ho detto:",
+          "text": "\"Per le patate, chiaramente. Ho un talento.\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S11-C05-C-R-M02",
           "sender": "nico",
-          "text": "\"Per le patate, chiaramente.\"",
-          "delayMs": 0,
+          "text": "Marta ne ha presa una dal mucchio delle buone e me l'ha messa davanti.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-C05-C-R-M03",
           "sender": "nico",
-          "text": "Lei:",
-          "delayMs": 2000,
+          "text": "\"Questa l'hai scelta tu.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-C05-C-R-M04",
           "sender": "nico",
-          "text": "\"Si vede.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C05-C-R-M05",
-          "sender": "nico",
-          "text": "Io:",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C05-C-R-M06",
-          "sender": "nico",
-          "text": "\"Ho un talento naturale.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C05-C-R-M07",
-          "sender": "nico",
-          "text": "Lei ha sollevato quella che probabilmente era la patata peggiore del tavolo.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C05-C-R-M08",
-          "sender": "nico",
-          "text": "\"Questa l'hai messa tra le buone.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C05-C-R-M09",
-          "sender": "nico",
-          "text": "Non tutto il talento viene capito subito.",
-          "delayMs": 2000,
+          "text": "Era praticamente marcia. Ho dovuto ridimensionare anche quella competenza.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5888,71 +3263,57 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S11-B04-M01",
           "sender": "nico",
-          "text": "Comunque.",
+          "text": "Dopo abbiamo parlato un po'. Di lavoro, della città, di posti dove si mangia male.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S11-B04-M02",
           "sender": "nico",
-          "text": "Per cinque minuti è stata una conversazione normale.",
-          "delayMs": 1000,
+          "text": "È venuta fuori una serie che abbiamo mollato entrambi alla seconda stagione.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-B04-M03",
           "sender": "nico",
-          "text": "Lavoro.",
-          "delayMs": 2000,
+          "text": "Lei: \"Non succedeva più niente.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-B04-M04",
           "sender": "nico",
-          "text": "Città.",
-          "delayMs": 0,
+          "text": "\"Io aspettavo migliorasse.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-B04-M05",
           "sender": "nico",
-          "text": "Posti dove si mangia male.",
-          "delayMs": 0,
+          "text": "\"E hai guardato un'altra stagione?\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-B04-M06",
           "sender": "nico",
-          "text": "Una serie che abbiamo mollato entrambi alla seconda stagione.",
-          "delayMs": 0,
+          "text": "\"Mi affeziono alle decisioni sbagliate.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-B04-M07",
           "sender": "nico",
-          "text": "Niente Aurora.",
-          "delayMs": 2000,
+          "text": "Mi ha guardato un secondo di troppo. Poi siamo tornati alle patate.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-B04-M08",
           "sender": "nico",
-          "text": "Niente Giorno Bianco.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B04-M09",
-          "sender": "nico",
-          "text": "È stato bello.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B04-M10",
-          "sender": "nico",
-          "text": "Non fare quella faccia.",
-          "delayMs": 1000,
+          "text": "Per cinque minuti niente Aurora, niente Giorno Bianco. Mi sarei fermato lì volentieri.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5966,78 +3327,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S11-B05-M01",
           "sender": "nico",
-          "text": "Poi è successa una cosa.",
+          "text": "Quando siamo andati a portare via una cassetta, si è fermata davanti alle foto vicino alla porta.",
           "delayMs": 4000,
           "delivery": "live"
         },
         {
           "id": "A1-S11-B05-M02",
           "sender": "nico",
-          "text": "Siamo andati a portare via una cassetta.",
-          "delayMs": 2000,
+          "text": "Sono vecchie foto della Comunità: raccolti, cene, gruppi di persone.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-B05-M03",
           "sender": "nico",
-          "text": "Sul muro vicino alla porta ci sono vecchie foto della Comunità.",
-          "delayMs": 0,
+          "text": "Marta ne guardava una senza muoversi. Tenevamo ancora la cassetta.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-B05-M04",
           "sender": "nico",
-          "text": "Raccolti.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B05-M05",
-          "sender": "nico",
-          "text": "Cene.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B05-M06",
-          "sender": "nico",
-          "text": "Gruppi di gente.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B05-M07",
-          "sender": "nico",
-          "text": "Marta si è fermata davanti a una.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B05-M08",
-          "sender": "nico",
-          "text": "Proprio fermata.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B05-M09",
-          "sender": "nico",
-          "text": "Come se avesse dimenticato quello che stava facendo.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B05-M10",
-          "sender": "nico",
-          "text": "Io non ho capito cosa stesse guardando.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B05-M11",
-          "sender": "nico",
-          "text": "C'erano parecchie persone nella foto.",
-          "delayMs": 0,
+          "text": "Non capivo chi stesse cercando tra tutte quelle facce.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6122,64 +3434,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S11-C06-A-R-M01",
           "sender": "nico",
-          "text": "Le ho chiesto:",
+          "text": "Le ho chiesto se andasse tutto bene.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S11-C06-A-R-M02",
           "sender": "nico",
-          "text": "\"Tutto bene?\"",
-          "delayMs": 0,
+          "text": "\"Sì.\" Ha riguardato la foto. \"Mi ricordava una persona.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-C06-A-R-M03",
           "sender": "nico",
-          "text": "Ha detto:",
-          "delayMs": 3000,
+          "text": "Ho aspettato che aggiungesse qualcosa. Niente.",
+          "delayMs": 2200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-C06-A-R-M04",
           "sender": "nico",
-          "text": "\"Sì.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C06-A-R-M05",
-          "sender": "nico",
-          "text": "Poi ha guardato di nuovo la foto.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C06-A-R-M06",
-          "sender": "nico",
-          "text": "\"Mi ricordava una persona.\"",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C06-A-R-M07",
-          "sender": "nico",
-          "text": "Ho aspettato.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C06-A-R-M08",
-          "sender": "nico",
-          "text": "Non ha aggiunto niente.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C06-A-R-M09",
-          "sender": "nico",
-          "text": "Quindi non ho chiesto altro.",
-          "delayMs": 1000,
+          "text": "Non me la sono sentita di chiedere altro.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6200,29 +3477,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S11-C06-B-R-M02",
           "sender": "nico",
-          "text": "Dopo qualche secondo ha preso la cassetta e siamo tornati al tavolo.",
-          "delayMs": 3000,
+          "text": "Dopo qualche secondo ha ripreso a camminare e abbiamo portato via la cassetta.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-C06-B-R-M03",
           "sender": "nico",
-          "text": "Non sembrava più rilassata come prima.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C06-B-R-M04",
-          "sender": "nico",
-          "text": "Solo per un attimo.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C06-B-R-M05",
-          "sender": "nico",
-          "text": "Poi di nuovo normale.",
-          "delayMs": 1000,
+          "text": "Sembrava distante. Poi mi ha chiesto una cosa sul lavoro, come se non ci fossimo mai fermati.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6236,64 +3499,36 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S11-C06-C-R-M01",
           "sender": "nico",
-          "text": "Ho aspettato.",
+          "text": "Ho aspettato. È stata lei a parlare.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S11-C06-C-R-M02",
           "sender": "nico",
-          "text": "Alla fine ha detto da sola:",
-          "delayMs": 4000,
+          "text": "\"Mi ricordava una persona.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-C06-C-R-M03",
           "sender": "nico",
-          "text": "\"Mi ricordava una persona.\"",
-          "delayMs": 0,
+          "text": "Le ho chiesto se fosse qualcuno di qui.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-C06-C-R-M04",
           "sender": "nico",
-          "text": "Io:",
-          "delayMs": 3000,
+          "text": "\"Lascia stare.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-C06-C-R-M05",
           "sender": "nico",
-          "text": "\"Una persona di qui?\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C06-C-R-M06",
-          "sender": "nico",
-          "text": "Lei:",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C06-C-R-M07",
-          "sender": "nico",
-          "text": "\"Lascia stare.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C06-C-R-M08",
-          "sender": "nico",
-          "text": "Quindi sì.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-C06-C-R-M09",
-          "sender": "nico",
-          "text": "Argomento chiuso.",
-          "delayMs": 0,
+          "text": "L'ho lasciata stare.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6307,36 +3542,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S11-B06-M01",
           "sender": "nico",
-          "text": "Siamo tornati alle patate.",
+          "text": "Siamo tornati alle patate. Dopo un po' ha ricominciato a prendermi in giro.",
           "delayMs": 3000,
           "delivery": "live"
         },
         {
           "id": "A1-S11-B06-M02",
           "sender": "nico",
-          "text": "Lei ha ricominciato a prendermi in giro quasi subito.",
-          "delayMs": 2000,
+          "text": "Però continuo a ripensare a come guardava quella foto.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S11-B06-M03",
           "sender": "nico",
-          "text": "Però quella cosa della foto...",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B06-M04",
-          "sender": "nico",
-          "text": "non so.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S11-B06-M05",
-          "sender": "nico",
-          "text": "C'è qualcosa che non mi ha raccontato.",
-          "delayMs": 2000,
+          "text": "Ci sono cose di questo posto che non mi ha raccontato.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6364,36 +3585,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S12-B01-M01",
           "sender": "nico",
-          "text": "Altra sessione con Elia.",
+          "text": "Altra sessione con Elia. Stavolta parla del Giorno Bianco.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S12-B01-M02",
           "sender": "nico",
-          "text": "Oggi tema:",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B01-M03",
-          "sender": "nico",
-          "text": "Giorno Bianco.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B01-M04",
-          "sender": "nico",
-          "text": "Forse finalmente scopro cos'è.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B01-M05",
-          "sender": "nico",
-          "text": "No.",
-          "delayMs": 3000,
+          "text": "Vediamo se alla fine so cos'è.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6407,64 +3607,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S12-B02-M01",
           "sender": "nico",
-          "text": "Ha detto:",
+          "text": "Ha detto: \"Essere pronti significa essere pronti a lasciare ciò che pensiamo di possedere.\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S12-B02-M02",
           "sender": "nico",
-          "text": "\"Essere pronti significa essere pronti a lasciare ciò che pensiamo di possedere.\"",
-          "delayMs": 0,
+          "text": "Per spiegarsi ha parlato del lavoro, del ruolo che abbiamo, del bisogno che gli altri ci riconoscano.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S12-B02-M03",
           "sender": "nico",
-          "text": "Poi ha fatto esempi normali.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B02-M04",
-          "sender": "nico",
-          "text": "Ruolo.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B02-M05",
-          "sender": "nico",
-          "text": "Lavoro.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B02-M06",
-          "sender": "nico",
-          "text": "Idea che abbiamo di noi stessi.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B02-M07",
-          "sender": "nico",
-          "text": "Bisogno di essere riconosciuti dagli altri.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B02-M08",
-          "sender": "nico",
-          "text": "Quindi per ora siamo ancora nel territorio:",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B02-M09",
-          "sender": "nico",
-          "text": "metafora spirituale costosa.",
-          "delayMs": 0,
+          "text": "Fin qui mi sembra un discorso sul cambiare vita.",
+          "delayMs": 1800,
           "delivery": "live"
         }
       ],
@@ -6478,43 +3636,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S12-B03-M01",
           "sender": "nico",
-          "text": "Poi:",
+          "text": "Poi però: \"Quando arriva il momento di attraversare, non possiamo portare nulla con noi.\"",
           "delayMs": 3000,
           "delivery": "live"
         },
         {
           "id": "A1-S12-B03-M02",
           "sender": "nico",
-          "text": "\"Quando arriva il momento di attraversare, non possiamo portare nulla con noi.\"",
-          "delayMs": 0,
+          "text": "Subito dopo è tornato ai ricordi e agli attaccamenti.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S12-B03-M03",
           "sender": "nico",
-          "text": "Questa frase mi piace meno.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B03-M04",
-          "sender": "nico",
-          "text": "Subito dopo ha parlato di ricordi e attaccamenti.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B03-M05",
-          "sender": "nico",
-          "text": "Quindi immagino sempre metafora.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B03-M06",
-          "sender": "nico",
-          "text": "Spero.",
-          "delayMs": 2000,
+          "text": "Immagino sia ancora una metafora. Però \"attraversare\" mi è rimasto in testa.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6528,64 +3665,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S12-B04-M01",
           "sender": "nico",
-          "text": "E altra frase:",
+          "text": "Ha detto anche di non avere paura di \"perdere la forma che abbiamo adesso\".",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S12-B04-M02",
           "sender": "nico",
-          "text": "\"Non avere paura di perdere la forma che abbiamo adesso.\"",
-          "delayMs": 0,
+          "text": "Capisco: lasciarti alle spalle la vecchia versione di te, crescere, quelle cose.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S12-B04-M03",
           "sender": "nico",
-          "text": "Ora.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B04-M04",
-          "sender": "nico",
-          "text": "Capisco il concetto.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B04-M05",
-          "sender": "nico",
-          "text": "Vecchia versione di te.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B04-M06",
-          "sender": "nico",
-          "text": "Nuova versione di te.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B04-M07",
-          "sender": "nico",
-          "text": "Crescita.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B04-M08",
-          "sender": "nico",
-          "text": "Trasformazione.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B04-M09",
-          "sender": "nico",
-          "text": "Ma potrebbero anche scegliere parole leggermente meno da testamento.",
-          "delayMs": 2000,
+          "text": "Solo che ogni tanto sembra di ascoltare un testamento.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6599,50 +3694,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S12-B05-M01",
           "sender": "nico",
-          "text": "Comunque c'è un problema più immediato.",
+          "text": "Marta è tre persone più avanti, seduta accanto a uno che non ho ancora visto.",
           "delayMs": 3000,
           "delivery": "live"
         },
         {
           "id": "A1-S12-B05-M02",
           "sender": "nico",
-          "text": "Marta è tre persone più avanti.",
-          "delayMs": 1000,
+          "text": "Ha dei capelli ingiustificabili. Lui, dico.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S12-B05-M03",
           "sender": "nico",
-          "text": "Accanto a uno.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B05-M04",
-          "sender": "nico",
-          "text": "Uno nuovo per me.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B05-M05",
-          "sender": "nico",
-          "text": "Capelli troppo belli.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B05-M06",
-          "sender": "nico",
-          "text": "Non so cosa dobbiamo lasciare nel Giorno Bianco.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B05-M07",
-          "sender": "nico",
-          "text": "Io inizierei da quello seduto vicino a Marta.",
-          "delayMs": 0,
+          "text": "Non so cosa dovremmo lasciare nel Giorno Bianco. Io inizierei da quello seduto vicino a Marta.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6656,36 +3723,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S12-B06-M01",
           "sender": "nico",
-          "text": "Elia ha chiuso dicendo che nessuno deve capire tutto subito.",
+          "text": "Elia ha chiuso dicendo che non dobbiamo capire tutto subito, ma osservare cosa ci fa paura lasciare.",
           "delayMs": 6500,
           "delivery": "live"
         },
         {
           "id": "A1-S12-B06-M02",
           "sender": "nico",
-          "text": "Che il punto è osservare cosa ci fa paura lasciare.",
-          "delayMs": 0,
+          "text": "Io direi la connessione dati.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A1-S12-B06-M03",
           "sender": "nico",
-          "text": "Io ho già una risposta.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B06-M04",
-          "sender": "nico",
-          "text": "La connessione dati.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S12-B06-M05",
-          "sender": "nico",
-          "text": "E apparentemente Marta.",
-          "delayMs": 1000,
+          "text": "E Marta, a quanto pare. Non mi piace quando questi discorsi trovano qualcosa anche su di me.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6719,36 +3772,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S13-B01-M01",
           "sender": "nico",
-          "text": "Piove ancora.",
+          "text": "Piove ancora. Forte abbastanza da far spostare dentro un paio di lavori che dovevamo fare fuori.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S13-B01-M02",
           "sender": "nico",
-          "text": "Non \"piove un po'\".",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S13-B01-M03",
-          "sender": "nico",
-          "text": "Piove da montagna.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S13-B01-M04",
-          "sender": "nico",
-          "text": "Hanno spostato dentro un paio di lavori che dovevamo fare fuori.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S13-B01-M05",
-          "sender": "nico",
-          "text": "A quanto pare anche l'illuminazione spirituale ha dei limiti meteorologici.",
-          "delayMs": 0,
+          "text": "Neanche qui riescono a convincere tutti a bagnarsi per crescere interiormente.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6762,64 +3794,36 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S13-B02-M01",
           "sender": "nico",
-          "text": "Tommaso ha detto che se continua così la strada può diventare fastidiosa.",
+          "text": "Tommaso dice che se continua così la strada può diventare \"fastidiosa\".",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S13-B02-M02",
           "sender": "nico",
-          "text": "Non bloccata.",
-          "delayMs": 2000,
+          "text": "Gli ho chiesto se capita spesso. \"Qui in questo periodo sì.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S13-B02-M03",
           "sender": "nico",
-          "text": "Fastidiosa.",
-          "delayMs": 0,
+          "text": "Uno vicino a lui ha detto che il vecchio ponte è sopravvissuto a cose peggiori.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S13-B02-M04",
           "sender": "nico",
-          "text": "Ho chiesto se capita spesso.",
-          "delayMs": 1000,
+          "text": "Tommaso: \"Non incoraggiarlo.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S13-B02-M05",
           "sender": "nico",
-          "text": "\"Qui in questo periodo sì.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S13-B02-M06",
-          "sender": "nico",
-          "text": "Uno vicino a lui ha detto che il vecchio ponte è sopravvissuto a cose peggiori.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S13-B02-M07",
-          "sender": "nico",
-          "text": "Tommaso ha risposto:",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S13-B02-M08",
-          "sender": "nico",
-          "text": "\"Non incoraggiarlo.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S13-B02-M09",
-          "sender": "nico",
-          "text": "Quindi apparentemente il ponte è anche una battuta ricorrente locale.",
-          "delayMs": 2000,
+          "text": "Hanno riso. Pare sia una battuta abituale, qui. Preferirei avere un ponte di cui non vale la pena parlare.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6833,64 +3837,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S13-B03-M01",
           "sender": "nico",
-          "text": "Ah.",
+          "text": "Intanto questo telefono è passato dal 42 al 19 per cento.",
           "delayMs": 3000,
           "delivery": "live"
         },
         {
           "id": "A1-S13-B03-M02",
           "sender": "nico",
-          "text": "Problema vero.",
-          "delayMs": 0,
+          "text": "Non gradualmente. L'ho guardato e aveva deciso così.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S13-B03-M03",
           "sender": "nico",
-          "text": "Questo telefono ha deciso di morire.",
-          "delayMs": 1000,
+          "text": "Mia madre toglie gli anni con più discrezione.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S13-B03-M04",
           "sender": "nico",
-          "text": "Era al 42.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S13-B03-M05",
-          "sender": "nico",
-          "text": "Adesso è al 19.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S13-B03-M06",
-          "sender": "nico",
-          "text": "Fantastico.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S13-B03-M07",
-          "sender": "nico",
-          "text": "Questo coso passa dal 42 al 19 come mia madre quando racconta quanti anni ha.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S13-B03-M08",
-          "sender": "nico",
-          "text": "Dovrò usarlo meno.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S13-B03-M09",
-          "sender": "nico",
-          "text": "Che è ottimo, visto che è l'unico telefono che ho.",
-          "delayMs": 0,
+          "text": "Devo usarlo meno. È l'unico che mi è rimasto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6941,22 +3910,8 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S14-B01-M02",
           "sender": "nico",
-          "text": "C'è un furgone.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-B01-M03",
-          "sender": "nico",
-          "text": "Sono tipo le due.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-B01-M04",
-          "sender": "nico",
-          "text": "O comunque un'ora in cui nessuno dovrebbe consegnare niente a un ritiro spirituale.",
-          "delayMs": 0,
+          "text": "È arrivato un furgone. Saranno le due.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6970,85 +3925,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S14-B02-M01",
           "sender": "nico",
-          "text": "Mi ha svegliato il motore.",
+          "text": "Mi ha svegliato il motore. Guardo dalla finestra, senza accendere la luce.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S14-B02-M02",
           "sender": "nico",
-          "text": "Sto guardando dalla finestra.",
-          "delayMs": 1000,
+          "text": "Ci sono quattro o cinque persone, vedo Tommaso. Forse anche Elia, ma è troppo buio per esserne sicuro.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S14-B02-M03",
           "sender": "nico",
-          "text": "Luci basse.",
-          "delayMs": 2000,
+          "text": "Stanno scaricando casse. Credo anche taniche.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A1-S14-B02-M04",
           "sender": "nico",
-          "text": "Quattro o cinque persone fuori.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-B02-M05",
-          "sender": "nico",
-          "text": "Tommaso c'è.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-B02-M06",
-          "sender": "nico",
-          "text": "Forse anche Elia.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-B02-M07",
-          "sender": "nico",
-          "text": "Non vedo bene.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-B02-M08",
-          "sender": "nico",
-          "text": "Stanno scaricando roba.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-B02-M09",
-          "sender": "nico",
-          "text": "Casse.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-B02-M10",
-          "sender": "nico",
-          "text": "E credo taniche.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-B02-M11",
-          "sender": "nico",
-          "text": "Non è impossibile che sia normale.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-B02-M12",
-          "sender": "nico",
-          "text": "È solo molto impegnativo farlo sembrare normale alle due di notte.",
-          "delayMs": 0,
+          "text": "Magari la consegna era in ritardo. Però alle due di notte, sotto questa pioggia...",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7135,57 +4034,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S14-C07-A-R-M01",
           "sender": "nico",
-          "text": "Sì.",
+          "text": "Sì, resto qui. Almeno non devo spiegare perché giro in pigiama per il cortile.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S14-C07-A-R-M02",
           "sender": "nico",
-          "text": "Da qui almeno non devo inventare perché sono in cortile in piena notte.",
-          "delayMs": 0,
+          "text": "Vedo tre o quattro taniche scure, delle casse e altra roba che da qui è solo rettangolare.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S14-C07-A-R-M03",
           "sender": "nico",
-          "text": "Vedo casse.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-C07-A-R-M04",
-          "sender": "nico",
-          "text": "Tre o quattro taniche scure.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-C07-A-R-M05",
-          "sender": "nico",
-          "text": "Altro materiale che da qui è solo \"roba rettangolare\".",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-C07-A-R-M06",
-          "sender": "nico",
-          "text": "Stanno portando quasi tutto verso il deposito.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-C07-A-R-M07",
-          "sender": "nico",
-          "text": "Quello che ieri ci hanno detto di non usare.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-C07-A-R-M08",
-          "sender": "nico",
-          "text": "Ottimo.",
-          "delayMs": 2000,
+          "text": "Portano quasi tutto al deposito. Quello dove i nuovi non possono entrare.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7199,43 +4063,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S14-C07-B-R-M01",
           "sender": "nico",
-          "text": "Questa è una pessima idea.",
+          "text": "È una pessima idea.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S14-C07-B-R-M02",
           "sender": "nico",
-          "text": "Vado.",
-          "delayMs": 1000,
+          "text": "Vado. Aspetta che metto via il telefono.",
+          "delayMs": 2000,
           "delivery": "live"
         },
         {
           "id": "A1-S14-C07-B-R-M03",
           "sender": "nico",
-          "text": "Solo per chiarezza:",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-C07-B-R-M04",
-          "sender": "nico",
-          "text": "se mi ammazzano in una setta perché sono uscito in pigiama a guardare delle taniche,",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-C07-B-R-M05",
-          "sender": "nico",
-          "text": "cancella la cronologia del telefono.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-C07-B-R-M06",
-          "sender": "nico",
-          "text": "Soprattutto le ricerche su Marta.",
-          "delayMs": 2000,
+          "text": "Se finisce male, cancella la cronologia. Non voglio che l'ultima cosa che resta di me siano le ricerche su Marta.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7249,36 +4092,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S14-C07-C-R-M01",
           "sender": "nico",
-          "text": "Scelta adulta.",
+          "text": "Hai ragione. Non esco per scoprire che hanno consegnato detersivo.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S14-C07-C-R-M02",
           "sender": "nico",
-          "text": "Inaspettata da parte nostra.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-C07-C-R-M03",
-          "sender": "nico",
-          "text": "Ho comunque visto abbastanza da sapere che è arrivato un furgone pieno di roba.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-C07-C-R-M04",
-          "sender": "nico",
-          "text": "Domani sarà ancora lì.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-C07-C-R-M05",
-          "sender": "nico",
-          "text": "O almeno spero che il concetto di causalità funzioni anche qui.",
-          "delayMs": 0,
+          "text": "Ho visto arrivare il furgone e scaricare la roba. Domani provo a capire qualcosa di più.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7292,22 +4114,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S14-B03-M01",
           "sender": "nico",
-          "text": "Spengo lo schermo.",
+          "text": "Spengo lo schermo. La batteria sta già facendo quello che vuole.",
           "delayMs": 3000,
           "delivery": "live"
         },
         {
           "id": "A1-S14-B03-M02",
           "sender": "nico",
-          "text": "La batteria sta già facendo cose creative.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S14-B03-M03",
-          "sender": "nico",
           "text": "Ti scrivo se succede altro.",
-          "delayMs": 1000,
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7366,50 +4181,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S15-S15-A-M01",
           "sender": "nico",
-          "text": "Ne stanno portando altre.",
+          "text": "Ne stanno portando altre. Taniche, casse e un paio di scatole chiare.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S15-S15-A-M02",
           "sender": "nico",
-          "text": "Taniche senza scritte che riesca a leggere.",
-          "delayMs": 2000,
+          "text": "Non riesco a leggere le scritte. Potrebbe essere materiale medico o attrezzatura da lavoro, da questa distanza non lo distinguo.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S15-S15-A-M03",
           "sender": "nico",
-          "text": "Casse.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-A-M04",
-          "sender": "nico",
-          "text": "Un paio di scatole chiare.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-A-M05",
-          "sender": "nico",
-          "text": "Non capisco se sia roba medica, attrezzatura da lavoro o tutt'altro.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-A-M06",
-          "sender": "nico",
-          "text": "Da qui non si vede abbastanza.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-A-M07",
-          "sender": "nico",
-          "text": "Tutto nel deposito.",
-          "delayMs": 2000,
+          "text": "Finisce tutto nel deposito.",
+          "delayMs": 1800,
           "delivery": "live"
         }
       ],
@@ -7435,148 +4222,64 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S15-S15-B-M01",
           "sender": "nico",
-          "text": "Sono fuori.",
+          "text": "Sono fuori. Da qui vedo meglio, ma non abbastanza da capire cosa sia.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S15-S15-B-M02",
           "sender": "nico",
-          "text": "Vedo meglio.",
-          "delayMs": 2000,
+          "text": "Taniche senza etichette visibili, casse chiuse. Alcune scatole sembrano roba sanitaria, oppure da officina.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S15-S15-B-M03",
           "sender": "nico",
-          "text": "Taniche anonime.",
-          "delayMs": 0,
+          "text": "Merda. Tommaso.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A1-S15-S15-B-M04",
           "sender": "nico",
-          "text": "Casse chiuse.",
+          "text": "Mi ha visto. Metto via.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S15-S15-B-M05",
           "sender": "nico",
-          "text": "Scatole che potrebbero essere materiale sanitario o roba da officina.",
-          "delayMs": 0,
+          "text": "Sono rientrato. Mi ha chiesto se non riuscivo a dormire.",
+          "delayMs": 4500,
           "delivery": "live"
         },
         {
           "id": "A1-S15-S15-B-M06",
           "sender": "nico",
-          "text": "Non c'è niente che dica chiaramente a cosa serve.",
-          "delayMs": 2000,
+          "text": "Gli ho detto che avevo bisogno d'aria. Ero in pigiama sotto la pioggia.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S15-S15-B-M07",
           "sender": "nico",
-          "text": "Che è quasi peggio.",
-          "delayMs": 0,
+          "text": "Ha guardato il cortile, poi me. \"Domattina si comincia presto.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S15-S15-B-M08",
           "sender": "nico",
-          "text": "Merda.",
-          "delayMs": 3000,
+          "text": "Mi ha indicato il dormitorio. Nessun'altra domanda.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S15-S15-B-M09",
           "sender": "nico",
-          "text": "Tommaso.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-B-M10",
-          "sender": "nico",
-          "text": "Mi ha visto.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-B-M11",
-          "sender": "nico",
-          "text": "Ha detto solo:",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-B-M12",
-          "sender": "nico",
-          "text": "\"Non riesci a dormire?\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-B-M13",
-          "sender": "nico",
-          "text": "Io ho detto che avevo bisogno d'aria.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-B-M14",
-          "sender": "nico",
-          "text": "Con la pioggia.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-B-M15",
-          "sender": "nico",
-          "text": "Ottima risposta.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-B-M16",
-          "sender": "nico",
-          "text": "Lui ha guardato il cortile.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-B-M17",
-          "sender": "nico",
-          "text": "Poi me.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-B-M18",
-          "sender": "nico",
-          "text": "\"Domattina si comincia presto.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-B-M19",
-          "sender": "nico",
-          "text": "E mi ha indicato il dormitorio.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-B-M20",
-          "sender": "nico",
-          "text": "Niente minaccia.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-B-M21",
-          "sender": "nico",
-          "text": "Quasi preferivo una minaccia.",
-          "delayMs": 0,
+          "text": "Continuo a chiedermi se abbia creduto alla storia dell'aria.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7607,57 +4310,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S15-S15-C-M01",
           "sender": "nico",
-          "text": "Mattina.",
+          "text": "Buongiorno. Quello che è arrivato stanotte l'hanno messo nel deposito.",
           "delayMs": 12000,
           "delivery": "live"
         },
         {
           "id": "A1-S15-S15-C-M02",
           "sender": "nico",
-          "text": "Conferma che ieri notte non me lo sono inventato.",
-          "delayMs": 1000,
+          "text": "La porta era aperta un momento: ci sono molte più casse di ieri. Ho visto portare dentro anche due taniche, senza etichette visibili.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S15-S15-C-M03",
           "sender": "nico",
-          "text": "Il deposito era aperto per un momento.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-C-M04",
-          "sender": "nico",
-          "text": "Dentro ci sono molte più casse di ieri.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-C-M05",
-          "sender": "nico",
-          "text": "E hanno appena portato dentro due taniche.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-C-M06",
-          "sender": "nico",
-          "text": "Nessuna etichetta visibile.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-C-M07",
-          "sender": "nico",
-          "text": "Quindi ho perso i dettagli.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-S15-C-M08",
-          "sender": "nico",
-          "text": "Non l'esistenza della cosa.",
-          "delayMs": 0,
+          "text": "Non so cosa contenessero. Ma almeno il furgone non me lo sono sognato.",
+          "delayMs": 1800,
           "delivery": "live"
         }
       ],
@@ -7683,50 +4351,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S15-B04-M01",
           "sender": "nico",
-          "text": "Possibilità razionale:",
+          "text": "Potrebbero essere scorte. Carburante, prodotti per gli orti.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S15-B04-M02",
           "sender": "nico",
-          "text": "scorte.",
-          "delayMs": 0,
+          "text": "Magari fanno biodiesel.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S15-B04-M03",
           "sender": "nico",
-          "text": "Carburante.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-B04-M04",
-          "sender": "nico",
-          "text": "Prodotti per gli orti.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-B04-M05",
-          "sender": "nico",
-          "text": "Forse fanno davvero biodiesel.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-B04-M06",
-          "sender": "nico",
-          "text": "Questa spiegazione mi piace.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S15-B04-M07",
-          "sender": "nico",
-          "text": "Quindi per ora è quella ufficiale.",
-          "delayMs": 0,
+          "text": "Mi tengo questa spiegazione finché non ne arriva una migliore.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7765,50 +4405,22 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S16-B01-M01",
           "sender": "nico",
-          "text": "Colazione.",
+          "text": "Colazione. Pane, caffè discutibile, gente che parla dei lavori di oggi.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S16-B01-M02",
           "sender": "nico",
-          "text": "Tutto normalissimo.",
-          "delayMs": 1000,
+          "text": "Nessuno ha nominato il furgone o le taniche.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S16-B01-M03",
           "sender": "nico",
-          "text": "Pane.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B01-M04",
-          "sender": "nico",
-          "text": "Caffè discutibile.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B01-M05",
-          "sender": "nico",
-          "text": "Gente che parla dei lavori di oggi.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B01-M06",
-          "sender": "nico",
-          "text": "Nessuno ha nominato il furgone.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B01-M07",
-          "sender": "nico",
-          "text": "Nessuno ha nominato le taniche.",
-          "delayMs": 0,
+          "text": "Sembra una mattina come tutte le altre.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7829,29 +4441,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S16-CALLBACK-TOMMASO-TRUE-M02",
           "sender": "nico",
-          "text": "Ieri notte mi ha trovato fuori in pigiama davanti a un deposito pieno di taniche.",
-          "delayMs": 2000,
+          "text": "Stanotte mi trova in pigiama davanti al deposito. Stamattina: \"Altro pane?\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S16-CALLBACK-TOMMASO-TRUE-M03",
           "sender": "nico",
-          "text": "Stamattina:",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-CALLBACK-TOMMASO-TRUE-M04",
-          "sender": "nico",
-          "text": "\"Altro pane?\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-CALLBACK-TOMMASO-TRUE-M05",
-          "sender": "nico",
-          "text": "Non so se questa cosa mi tranquillizzi.",
-          "delayMs": 2000,
+          "text": "Ho detto di sì. Cos'altro dovevo dirgli.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7881,43 +4479,36 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S16-B02-M01",
           "sender": "nico",
-          "text": "Ho chiesto a uno se ieri fosse arrivata una consegna.",
+          "text": "Ho chiesto a uno se stanotte fosse arrivata una consegna.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A1-S16-B02-M02",
           "sender": "nico",
-          "text": "Ha detto:",
-          "delayMs": 2000,
+          "text": "\"Scorte.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S16-B02-M03",
           "sender": "nico",
-          "text": "\"Scorte.\"",
-          "delayMs": 0,
+          "text": "\"Di cosa?\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S16-B02-M04",
           "sender": "nico",
-          "text": "Ho chiesto per cosa.",
-          "delayMs": 1000,
+          "text": "\"Le solite cose.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S16-B02-M05",
           "sender": "nico",
-          "text": "\"Le solite cose.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B02-M06",
-          "sender": "nico",
-          "text": "Chiarissimo.",
-          "delayMs": 2000,
+          "text": "Poi ha continuato a mangiare.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7931,29 +4522,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S16-B03-M01",
           "sender": "nico",
-          "text": "Aspetta.",
+          "text": "Aspetta. Davide non c'è.",
           "delayMs": 3000,
           "delivery": "live"
         },
         {
           "id": "A1-S16-B03-M02",
           "sender": "nico",
-          "text": "Davide non c'è.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B03-M03",
-          "sender": "nico",
-          "text": "Ieri era a cena.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B03-M04",
-          "sender": "nico",
-          "text": "Stamattina posto vuoto.",
-          "delayMs": 0,
+          "text": "Ieri era a cena. Stamattina il suo posto è vuoto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7967,15 +4544,8 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S16-CALLBACK-DAVIDE-TRUE-M01",
           "sender": "nico",
-          "text": "Quello che ieri mi ha detto che aveva promesso a sua madre di chiamarla.",
+          "text": "Continuo a pensare a quello che mi ha detto ieri. Aveva promesso a sua madre di chiamarla.",
           "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-CALLBACK-DAVIDE-TRUE-M02",
-          "sender": "nico",
-          "text": "Non è qui.",
-          "delayMs": 1000,
           "delivery": "live"
         }
       ],
@@ -8013,35 +4583,21 @@ window.LUA_CONTENT.act1 = {
           "id": "A1-S16-B04-M02",
           "sender": "nico",
           "text": "\"Ha bisogno di un po' di silenzio.\"",
-          "delayMs": 2000,
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S16-B04-M03",
           "sender": "nico",
-          "text": "Ho guardato fuori.",
-          "delayMs": 3000,
+          "text": "Ho guardato fuori, verso la Casa del Silenzio.",
+          "delayMs": 2500,
           "delivery": "live"
         },
         {
           "id": "A1-S16-B04-M04",
           "sender": "nico",
-          "text": "Verso la Casa del Silenzio.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B04-M05",
-          "sender": "nico",
-          "text": "Ok.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B04-M06",
-          "sender": "nico",
-          "text": "Questa mi piace poco.",
-          "delayMs": 0,
+          "text": "Non ho chiesto altro.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -8062,85 +4618,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S16-B05-M01",
           "sender": "nico",
-          "text": "Altra cosa.",
+          "text": "Marta sta parlando con Elia. Non riesco a sentire.",
           "delayMs": 4000,
           "delivery": "live"
         },
         {
           "id": "A1-S16-B05-M02",
           "sender": "nico",
-          "text": "Marta sta parlando con Elia.",
-          "delayMs": 0,
+          "text": "Lei è tesa, ha le spalle rigide e parla piano. Lui la ascolta, tranquillo come ieri.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S16-B05-M03",
           "sender": "nico",
-          "text": "Non sembra la conversazione di ieri.",
-          "delayMs": 2000,
+          "text": "Elia mi ha visto guardare. Mi ha fatto un piccolo cenno.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S16-B05-M04",
           "sender": "nico",
-          "text": "Lei è tesa.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B05-M05",
-          "sender": "nico",
-          "text": "Spalle rigide.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B05-M06",
-          "sender": "nico",
-          "text": "Parla piano.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B05-M07",
-          "sender": "nico",
-          "text": "Elia no.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B05-M08",
-          "sender": "nico",
-          "text": "Sempre uguale.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B05-M09",
-          "sender": "nico",
-          "text": "Mi ha visto guardare.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B05-M10",
-          "sender": "nico",
-          "text": "Ha fatto solo un piccolo cenno.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B05-M11",
-          "sender": "nico",
-          "text": "Quindi sì.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B05-M12",
-          "sender": "nico",
-          "text": "Mi ha notato.",
-          "delayMs": 0,
+          "text": "Ho abbassato gli occhi sul piatto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -8161,50 +4661,29 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S16-B06-M01",
           "sender": "nico",
-          "text": "È tornata.",
+          "text": "Marta è tornata. Le ho chiesto se fosse tutto a posto.",
           "delayMs": 4000,
           "delivery": "live"
         },
         {
           "id": "A1-S16-B06-M02",
           "sender": "nico",
-          "text": "Le ho chiesto:",
-          "delayMs": 1000,
+          "text": "\"Sì.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S16-B06-M03",
           "sender": "nico",
-          "text": "\"Tutto bene?\"",
-          "delayMs": 0,
+          "text": "Non avevo quasi finito la domanda.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A1-S16-B06-M04",
           "sender": "nico",
-          "text": "\"Sì.\"",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B06-M05",
-          "sender": "nico",
-          "text": "Troppo veloce.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B06-M06",
-          "sender": "nico",
-          "text": "Poi mi ha sorriso.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B06-M07",
-          "sender": "nico",
-          "text": "E se n'è andata.",
-          "delayMs": 0,
+          "text": "Poi mi ha sorriso e se n'è andata.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -8230,22 +4709,15 @@ window.LUA_CONTENT.act1 = {
         {
           "id": "A1-S16-B07-M01",
           "sender": "nico",
-          "text": "Ok.",
+          "text": "Forse questo posto è un po' più strano di quanto pensassi.",
           "delayMs": 4000,
           "delivery": "live"
         },
         {
           "id": "A1-S16-B07-M02",
           "sender": "nico",
-          "text": "Forse questo posto è un po' più strano di quanto pensassi.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A1-S16-B07-M03",
-          "sender": "nico",
           "text": "Comunque Marta mi ha sorriso.",
-          "delayMs": 7000,
+          "delayMs": 3000,
           "delivery": "live"
         }
       ],

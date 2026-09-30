@@ -347,43 +347,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S01-B01-M01",
           "sender": "nico",
-          "text": "Vedo il cancello.",
+          "text": "Vedo il cancello. È ancora aperto.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S01-B01-M02",
           "sender": "nico",
-          "text": "È ancora aperto.",
-          "delayMs": 3000,
+          "text": "Credo che sperassi di trovarlo chiuso. Avrei potuto dirti che ci avevo provato.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S01-B01-M03",
           "sender": "nico",
-          "text": "Non so perché questa cosa mi sorprenda.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S01-B01-M04",
-          "sender": "nico",
-          "text": "Forse perché una parte di me sperava che fosse chiuso.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S01-B01-M05",
-          "sender": "nico",
-          "text": "Così avrei potuto dire:",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S01-B01-M06",
-          "sender": "nico",
-          "text": "\"Ci ho provato.\"",
-          "delayMs": 0,
+          "text": "Invece posso entrare.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -397,36 +376,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S01-B02-M01",
           "sender": "nico",
-          "text": "Non c'è nessuno ad aspettarmi.",
+          "text": "Non c'è nessuno ad aspettarmi. Né Tommaso né Elia.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S01-B02-M02",
           "sender": "nico",
-          "text": "Niente Tommaso.",
-          "delayMs": 2000,
+          "text": "Neanche un comitato per dirmi quanto sono coglione.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S01-B02-M03",
           "sender": "nico",
-          "text": "Niente Elia.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S01-B02-M04",
-          "sender": "nico",
-          "text": "Niente comitato di benvenuto per idioti recidivi.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S01-B02-M05",
-          "sender": "nico",
           "text": "Sto entrando.",
-          "delayMs": 3000,
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -452,36 +417,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S01-B03-M01",
           "sender": "nico",
-          "text": "Sono dentro.",
+          "text": "Sono dentro. Uno mi ha guardato, poi ha ricominciato a spostare sedie.",
           "delayMs": 4000,
           "delivery": "live"
         },
         {
           "id": "A4-S01-B03-M02",
           "sender": "nico",
-          "text": "Questa frase è diventata molto meno rassicurante negli ultimi giorni.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S01-B03-M03",
-          "sender": "nico",
-          "text": "Nessuno mi ferma.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S01-B03-M04",
-          "sender": "nico",
-          "text": "Una persona mi guarda.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S01-B03-M05",
-          "sender": "nico",
-          "text": "Poi torna a spostare sedie.",
-          "delayMs": 0,
+          "text": "Nessuno mi ferma o mi chiede perché sono tornato.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -495,64 +439,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S01-B04-M01",
           "sender": "nico",
-          "text": "Stanno preparando la sala comune.",
+          "text": "Stanno preparando la sala comune. Tavoli, sedie, tovaglie, scatole.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S01-B04-M02",
           "sender": "nico",
-          "text": "Tavoli.",
-          "delayMs": 2000,
+          "text": "Lavorano anche fuori. Ho visto qualcuno portare dei fiori.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S01-B04-M03",
           "sender": "nico",
-          "text": "Sedie.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S01-B04-M04",
-          "sender": "nico",
-          "text": "Tovaglie.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S01-B04-M05",
-          "sender": "nico",
-          "text": "Scatole.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S01-B04-M06",
-          "sender": "nico",
-          "text": "Altri lavorano fuori.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S01-B04-M07",
-          "sender": "nico",
-          "text": "Qualcuno porta fiori.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S01-B04-M08",
-          "sender": "nico",
-          "text": "È tutto molto tranquillo.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S01-B04-M09",
-          "sender": "nico",
-          "text": "Troppo tranquillo.",
-          "delayMs": 2000,
+          "text": "Si muovono tutti tranquilli, come se avessero soltanto un sacco di cose da finire.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -566,36 +468,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S01-B05-M01",
           "sender": "nico",
-          "text": "Credo di aver capito.",
+          "text": "Credo che di me gli importi poco, adesso. Hanno il Giorno Bianco a cui pensare.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S01-B05-M02",
           "sender": "nico",
-          "text": "Non gliene frega quasi niente che sia tornato.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S01-B05-M03",
-          "sender": "nico",
-          "text": "Non nel senso buono.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S01-B05-M04",
-          "sender": "nico",
-          "text": "Il Giorno Bianco è più importante di me.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S01-B05-M05",
-          "sender": "nico",
-          "text": "Finalmente una situazione in cui non essere il centro dell'attenzione mi preoccupa.",
-          "delayMs": 4000,
+          "text": "Non mi era mai dispiaciuto tanto essere ignorato.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -623,71 +504,29 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S02-B01-M01",
           "sender": "nico",
-          "text": "Tommaso.",
+          "text": "Tommaso mi ha visto. \"Hai dimenticato qualcosa?\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S02-B01-M02",
           "sender": "nico",
-          "text": "Mi ha visto.",
-          "delayMs": 2000,
+          "text": "Ho detto di sì.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S02-B01-M03",
           "sender": "nico",
-          "text": "Non sembra sorpreso.",
-          "delayMs": 2000,
+          "text": "\"Marta?\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S02-B01-M04",
           "sender": "nico",
-          "text": "\"Hai dimenticato qualcosa?\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B01-M05",
-          "sender": "nico",
-          "text": "Io:",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B01-M06",
-          "sender": "nico",
-          "text": "\"Sì.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B01-M07",
-          "sender": "nico",
-          "text": "\"Marta?\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B01-M08",
-          "sender": "nico",
-          "text": "Non ho risposto.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B01-M09",
-          "sender": "nico",
-          "text": "Ha annuito.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B01-M10",
-          "sender": "nico",
-          "text": "Odio essere leggibile.",
-          "delayMs": 3000,
+          "text": "Non gli ho risposto. Ha annuito lo stesso.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -701,64 +540,29 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S02-B02-M01",
           "sender": "nico",
-          "text": "\"Prima di rientrare, mi ridai le cose.\"",
+          "text": "Mi ha detto di riconsegnare le cose: telefono principale, documenti, chiavi.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S02-B02-M02",
           "sender": "nico",
-          "text": "Cose.",
-          "delayMs": 3000,
+          "text": "Le stesse che mi aveva restituito per farmi uscire.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S02-B02-M03",
           "sender": "nico",
-          "text": "Telefono principale.",
-          "delayMs": 2000,
+          "text": "Gliele ho date. Non me le ha dovute chiedere due volte.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S02-B02-M04",
           "sender": "nico",
-          "text": "Documenti.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B02-M05",
-          "sender": "nico",
-          "text": "Chiavi.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B02-M06",
-          "sender": "nico",
-          "text": "Gli stessi oggetti che Elia mi ha restituito per permettermi di andarmene.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B02-M07",
-          "sender": "nico",
-          "text": "Sono tornato volontariamente.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B02-M08",
-          "sender": "nico",
-          "text": "E adesso li sto riconsegnando volontariamente.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B02-M09",
-          "sender": "nico",
-          "text": "Voglio che questa parte resti agli atti.",
-          "delayMs": 3000,
+          "text": "Mi fa schifo quanto sia facile riprendere da dove eravamo.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -799,50 +603,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S02-B03-M01",
           "sender": "nico",
-          "text": "Il vecchio telefono è ancora addosso a me.",
+          "text": "Il vecchio telefono è ancora nascosto addosso a me, separato dal resto.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S02-B03-M02",
           "sender": "nico",
-          "text": "Separato.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B03-M03",
-          "sender": "nico",
-          "text": "Nascosto.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B03-M04",
-          "sender": "nico",
-          "text": "Tommaso non lo chiede.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B03-M05",
-          "sender": "nico",
-          "text": "Non mi perquisisce.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B03-M06",
-          "sender": "nico",
-          "text": "Non controlla lo zaino che mi hanno restituito.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B03-M07",
-          "sender": "nico",
-          "text": "Per ora.",
-          "delayMs": 3000,
+          "text": "Tommaso non lo chiede. Non mi perquisisce e non guarda nello zaino che mi hanno dato.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -863,36 +632,29 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S02-B04-M01",
           "sender": "nico",
-          "text": "\"Non posso prometterti che potrai uscire di nuovo.\"",
+          "text": "Poi: \"Non posso prometterti che potrai uscire di nuovo.\"",
           "delayMs": 3000,
           "delivery": "live"
         },
         {
           "id": "A4-S02-B04-M02",
           "sender": "nico",
-          "text": "Ok.",
-          "delayMs": 5000,
+          "text": "Gli ho detto che era molto corretto da parte loro avvisarmi.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S02-B04-M03",
           "sender": "nico",
-          "text": "Molto corretto da parte vostra.",
-          "delayMs": 3000,
+          "text": "\"Cerchiamo di esserlo.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S02-B04-M04",
           "sender": "nico",
-          "text": "\"Cerchiamo di esserlo.\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B04-M05",
-          "sender": "nico",
-          "text": "La normalità di questa conversazione mi sta facendo impazzire.",
-          "delayMs": 5000,
+          "text": "Non credo abbia neanche fatto finta di non capire il tono.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -906,36 +668,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S02-C35-A-R-M01",
           "sender": "nico",
-          "text": "Gli ho detto:",
+          "text": "Gli ho detto: \"Lo so.\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S02-C35-A-R-M02",
           "sender": "nico",
-          "text": "\"Lo so.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-C35-A-R-M03",
-          "sender": "nico",
-          "text": "Tommaso ha annuito.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-C35-A-R-M04",
-          "sender": "nico",
-          "text": "Fine conversazione.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-C35-A-R-M05",
-          "sender": "nico",
-          "text": "Incredibilmente.",
-          "delayMs": 0,
+          "text": "Ha annuito. Non aveva altro da aggiungere.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -949,43 +690,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S02-C35-B-R-M01",
           "sender": "nico",
-          "text": "Gli ho detto:",
+          "text": "Gli ho detto che se Marta viene via, ce ne andiamo.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S02-C35-B-R-M02",
           "sender": "nico",
-          "text": "\"Se Marta viene via, ce ne andiamo.\"",
-          "delayMs": 0,
+          "text": "\"Se Marta vuole andare via, parlerà per sé.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S02-C35-B-R-M03",
           "sender": "nico",
-          "text": "Tommaso:",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-C35-B-R-M04",
-          "sender": "nico",
-          "text": "\"Se Marta vuole andare via, parlerà per sé.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-C35-B-R-M05",
-          "sender": "nico",
-          "text": "Stessa lingua di Elia.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-C35-B-R-M06",
-          "sender": "nico",
-          "text": "Meno filosofia.",
-          "delayMs": 0,
+          "text": "Mi sembra di risentire Elia. Solo più sbrigativo.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -999,43 +719,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S02-C35-C-R-M01",
           "sender": "nico",
-          "text": "Gli ho chiesto:",
+          "text": "Gli ho chiesto se adesso sono un prigioniero.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S02-C35-C-R-M02",
           "sender": "nico",
-          "text": "\"Quindi adesso sono un prigioniero?\"",
-          "delayMs": 0,
+          "text": "\"No. Ti sto dicendo che la situazione è cambiata.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S02-C35-C-R-M03",
           "sender": "nico",
-          "text": "\"No.\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-C35-C-R-M04",
-          "sender": "nico",
-          "text": "\"Ti sto dicendo che la situazione è cambiata.\"",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-C35-C-R-M05",
-          "sender": "nico",
-          "text": "È una risposta molto Tommaso.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-C35-C-R-M06",
-          "sender": "nico",
-          "text": "Non mi aiuta.",
-          "delayMs": 0,
+          "text": "Ho aspettato che spiegasse in che senso. Per lui aveva già spiegato abbastanza.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1049,29 +748,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S02-C35-D-R-M01",
           "sender": "nico",
-          "text": "Non ho discusso.",
+          "text": "Non ho discusso. Gli ho chiesto dov'è Marta.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S02-C35-D-R-M02",
           "sender": "nico",
-          "text": "Gli ho chiesto dov'è Marta.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-C35-D-R-M03",
-          "sender": "nico",
-          "text": "Mi ha indicato gli edifici di lavoro.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-C35-D-R-M04",
-          "sender": "nico",
-          "text": "Niente commenti.",
-          "delayMs": 0,
+          "text": "Mi ha indicato gli edifici di lavoro e mi ha lasciato passare.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1153,57 +838,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S02-B05-M01",
           "sender": "nico",
-          "text": "Quindi ricapitolando.",
+          "text": "Potevo continuare a scendere. Adesso sono di nuovo qui, senza le mie cose, e potrei non poter più uscire.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S02-B05-M02",
           "sender": "nico",
-          "text": "Sono uscito.",
-          "delayMs": 2000,
+          "text": "Lo so. Non serve che me lo scrivi.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A4-S02-B05-M03",
           "sender": "nico",
-          "text": "Potevo continuare.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B05-M04",
-          "sender": "nico",
-          "text": "Sono tornato.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B05-M05",
-          "sender": "nico",
-          "text": "Ho riconsegnato le cose.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B05-M06",
-          "sender": "nico",
-          "text": "E mi hanno appena detto chiaramente che potrei non poter uscire una seconda volta.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B05-M07",
-          "sender": "nico",
-          "text": "Sì.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S02-B05-M08",
-          "sender": "nico",
-          "text": "Sono consapevole di quanto sia intelligente tutto questo.",
-          "delayMs": 0,
+          "text": "Devo trovare Marta.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1231,43 +881,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S03-B01-M01",
           "sender": "nico",
-          "text": "La vedo.",
+          "text": "La vedo. Non si è ancora accorta di me.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S03-B01-M02",
           "sender": "nico",
-          "text": "Marta.",
-          "delayMs": 3000,
+          "text": "Adesso sì.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S03-B01-M03",
           "sender": "nico",
-          "text": "Non mi ha ancora visto.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B01-M04",
-          "sender": "nico",
-          "text": "Ok.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B01-M05",
-          "sender": "nico",
-          "text": "Adesso sì.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B01-M06",
-          "sender": "nico",
-          "text": "Oh no.",
-          "delayMs": 4000,
+          "text": "Non sembra contenta.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1288,43 +917,29 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S03-B02-M02",
           "sender": "nico",
-          "text": "\"Me l'hanno già detto.\"",
-          "delayMs": 3000,
+          "text": "Le ho detto che me l'avevano già fatto notare.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S03-B02-M03",
           "sender": "nico",
-          "text": "\"Dovevi andartene.\"",
-          "delayMs": 3000,
+          "text": "\"Dovevi andartene, Nico. Perché sei tornato?\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S03-B02-M04",
           "sender": "nico",
-          "text": "\"Sì.\"",
-          "delayMs": 3000,
+          "text": "Ho detto: \"Non lo so.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S03-B02-M05",
           "sender": "nico",
-          "text": "\"Perché sei tornato?\"",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B02-M06",
-          "sender": "nico",
-          "text": "...",
-          "delayMs": 5000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B02-M07",
-          "sender": "nico",
-          "text": "\"Non lo so.\"",
-          "delayMs": 4000,
+          "text": "Non mi ha creduto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1338,50 +953,29 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S03-B03-M01",
           "sender": "nico",
-          "text": "È furiosa.",
+          "text": "È furiosa. \"Pensavo fossi fuori. Almeno tu. Adesso devo preoccuparmi di nuovo anche per te.\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S03-B03-M02",
           "sender": "nico",
-          "text": "Davvero.",
-          "delayMs": 2000,
+          "text": "Mi è uscito che detta così sembrava quasi una cosa affettuosa.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S03-B03-M03",
           "sender": "nico",
-          "text": "Dice che pensava fossi salvo.",
-          "delayMs": 2000,
+          "text": "\"Non sto scherzando.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S03-B03-M04",
           "sender": "nico",
-          "text": "Che aveva almeno quello.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B03-M05",
-          "sender": "nico",
-          "text": "Che adesso ha di nuovo anche me da preoccuparsi.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B03-M06",
-          "sender": "nico",
-          "text": "Le ho detto che suona quasi affettuoso.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B03-M07",
-          "sender": "nico",
-          "text": "Non ha apprezzato.",
-          "delayMs": 2000,
+          "text": "Ho smesso anch'io.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1395,57 +989,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S03-B04-M01",
           "sender": "nico",
-          "text": "Le ho detto che Tommaso mi ha avvertito.",
+          "text": "Le ho detto dell'avvertimento di Tommaso. Che potrei non poter uscire una seconda volta.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S03-B04-M02",
           "sender": "nico",
-          "text": "Che potrei non poter uscire di nuovo.",
-          "delayMs": 0,
+          "text": "\"Lo so. Perché cazzo sei tornato?\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S03-B04-M03",
           "sender": "nico",
-          "text": "Marta:",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B04-M04",
-          "sender": "nico",
-          "text": "\"Lo so.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B04-M05",
-          "sender": "nico",
-          "text": "Poi:",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B04-M06",
-          "sender": "nico",
-          "text": "\"Perché cazzo sei tornato?\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B04-M07",
-          "sender": "nico",
-          "text": "Non ho una risposta che posso dirle.",
-          "delayMs": 5000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B04-M08",
-          "sender": "nico",
-          "text": "Non ancora.",
-          "delayMs": 3000,
+          "text": "La risposta ce l'ho. Non riesco ancora a dirgliela.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1459,64 +1018,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S03-B05-M01",
           "sender": "nico",
-          "text": "...",
-          "delayMs": 5000,
+          "text": "Poi mi ha abbracciato.",
+          "delayMs": 3500,
           "delivery": "live"
         },
         {
           "id": "A4-S03-B05-M02",
           "sender": "nico",
-          "text": "Ok.",
-          "delayMs": 3000,
+          "text": "Sono rimasto fermo un momento, prima di abbracciarla anch'io.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S03-B05-M03",
           "sender": "nico",
-          "text": "Mi sta abbracciando.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B05-M04",
-          "sender": "nico",
-          "text": "Marta mi sta abbracciando.",
-          "delayMs": 7000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B05-M05",
-          "sender": "nico",
-          "text": "Non sto facendo niente.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B05-M06",
-          "sender": "nico",
-          "text": "Cioè.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B05-M07",
-          "sender": "nico",
-          "text": "Ricambio.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B05-M08",
-          "sender": "nico",
-          "text": "Ma non sto dicendo niente.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B05-M09",
-          "sender": "nico",
-          "text": "Per una volta.",
-          "delayMs": 4000,
+          "text": "Non ho detto niente. Mi sembrava molto facile rovinare tutto aprendo bocca.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1542,43 +1059,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S03-B06-M01",
           "sender": "nico",
-          "text": "Comunque è successo.",
+          "text": "Lo so che non è il momento di pensare a questo.",
           "delayMs": 12000,
           "delivery": "live"
         },
         {
           "id": "A4-S03-B06-M02",
           "sender": "nico",
-          "text": "Non è il momento.",
-          "delayMs": 3000,
+          "text": "Però mi ha abbracciato.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S03-B06-M03",
           "sender": "nico",
-          "text": "Ma è successo.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B06-M04",
-          "sender": "nico",
-          "text": "E no.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B06-M05",
-          "sender": "nico",
-          "text": "Non dire niente.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S03-B06-M06",
-          "sender": "nico",
-          "text": "Abbiamo problemi leggermente più urgenti.",
-          "delayMs": 3000,
+          "text": "Aspetta a dirmi qualcosa. Credo ci siano altri problemi.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1606,29 +1102,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S04-B01-M01",
           "sender": "nico",
-          "text": "Marta ha detto che c'è un'altra cosa.",
+          "text": "Marta dice che il calendario è cambiato.",
           "delayMs": 4000,
           "delivery": "live"
         },
         {
           "id": "A4-S04-B01-M02",
           "sender": "nico",
-          "text": "Naturalmente.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S04-B01-M03",
-          "sender": "nico",
-          "text": "Perché apparentemente eravamo a corto di problemi.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S04-B01-M04",
-          "sender": "nico",
-          "text": "Il calendario è cambiato.",
-          "delayMs": 3000,
+          "text": "Il Giorno Bianco.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1642,29 +1124,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S04-B02-M01",
           "sender": "nico",
-          "text": "\"Non è più tra dodici giorni.\"",
+          "text": "I dodici giorni annunciati da Elia non contano più. Le ho chiesto quando sarà.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S04-B02-M02",
           "sender": "nico",
-          "text": "Ho chiesto quando.",
-          "delayMs": 4000,
+          "text": "\"Domani mattina.\"",
+          "delayMs": 2200,
           "delivery": "live"
         },
         {
           "id": "A4-S04-B02-M03",
           "sender": "nico",
-          "text": "\"Domani mattina.\"",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S04-B02-M04",
-          "sender": "nico",
-          "text": "Ah.",
-          "delayMs": 7000,
+          "text": "Ho dovuto farmelo ripetere.",
+          "delayMs": 2800,
           "delivery": "live"
         }
       ],
@@ -1678,36 +1153,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S04-B03-M01",
           "sender": "nico",
-          "text": "La cosa fuori.",
+          "text": "La data della catastrofe che Elia aspetta fuori non è cambiata.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S04-B03-M02",
           "sender": "nico",
-          "text": "La catastrofe che Elia pensa stia arrivando.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S04-B03-M03",
-          "sender": "nico",
-          "text": "Quella data non è cambiata.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S04-B03-M04",
-          "sender": "nico",
-          "text": "Ha anticipato solo loro.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S04-B03-M05",
-          "sender": "nico",
-          "text": "Vuole che la Comunità abbia già attraversato quando succederà.",
-          "delayMs": 3000,
+          "text": "Ha anticipato solo l'Attraversamento. Vuole che la Comunità abbia già finito quando succederà.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1733,57 +1187,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S04-B04-M01",
           "sender": "nico",
-          "text": "Marta dice che negli ultimi due giorni Elia ha parlato sempre di più di interferenze.",
+          "text": "Marta dice che negli ultimi due giorni ha parlato sempre più spesso di interferenze.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S04-B04-M02",
           "sender": "nico",
-          "text": "La fuga.",
-          "delayMs": 2000,
+          "text": "Il nostro tentativo di fuga, le domande, le persone che abbiamo avvertito. Anche la pioggia.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S04-B04-M03",
           "sender": "nico",
-          "text": "Le domande.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S04-B04-M04",
-          "sender": "nico",
-          "text": "Quelli che abbiamo avvertito.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S04-B04-M05",
-          "sender": "nico",
-          "text": "Il casino interno.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S04-B04-M06",
-          "sender": "nico",
-          "text": "La pioggia.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S04-B04-M07",
-          "sender": "nico",
-          "text": "Per lui non sono motivi per fermarsi.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S04-B04-M08",
-          "sender": "nico",
-          "text": "Sono conferme.",
-          "delayMs": 2000,
+          "text": "Tutto quello che crea problemi gli conferma che deve andare avanti. Più in fretta.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1797,7 +1216,7 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S04-B05-M01",
           "sender": "nico",
-          "text": "Quindi abbiamo accelerato il suicidio collettivo.",
+          "text": "Le ho chiesto: \"Quindi abbiamo accelerato tutto?\"",
           "delayMs": 3000,
           "delivery": "live"
         },
@@ -1805,35 +1224,21 @@ window.LUA_CONTENT.act4 = {
           "id": "A4-S04-B05-M02",
           "sender": "nico",
           "text": "\"Sì.\"",
-          "delayMs": 4000,
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S04-B05-M03",
           "sender": "nico",
-          "text": "Ottimo contributo.",
-          "delayMs": 4000,
+          "text": "Stavo per fare una battuta sul nostro contributo. Mi è uscita solo metà frase.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S04-B05-M04",
           "sender": "nico",
-          "text": "...",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S04-B05-M05",
-          "sender": "nico",
-          "text": "Scusa.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S04-B05-M06",
-          "sender": "nico",
-          "text": "Non è il momento.",
-          "delayMs": 0,
+          "text": "Domani mattina. Continuo a pensare a quello.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1861,36 +1266,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S05-B01-M01",
           "sender": "nico",
-          "text": "Ho detto che dobbiamo dirlo a tutti.",
+          "text": "Voglio dirlo a tutti, davanti a tutti. Non a tre persone prese da parte.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S05-B01-M02",
           "sender": "nico",
-          "text": "Di nuovo.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B01-M03",
-          "sender": "nico",
-          "text": "Più forte.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B01-M04",
-          "sender": "nico",
-          "text": "Davanti a tutti.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B01-M05",
-          "sender": "nico",
-          "text": "Marta ha detto no.",
-          "delayMs": 3000,
+          "text": "Marta mi ha detto di no.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1911,29 +1295,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S05-B02-M02",
           "sender": "nico",
-          "text": "\"Domani mattina muoiono.\"",
-          "delayMs": 3000,
+          "text": "\"Domani mattina muoiono. È per questo che dobbiamo provarci.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S05-B02-M03",
           "sender": "nico",
-          "text": "\"Lo so.\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B02-M04",
-          "sender": "nico",
-          "text": "\"È proprio il motivo per cui dobbiamo provarci.\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B02-M05",
-          "sender": "nico",
-          "text": "\"Abbiamo già provato.\"",
-          "delayMs": 4000,
+          "text": "\"Abbiamo già provato, Nico. Hai visto cos'è successo.\"",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -1947,50 +1317,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S05-B03-M01",
           "sender": "nico",
-          "text": "E ha ragione.",
+          "text": "Alcuni sanno e vogliono restare. Altri non ci credono, altri vanno a raccontarlo a Tommaso.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S05-B03-M02",
           "sender": "nico",
-          "text": "Alcuni sanno.",
-          "delayMs": 2000,
+          "text": "E quelli che non sanno abbastanza? Non abbiamo ore per cercarli uno per uno.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S05-B03-M03",
           "sender": "nico",
-          "text": "Alcuni vogliono restare.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B03-M04",
-          "sender": "nico",
-          "text": "Alcuni non ci credono.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B03-M05",
-          "sender": "nico",
-          "text": "Alcuni ci denunciano.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B03-M06",
-          "sender": "nico",
-          "text": "Alcuni non sanno abbastanza e non abbiamo più ore per trovarli uno per uno.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B03-M07",
-          "sender": "nico",
-          "text": "Odio questa lista.",
-          "delayMs": 4000,
+          "text": "Non sopporto di dover fare questo conto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2004,50 +1346,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S05-B04-M01",
           "sender": "nico",
-          "text": "Le ho chiesto:",
+          "text": "Le ho chiesto cosa dobbiamo fare, allora.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S05-B04-M02",
           "sender": "nico",
-          "text": "\"Quindi cosa facciamo?\"",
-          "delayMs": 0,
+          "text": "\"Usciamo.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S05-B04-M03",
           "sender": "nico",
-          "text": "\"Usciamo.\"",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B04-M04",
-          "sender": "nico",
-          "text": "...",
-          "delayMs": 5000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B04-M05",
-          "sender": "nico",
-          "text": "Scusa.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B04-M06",
-          "sender": "nico",
-          "text": "Chi sei e cosa hai fatto a Marta?",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B04-M07",
-          "sender": "nico",
-          "text": "Non ha riso.",
-          "delayMs": 2000,
+          "text": "L'ho guardata. È stata lei a ripeterlo: \"Dobbiamo uscire.\"",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2061,57 +1375,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S05-B05-M01",
           "sender": "nico",
-          "text": "Per giorni ero io quello che voleva andarsene.",
+          "text": "Per giorni ho cercato di convincerla ad andarsene. Adesso è pronta e io continuo a guardare le persone.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S05-B05-M02",
           "sender": "nico",
-          "text": "Lei voleva restare.",
-          "delayMs": 2000,
+          "text": "Davide. Lea. Quelli con cui non abbiamo neanche parlato.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A4-S05-B05-M03",
           "sender": "nico",
-          "text": "Adesso lei è pronta.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B05-M04",
-          "sender": "nico",
-          "text": "E io continuo a guardare la gente.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B05-M05",
-          "sender": "nico",
-          "text": "Davide.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B05-M06",
-          "sender": "nico",
-          "text": "Lea.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B05-M07",
-          "sender": "nico",
-          "text": "Quelli che non sanno.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B05-M08",
-          "sender": "nico",
-          "text": "Questa cosa non è ideale.",
-          "delayMs": 4000,
+          "text": "Vorrei riuscire a pensare soltanto a noi due.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2125,57 +1404,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S05-C36-A-R-M01",
           "sender": "nico",
-          "text": "Sì.",
+          "text": "Sì. Prepariamo il necessario: acqua, torcia, vestiti, qualcosa per orientarci. Il telefono.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S05-C36-A-R-M02",
           "sender": "nico",
-          "text": "Telefono.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-C36-A-R-M03",
-          "sender": "nico",
-          "text": "Acqua.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-C36-A-R-M04",
-          "sender": "nico",
-          "text": "Torcia.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-C36-A-R-M05",
-          "sender": "nico",
-          "text": "Vestiti.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-C36-A-R-M06",
-          "sender": "nico",
-          "text": "Qualcosa per orientarci.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-C36-A-R-M07",
-          "sender": "nico",
-          "text": "Poi bosco.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-C36-A-R-M08",
-          "sender": "nico",
-          "text": "Niente cancello stavolta.",
-          "delayMs": 2000,
+          "text": "Poi bosco. Al cancello non ci riproviamo.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2189,36 +1426,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S05-C36-B-R-M01",
           "sender": "nico",
-          "text": "Davide e Lea.",
+          "text": "Parlo con Davide e Lea, poi basta.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S05-C36-B-R-M02",
           "sender": "nico",
-          "text": "Solo loro.",
-          "delayMs": 2000,
+          "text": "Sono le due persone che posso ancora avvicinare senza mettermi a gridare in mezzo alla sala.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S05-C36-B-R-M03",
           "sender": "nico",
-          "text": "Non perché valgano più degli altri.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-C36-B-R-M04",
-          "sender": "nico",
-          "text": "Perché sono le due persone con cui posso ancora parlare senza gridare in mezzo alla sala.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-C36-B-R-M05",
-          "sender": "nico",
-          "text": "Poi basta.",
-          "delayMs": 3000,
+          "text": "Provo con loro.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2232,43 +1455,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S05-C36-C-R-M01",
           "sender": "nico",
-          "text": "Una persona.",
+          "text": "Le ho chiesto di provare ancora con una persona che non sa.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S05-C36-C-R-M02",
           "sender": "nico",
-          "text": "Una sola.",
-          "delayMs": 2000,
+          "text": "Stava per dirmi di no. Poi: \"Una, Nico.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S05-C36-C-R-M03",
           "sender": "nico",
-          "text": "Marta mi ha guardato come se volesse dire no.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-C36-C-R-M04",
-          "sender": "nico",
-          "text": "Poi:",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-C36-C-R-M05",
-          "sender": "nico",
-          "text": "\"Una.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-C36-C-R-M06",
-          "sender": "nico",
-          "text": "È il massimo che ottengo.",
-          "delayMs": 3000,
+          "text": "Va bene. Una.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2282,36 +1484,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S05-C36-D-R-M01",
           "sender": "nico",
-          "text": "Prove.",
+          "text": "Ci concentriamo sulle prove che possiamo ancora portare via senza farci vedere.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S05-C36-D-R-M02",
           "sender": "nico",
-          "text": "Quelle che sono rimaste.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-C36-D-R-M03",
-          "sender": "nico",
-          "text": "Quelle che possiamo portare senza farci vedere.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-C36-D-R-M04",
-          "sender": "nico",
-          "text": "Marta annuisce.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-C36-D-R-M05",
-          "sender": "nico",
-          "text": "Questa è finalmente una lingua che parliamo entrambi.",
-          "delayMs": 0,
+          "text": "Marta ha annuito. Almeno su questo siamo d'accordo.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2388,85 +1569,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S05-B06-M01",
           "sender": "nico",
-          "text": "Comunque il piano è questo.",
+          "text": "Prepariamo acqua, vestiti più pesanti, torcia e qualcosa per orientarci. Il vecchio telefono resta con me.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S05-B06-M02",
           "sender": "nico",
-          "text": "Recuperare:",
-          "delayMs": 2000,
+          "text": "Se possiamo portare anche delle prove, le portiamo.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A4-S05-B06-M03",
           "sender": "nico",
-          "text": "telefono.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B06-M04",
-          "sender": "nico",
-          "text": "Qualche prova, se possiamo.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B06-M05",
-          "sender": "nico",
-          "text": "Vestiti.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B06-M06",
-          "sender": "nico",
-          "text": "Acqua.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B06-M07",
-          "sender": "nico",
-          "text": "Torcia.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B06-M08",
-          "sender": "nico",
-          "text": "Qualcosa per orientarci.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B06-M09",
-          "sender": "nico",
-          "text": "Poi bosco.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B06-M10",
-          "sender": "nico",
-          "text": "Non strada.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B06-M11",
-          "sender": "nico",
-          "text": "Non cancello.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S05-B06-M12",
-          "sender": "nico",
-          "text": "Bosco.",
-          "delayMs": 3000,
+          "text": "Poi usciamo passando dal bosco. Niente strada e niente cancello, stavolta.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2506,36 +1624,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S06-B01-M01",
           "sender": "nico",
-          "text": "Davide mi ha visto preparare roba.",
+          "text": "Davide mi ha visto preparare le cose.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S06-B01-M02",
           "sender": "nico",
-          "text": "Non abbastanza da sapere tutto.",
-          "delayMs": 2000,
+          "text": "\"Ve ne andate.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S06-B01-M03",
           "sender": "nico",
-          "text": "Abbastanza.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-B01-M04",
-          "sender": "nico",
-          "text": "\"Ve ne andate.\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-B01-M05",
-          "sender": "nico",
-          "text": "Non era una domanda.",
-          "delayMs": 4000,
+          "text": "Non ho neanche provato a negare.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2549,57 +1653,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S06-B02-M01",
           "sender": "nico",
-          "text": "\"Perché?\"",
+          "text": "Mi ha chiesto perché. Per un momento ho pensato che non sapesse ancora.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S06-B02-M02",
           "sender": "nico",
-          "text": "Per un secondo ho pensato che non sapesse.",
-          "delayMs": 3000,
+          "text": "Gli ho detto chiaramente che domani la gente morirà. Niente attraversare, niente metafore.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S06-B02-M03",
           "sender": "nico",
-          "text": "Quindi gliel'ho detto.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-B02-M04",
-          "sender": "nico",
-          "text": "Senza metafore.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-B02-M05",
-          "sender": "nico",
-          "text": "Senza attraversare.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-B02-M06",
-          "sender": "nico",
-          "text": "Domani la gente morirà.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-B02-M07",
-          "sender": "nico",
-          "text": "Davide:",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-B02-M08",
-          "sender": "nico",
           "text": "\"Lo so.\"",
-          "delayMs": 0,
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2613,7 +1682,7 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S06-B03-M01",
           "sender": "nico",
-          "text": "\"Allora vieni con noi.\"",
+          "text": "Gli ho detto di venire con noi.",
           "delayMs": 0,
           "delivery": "live"
         },
@@ -2621,28 +1690,14 @@ window.LUA_CONTENT.act4 = {
           "id": "A4-S06-B03-M02",
           "sender": "nico",
           "text": "\"No.\"",
-          "delayMs": 4000,
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S06-B03-M03",
           "sender": "nico",
-          "text": "No semplice.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-B03-M04",
-          "sender": "nico",
-          "text": "Come nel Giorno 5.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-B03-M05",
-          "sender": "nico",
-          "text": "Solo che adesso sappiamo entrambi cosa significa.",
-          "delayMs": 2000,
+          "text": "Come quando gli ho chiesto se voleva andarsene. Ma adesso sappiamo tutti e due di cosa stiamo parlando.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2656,57 +1711,36 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S06-C37-A-R-M01",
           "sender": "nico",
-          "text": "Gli ho detto:",
+          "text": "Gli ho detto che ha paura.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S06-C37-A-R-M02",
           "sender": "nico",
-          "text": "\"Hai paura.\"",
-          "delayMs": 0,
+          "text": "\"Sì. Tantissima.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S06-C37-A-R-M03",
           "sender": "nico",
-          "text": "\"Sì.\"",
-          "delayMs": 3000,
+          "text": "\"Non devi dimostrare niente a nessuno.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S06-C37-A-R-M04",
           "sender": "nico",
-          "text": "\"Tantissima.\"",
-          "delayMs": 3000,
+          "text": "\"Non sto dimostrando niente.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S06-C37-A-R-M05",
           "sender": "nico",
-          "text": "Niente esitazione.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-C37-A-R-M06",
-          "sender": "nico",
-          "text": "Niente vergogna.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-C37-A-R-M07",
-          "sender": "nico",
-          "text": "Gli ho detto che non deve dimostrare niente.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-C37-A-R-M08",
-          "sender": "nico",
-          "text": "\"Non sto dimostrando niente.\"",
-          "delayMs": 3000,
+          "text": "Non cercava di sembrare coraggioso. Non sapevo a cosa aggrapparmi.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2720,36 +1754,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S06-C37-B-R-M01",
           "sender": "nico",
-          "text": "Gli ho detto di pensare a sua madre.",
+          "text": "Gli ho detto di pensare a sua madre. Gli è cambiata la faccia.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S06-C37-B-R-M02",
           "sender": "nico",
-          "text": "Questa gli ha fatto male.",
-          "delayMs": 4000,
+          "text": "\"Ci penso. È proprio per questo che non voglio chiamarla.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S06-C37-B-R-M03",
           "sender": "nico",
-          "text": "\"Ci penso.\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-C37-B-R-M04",
-          "sender": "nico",
-          "text": "\"È proprio per questo che non voglio chiamarla.\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-C37-B-R-M05",
-          "sender": "nico",
-          "text": "Non so cosa rispondere senza diventare crudele.",
-          "delayMs": 3000,
+          "text": "Mi sono fermato. Sentivo che stavo per dirgli una cosa solo per fargli male.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2763,43 +1783,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S06-C37-C-R-M01",
           "sender": "nico",
-          "text": "Gli ho detto:",
+          "text": "Gli ho detto: \"Se resti, muori.\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S06-C37-C-R-M02",
           "sender": "nico",
-          "text": "\"Se resti, muori.\"",
-          "delayMs": 0,
+          "text": "\"Lo so.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S06-C37-C-R-M03",
           "sender": "nico",
-          "text": "Davide:",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-C37-C-R-M04",
-          "sender": "nico",
-          "text": "\"Lo so.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-C37-C-R-M05",
-          "sender": "nico",
-          "text": "Di nuovo.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-C37-C-R-M06",
-          "sender": "nico",
-          "text": "Non posso più usare l'informazione come se fosse nuova.",
-          "delayMs": 2000,
+          "text": "Continuo a ripeterglielo come se prima o poi quelle parole dovessero fargli un effetto diverso.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2813,36 +1812,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S06-C37-D-R-M01",
           "sender": "nico",
-          "text": "Gli ho detto solo:",
+          "text": "Gli ho detto soltanto che c'è posto con noi.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S06-C37-D-R-M02",
           "sender": "nico",
-          "text": "\"C'è posto con noi.\"",
-          "delayMs": 0,
+          "text": "\"Nessuno ti chiede niente. Vieni.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S06-C37-D-R-M03",
           "sender": "nico",
-          "text": "\"Nessuno ti chiede niente.\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-C37-D-R-M04",
-          "sender": "nico",
-          "text": "\"Vieni.\"",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-C37-D-R-M05",
-          "sender": "nico",
           "text": "Ha scosso la testa.",
-          "delayMs": 4000,
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -2929,92 +1914,36 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S06-B04-M01",
           "sender": "nico",
-          "text": "Gli ho chiesto cosa pensa di trovare se scappa.",
+          "text": "Gli ho chiesto cosa pensa di trovare fuori.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S06-B04-M02",
           "sender": "nico",
-          "text": "Ha detto:",
-          "delayMs": 3000,
+          "text": "\"La stessa vita.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S06-B04-M03",
           "sender": "nico",
-          "text": "\"La stessa vita.\"",
-          "delayMs": 0,
+          "text": "L'ansia, una casa dove non si sentiva a casa, le telefonate che rimandava. Giorni sempre uguali.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S06-B04-M04",
           "sender": "nico",
-          "text": "Quella di prima.",
-          "delayMs": 3000,
+          "text": "\"Quella mi sembrava già morire.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S06-B04-M05",
           "sender": "nico",
-          "text": "Ansia.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-B04-M06",
-          "sender": "nico",
-          "text": "Casa senza sentirsi a casa.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-B04-M07",
-          "sender": "nico",
-          "text": "Telefonate che rimandava.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-B04-M08",
-          "sender": "nico",
-          "text": "Giorni tutti uguali.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-B04-M09",
-          "sender": "nico",
-          "text": "Poi:",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-B04-M10",
-          "sender": "nico",
-          "text": "\"Quella mi sembrava già morire.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-B04-M11",
-          "sender": "nico",
-          "text": "Questa frase è sbagliata.",
-          "delayMs": 5000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-B04-M12",
-          "sender": "nico",
-          "text": "Lo so che è sbagliata.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-B04-M13",
-          "sender": "nico",
-          "text": "E non ho niente che riesca a dirgli in tempo.",
-          "delayMs": 3000,
+          "text": "Vorrei fargli vedere che può esserci anche altro. Ma non so come farlo qui, adesso, mentre aspetta che lo lasci andare.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3028,36 +1957,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S06-B05-M01",
           "sender": "nico",
-          "text": "\"Spero che tu riesca ad andare via.\"",
+          "text": "Mi ha detto: \"Spero che tu riesca ad andare via.\"",
           "delayMs": 4000,
           "delivery": "live"
         },
         {
           "id": "A4-S06-B05-M02",
           "sender": "nico",
-          "text": "\"Vieni.\"",
-          "delayMs": 5000,
+          "text": "Gli ho chiesto ancora di venire.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S06-B05-M03",
           "sender": "nico",
-          "text": "\"No.\"",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-B05-M04",
-          "sender": "nico",
-          "text": "...",
-          "delayMs": 5000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S06-B05-M05",
-          "sender": "nico",
-          "text": "Ok.",
-          "delayMs": 3000,
+          "text": "Ha detto di no.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3092,57 +2007,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S07-B01-M01",
           "sender": "nico",
-          "text": "Lea sta apparecchiando.",
+          "text": "Lea sta apparecchiando. Piatti e bicchieri sui tavoli lunghi, tovaglie chiare, fiori.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S07-B01-M02",
           "sender": "nico",
-          "text": "Tavoli lunghi.",
-          "delayMs": 2000,
+          "text": "La prima cosa che mi è venuta in mente è stata un matrimonio.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S07-B01-M03",
           "sender": "nico",
-          "text": "Piatti.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-B01-M04",
-          "sender": "nico",
-          "text": "Bicchieri.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-B01-M05",
-          "sender": "nico",
-          "text": "Tovaglie chiare.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-B01-M06",
-          "sender": "nico",
-          "text": "Fiori.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-B01-M07",
-          "sender": "nico",
-          "text": "Sembra un matrimonio.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-B01-M08",
-          "sender": "nico",
-          "text": "Non voglio finire quella frase.",
-          "delayMs": 3000,
+          "text": "Non riesco a togliermela dalla testa.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3156,57 +2036,29 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S07-B02-M01",
           "sender": "nico",
-          "text": "Le ho detto:",
+          "text": "Le ho chiesto di venire con noi.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S07-B02-M02",
           "sender": "nico",
-          "text": "\"Vieni con noi.\"",
-          "delayMs": 0,
+          "text": "Ha sorriso. \"Grazie.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S07-B02-M03",
           "sender": "nico",
-          "text": "Ancora.",
-          "delayMs": 3000,
+          "text": "\"Te lo sto chiedendo davvero.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S07-B02-M04",
           "sender": "nico",
-          "text": "Una volta sola.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-B02-M05",
-          "sender": "nico",
-          "text": "Lea ha sorriso.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-B02-M06",
-          "sender": "nico",
-          "text": "\"Grazie.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-B02-M07",
-          "sender": "nico",
-          "text": "\"Non era un complimento.\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-B02-M08",
-          "sender": "nico",
           "text": "\"Lo so.\"",
-          "delayMs": 2000,
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3220,50 +2072,29 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S07-C38-A-R-M01",
           "sender": "nico",
-          "text": "Le ho chiesto:",
+          "text": "Le ho chiesto se ha ancora paura.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S07-C38-A-R-M02",
           "sender": "nico",
-          "text": "\"Hai ancora paura?\"",
-          "delayMs": 0,
+          "text": "\"Sì.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S07-C38-A-R-M03",
           "sender": "nico",
-          "text": "\"Sì.\"",
-          "delayMs": 4000,
+          "text": "\"Allora vieni via.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S07-C38-A-R-M04",
           "sender": "nico",
-          "text": "Nessuna esitazione.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-C38-A-R-M05",
-          "sender": "nico",
-          "text": "Come l'altra volta.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-C38-A-R-M06",
-          "sender": "nico",
-          "text": "\"Allora vieni.\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-C38-A-R-M07",
-          "sender": "nico",
-          "text": "Ha scosso la testa.",
-          "delayMs": 3000,
+          "text": "Ha scosso la testa. Mi sembrava una frase così semplice, mentre la dicevo.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3277,57 +2108,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S07-C38-B-R-M01",
           "sender": "nico",
-          "text": "Le ho ricordato quello che mi aveva raccontato.",
+          "text": "Le ho ricordato quello che mi aveva raccontato. Il lavoro, il compagno, la famiglia.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S07-C38-B-R-M02",
           "sender": "nico",
-          "text": "Lavoro.",
-          "delayMs": 0,
+          "text": "\"Lo so cosa c'è fuori, Nico.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S07-C38-B-R-M03",
           "sender": "nico",
-          "text": "Compagno.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-C38-B-R-M04",
-          "sender": "nico",
-          "text": "Famiglia.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-C38-B-R-M05",
-          "sender": "nico",
-          "text": "Lea:",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-C38-B-R-M06",
-          "sender": "nico",
-          "text": "\"Lo so cosa c'è fuori.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-C38-B-R-M07",
-          "sender": "nico",
-          "text": "È proprio il punto.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-C38-B-R-M08",
-          "sender": "nico",
-          "text": "Non lo sta idealizzando.",
-          "delayMs": 0,
+          "text": "Non avevo trovato qualcosa che avesse dimenticato.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3341,50 +2137,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S07-C38-C-R-M01",
           "sender": "nico",
-          "text": "Le ho detto:",
+          "text": "Le ho detto che può cambiare idea. Anche domani, anche all'ultimo secondo.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S07-C38-C-R-M02",
           "sender": "nico",
-          "text": "\"Puoi cambiare idea.\"",
-          "delayMs": 0,
+          "text": "\"Lo so.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S07-C38-C-R-M03",
           "sender": "nico",
-          "text": "\"Anche domani.\"",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-C38-C-R-M04",
-          "sender": "nico",
-          "text": "\"Anche all'ultimo secondo.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-C38-C-R-M05",
-          "sender": "nico",
-          "text": "Lea mi ha guardato.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-C38-C-R-M06",
-          "sender": "nico",
-          "text": "\"Lo so.\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-C38-C-R-M07",
-          "sender": "nico",
-          "text": "Questa volta odio quella frase.",
-          "delayMs": 3000,
+          "text": "Mi ha guardato mentre lo diceva. Avrei voluto crederci quanto lei.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3398,29 +2166,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S07-C38-D-R-M01",
           "sender": "nico",
-          "text": "Non ho detto altro.",
+          "text": "Non ho detto altro. Le ho passato due bicchieri e l'ho aiutata a sistemarli.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S07-C38-D-R-M02",
           "sender": "nico",
-          "text": "L'ho aiutata a mettere due bicchieri.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-C38-D-R-M03",
-          "sender": "nico",
-          "text": "Non so perché.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-C38-D-R-M04",
-          "sender": "nico",
-          "text": "Forse perché non avevo più argomenti.",
-          "delayMs": 0,
+          "text": "Non sapevo più cosa dire, ma non riuscivo ad andarmene subito.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3507,50 +2261,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S07-B03-M01",
           "sender": "nico",
-          "text": "Le trema una mano.",
+          "text": "Le trema una mano. Quando appoggia un bicchiere lo urta e deve riprenderlo.",
           "delayMs": 3000,
           "delivery": "live"
         },
         {
           "id": "A4-S07-B03-M02",
           "sender": "nico",
-          "text": "Poco.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-B03-M03",
-          "sender": "nico",
-          "text": "Ma la vedo.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-B03-M04",
-          "sender": "nico",
-          "text": "Quando appoggia un bicchiere deve riprenderlo perché tocca male il tavolo.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-B03-M05",
-          "sender": "nico",
-          "text": "Ha paura.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-B03-M06",
-          "sender": "nico",
-          "text": "Non in teoria.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-B03-M07",
-          "sender": "nico",
-          "text": "Adesso.",
-          "delayMs": 0,
+          "text": "Aspetto che lo metta giù. Faccio finta di non aver visto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3564,57 +2283,29 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S07-B04-M01",
           "sender": "nico",
-          "text": "Le ho chiesto ancora:",
+          "text": "Alla fine le ho chiesto ancora: \"Sei sicura?\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S07-B04-M02",
           "sender": "nico",
-          "text": "\"Sei sicura?\"",
-          "delayMs": 0,
+          "text": "\"No.\"",
+          "delayMs": 2200,
           "delivery": "live"
         },
         {
           "id": "A4-S07-B04-M03",
           "sender": "nico",
-          "text": "Lea:",
-          "delayMs": 4000,
+          "text": "Poi: \"Ma resto.\"",
+          "delayMs": 2500,
           "delivery": "live"
         },
         {
           "id": "A4-S07-B04-M04",
           "sender": "nico",
-          "text": "\"No.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-B04-M05",
-          "sender": "nico",
-          "text": "Poi:",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-B04-M06",
-          "sender": "nico",
-          "text": "\"Ma resto.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-B04-M07",
-          "sender": "nico",
-          "text": "Non so cosa farmene.",
-          "delayMs": 5000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S07-B04-M08",
-          "sender": "nico",
-          "text": "Non so cosa si dovrebbe dire a una persona che ha paura, non è sicura, e resta lo stesso.",
-          "delayMs": 3000,
+          "text": "Sono rimasto lì. Tutte le risposte che avevo preparato partivano dal fatto che lei fosse sicura.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3649,43 +2340,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S08-B01-M01",
           "sender": "nico",
-          "text": "Non possiamo muoverci ancora.",
+          "text": "Non riusciamo ancora a muoverci. C'è gente sveglia dappertutto, continuano a passare.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B01-M02",
           "sender": "nico",
-          "text": "Troppa gente sveglia.",
-          "delayMs": 2000,
+          "text": "Aspettiamo da ore. Ogni volta che penso al mattino mi viene voglia di alzarmi.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B01-M03",
           "sender": "nico",
-          "text": "Troppo movimento.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B01-M04",
-          "sender": "nico",
-          "text": "Quindi aspettiamo.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B01-M05",
-          "sender": "nico",
-          "text": "Per ore.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B01-M06",
-          "sender": "nico",
-          "text": "Che è una cosa molto strana da fare quando sai che domani mattina potrebbe morire un'intera comunità.",
-          "delayMs": 2000,
+          "text": "Poi sentiamo qualcuno fuori e restiamo qui.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3699,57 +2369,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S08-B02-M01",
           "sender": "nico",
-          "text": "Abbiamo il minimo.",
+          "text": "Abbiamo acqua, torcia, vestiti più pesanti e qualcosa per orientarci. Il minimo.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B02-M02",
           "sender": "nico",
-          "text": "Acqua.",
-          "delayMs": 2000,
+          "text": "Il vecchio telefono è con me. Non l'ho mai perso.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B02-M03",
           "sender": "nico",
-          "text": "Torcia.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B02-M04",
-          "sender": "nico",
-          "text": "Vestiti più pesanti.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B02-M05",
-          "sender": "nico",
-          "text": "Qualcosa per orientarci.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B02-M06",
-          "sender": "nico",
-          "text": "Il vecchio telefono.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B02-M07",
-          "sender": "nico",
-          "text": "Quello non l'ho mai perso.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B02-M08",
-          "sender": "nico",
-          "text": "Se esiste qualcosa delle prove che possiamo portare senza farci vedere, è già con noi.",
-          "delayMs": 2000,
+          "text": "Quello che possiamo portare delle prove senza farci notare è già con noi.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3770,64 +2405,57 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S08-B03-M01",
           "sender": "nico",
-          "text": "Abbiamo deciso di non parlare dell'Aurora per cinque minuti.",
+          "text": "Ci siamo detti di non parlare dell'Aurora per cinque minuti. È passato molto più tempo.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B03-M02",
           "sender": "nico",
-          "text": "Sono diventati molti più di cinque.",
-          "delayMs": 2000,
+          "text": "Marta mi ha raccontato di un lavoro che odiava. Io del vicino che suonava la batteria alle tre di notte.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B03-M03",
           "sender": "nico",
-          "text": "Marta mi ha raccontato di un lavoro che odiava.",
-          "delayMs": 3000,
+          "text": "\"E non gli dicevi niente?\"",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B03-M04",
           "sender": "nico",
-          "text": "Io di un appartamento con un vicino che suonava la batteria alle tre di notte.",
-          "delayMs": 0,
+          "text": "\"Gliel'ho detto. Non è migliorato.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B03-M05",
           "sender": "nico",
-          "text": "Abbiamo parlato di posti.",
-          "delayMs": 3000,
+          "text": "\"Il rumore?\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B03-M06",
           "sender": "nico",
-          "text": "Cibo.",
-          "delayMs": 0,
+          "text": "\"Neanche come batterista.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B03-M07",
           "sender": "nico",
-          "text": "Vacanze mai fatte.",
-          "delayMs": 0,
+          "text": "Poi siamo finiti a parlare di cibo, posti, famiglie, vacanze mai fatte.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B03-M08",
           "sender": "nico",
-          "text": "Famiglie.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B03-M09",
-          "sender": "nico",
-          "text": "È ridicolo quanto sembri normale.",
-          "delayMs": 4000,
+          "text": "Ogni tanto mi dimentico di stare aspettando che fuori non passi più nessuno.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3841,7 +2469,7 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S08-C39-A-R-M01",
           "sender": "nico",
-          "text": "Le ho chiesto dove andrebbe.",
+          "text": "Le ho chiesto dove vorrebbe andare.",
           "delayMs": 0,
           "delivery": "live"
         },
@@ -3849,42 +2477,28 @@ window.LUA_CONTENT.act4 = {
           "id": "A4-S08-C39-A-R-M02",
           "sender": "nico",
           "text": "\"Fuori.\"",
-          "delayMs": 3000,
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S08-C39-A-R-M03",
           "sender": "nico",
-          "text": "\"Marta.\"",
-          "delayMs": 2000,
+          "text": "\"Intendo dopo. Un posto dove ti piacerebbe stare.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S08-C39-A-R-M04",
           "sender": "nico",
-          "text": "\"Non lo so.\"",
-          "delayMs": 2000,
+          "text": "Ci ha pensato. \"Al mare, forse.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S08-C39-A-R-M05",
           "sender": "nico",
-          "text": "Poi ha nominato il mare.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-C39-A-R-M06",
-          "sender": "nico",
-          "text": "Non un posto preciso.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-C39-A-R-M07",
-          "sender": "nico",
-          "text": "Solo mare.",
-          "delayMs": 0,
+          "text": "Non ha detto dove. Solo mare. Mi è sembrato un programma sufficiente.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3898,36 +2512,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S08-C39-B-R-M01",
           "sender": "nico",
-          "text": "Le ho raccontato della mia famiglia.",
+          "text": "Le ho raccontato un po' della mia famiglia. Ho cercato di scegliere gli episodi in cui sembro una persona organizzata.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S08-C39-B-R-M02",
           "sender": "nico",
-          "text": "Versione breve.",
-          "delayMs": 3000,
+          "text": "Marta mi ha guardato. \"Non ci credo.\"",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A4-S08-C39-B-R-M03",
           "sender": "nico",
-          "text": "Quella in cui sembro quasi organizzato.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-C39-B-R-M04",
-          "sender": "nico",
-          "text": "Marta ha detto che non ci crede.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-C39-B-R-M05",
-          "sender": "nico",
-          "text": "Giustamente.",
-          "delayMs": 3000,
+          "text": "Ho dovuto raccontarle anche il resto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3948,36 +2548,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S08-C39-C-R-M02",
           "sender": "nico",
-          "text": "Marta ci ha pensato.",
-          "delayMs": 4000,
+          "text": "È rimasta a pensarci. \"Non lo so. Qualcosa di più stupido.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S08-C39-C-R-M03",
           "sender": "nico",
-          "text": "Poi:",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-C39-C-R-M04",
-          "sender": "nico",
-          "text": "\"Non lo so.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-C39-C-R-M05",
-          "sender": "nico",
-          "text": "\"Qualcosa di più stupido.\"",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-C39-C-R-M06",
-          "sender": "nico",
-          "text": "È probabilmente la risposta più ottimista della serata.",
-          "delayMs": 3000,
+          "text": "Le ho detto che non era facile. Ha sorriso appena.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -3991,29 +2570,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S08-C39-D-R-M01",
           "sender": "nico",
-          "text": "Non ho provato a portarla da nessuna parte.",
+          "text": "Non ho cercato di portare il discorso da nessuna parte.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S08-C39-D-R-M02",
           "sender": "nico",
-          "text": "Abbiamo parlato.",
-          "delayMs": 3000,
+          "text": "L'ho ascoltata, le ho risposto. Per una volta non aspettavo il momento buono per fare colpo.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S08-C39-D-R-M03",
           "sender": "nico",
-          "text": "Basta.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-C39-D-R-M04",
-          "sender": "nico",
-          "text": "Credo sia la prima conversazione che abbiamo avuto senza che io cercassi di ottenere qualcosa.",
-          "delayMs": 4000,
+          "text": "Mi piaceva parlare con lei e basta.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4100,71 +2672,36 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S08-B04-M01",
           "sender": "nico",
-          "text": "\"Tu davvero conoscevi queste cose spirituali?\"",
+          "text": "Poi mi ha chiesto: \"Ma tu davvero conoscevi tutte queste cose spirituali?\"",
           "delayMs": 4000,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B04-M02",
           "sender": "nico",
-          "text": "Ah.",
-          "delayMs": 4000,
+          "text": "Ho provato con: \"Dipende da cosa intendi per conoscere.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B04-M03",
           "sender": "nico",
-          "text": "Eccoci.",
-          "delayMs": 2000,
+          "text": "\"Non sapevi niente.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B04-M04",
           "sender": "nico",
-          "text": "\"Dipende dalla definizione di conoscere.\"",
-          "delayMs": 3000,
+          "text": "\"Così mi lasci poco spazio.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B04-M05",
           "sender": "nico",
-          "text": "\"Non ne sapevi niente.\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B04-M06",
-          "sender": "nico",
-          "text": "\"Questa è una definizione molto severa.\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B04-M07",
-          "sender": "nico",
-          "text": "Ha riso.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B04-M08",
-          "sender": "nico",
-          "text": "Marta ha riso.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B04-M09",
-          "sender": "nico",
-          "text": "Qui.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B04-M10",
-          "sender": "nico",
-          "text": "Adesso.",
-          "delayMs": 0,
+          "text": "Ha riso. Mi ero quasi dimenticato del rumore che fa quando ride.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4178,43 +2715,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S08-B05-M01",
           "sender": "nico",
-          "text": "Stavo per dirglielo.",
+          "text": "Stavo per dirle perché sono venuto davvero.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B05-M02",
           "sender": "nico",
-          "text": "Perché sono venuto davvero.",
-          "delayMs": 3000,
+          "text": "\"Comunque, quando ti ho chiesto dell'Aurora...\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B05-M03",
           "sender": "nico",
-          "text": "Ho iniziato con:",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B05-M04",
-          "sender": "nico",
-          "text": "\"Comunque quando ti ho chiesto dell'Aurora...\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B05-M05",
-          "sender": "nico",
-          "text": "Poi fuori è passato qualcuno.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B05-M06",
-          "sender": "nico",
-          "text": "Ho cambiato discorso.",
-          "delayMs": 2000,
+          "text": "È passato qualcuno fuori. Ho cambiato discorso, anche se non era necessario finirlo lì.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4228,57 +2744,29 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S08-B06-M01",
           "sender": "nico",
-          "text": "Ci ho riprovato dopo.",
+          "text": "Ci ho riprovato più tardi. \"Quella volta al bar...\"",
           "delayMs": 12000,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B06-M02",
           "sender": "nico",
-          "text": "Peggio.",
-          "delayMs": 2000,
+          "text": "\"Che volta?\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B06-M03",
           "sender": "nico",
-          "text": "\"Quella volta al bar...\"",
-          "delayMs": 3000,
+          "text": "\"Niente. Lascia stare.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B06-M04",
           "sender": "nico",
-          "text": "Lei:",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B06-M05",
-          "sender": "nico",
-          "text": "\"Che volta?\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B06-M06",
-          "sender": "nico",
-          "text": "Io:",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B06-M07",
-          "sender": "nico",
-          "text": "\"Niente.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B06-M08",
-          "sender": "nico",
-          "text": "Molto coraggioso.",
-          "delayMs": 4000,
+          "text": "Sei autorizzato a insultarmi.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4299,22 +2787,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S08-B07-M02",
           "sender": "nico",
-          "text": "Non ancora.",
-          "delayMs": 2000,
+          "text": "Per qualche minuto siamo riusciti a parlare senza che ci fosse una cosa da risolvere o da temere.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S08-B07-M03",
           "sender": "nico",
-          "text": "Non so perché.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S08-B07-M04",
-          "sender": "nico",
-          "text": "Forse perché per qualche minuto possiamo ancora essere due persone che parlano di cose normali.",
-          "delayMs": 3000,
+          "text": "Non volevo che finisse. Almeno, è la scusa che mi sto dando.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4354,22 +2835,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S09-B01-M01",
           "sender": "nico",
-          "text": "Ci hanno svegliati prima dell'alba.",
+          "text": "Ci hanno svegliati prima dell'alba. Non so se avevo davvero preso sonno.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S09-B01-M02",
           "sender": "nico",
-          "text": "Anche se non credo di aver dormito davvero.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B01-M03",
-          "sender": "nico",
-          "text": "È iniziato.",
-          "delayMs": 3000,
+          "text": "È cominciato.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4383,64 +2857,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S09-B02-M01",
           "sender": "nico",
-          "text": "Sono quasi tutti vestiti chiari.",
+          "text": "Sono quasi tutti vestiti di chiaro. Ognuno con i suoi vestiti, nessuna uniforme.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S09-B02-M02",
           "sender": "nico",
-          "text": "Non uguali.",
-          "delayMs": 2000,
+          "text": "I tavoli di Lea sono pronti. Fiori, piatti, bicchieri.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S09-B02-M03",
           "sender": "nico",
-          "text": "Non uniforme.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B02-M04",
-          "sender": "nico",
-          "text": "Solo chiari.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B02-M05",
-          "sender": "nico",
-          "text": "I tavoli di Lea sono pronti.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B02-M06",
-          "sender": "nico",
-          "text": "Fiori.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B02-M07",
-          "sender": "nico",
-          "text": "Piatti.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B02-M08",
-          "sender": "nico",
-          "text": "Bicchieri.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B02-M09",
-          "sender": "nico",
-          "text": "Lettere impilate.",
-          "delayMs": 0,
+          "text": "Ci sono anche le lettere, impilate.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4454,64 +2886,29 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S09-B03-M01",
           "sender": "nico",
-          "text": "Le persone si abbracciano.",
+          "text": "Si abbracciano. Qualcuno piange, qualcuno sorride. Altri stanno seduti senza fare niente.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S09-B03-M02",
           "sender": "nico",
-          "text": "Alcune piangono.",
-          "delayMs": 2000,
+          "text": "Uno prova a leggere una lettera, ma gli tremano le mani e deve ricominciare.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S09-B03-M03",
           "sender": "nico",
-          "text": "Alcune sorridono.",
-          "delayMs": 0,
+          "text": "Sembrano una famiglia che sta per perdere qualcuno.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S09-B03-M04",
           "sender": "nico",
-          "text": "Alcune non fanno niente.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B03-M05",
-          "sender": "nico",
-          "text": "Stanno sedute.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B03-M06",
-          "sender": "nico",
-          "text": "Uno sta leggendo una lettera e deve ricominciare perché gli tremano le mani.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B03-M07",
-          "sender": "nico",
-          "text": "Non sembra una setta in un film.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B03-M08",
-          "sender": "nico",
-          "text": "Sembra una famiglia che sa che sta per perdere qualcuno.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B03-M09",
-          "sender": "nico",
-          "text": "Solo che sono tutti.",
-          "delayMs": 3000,
+          "text": "Solo che qui sono tutti.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4532,8 +2929,8 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S09-B04-M02",
           "sender": "nico",
-          "text": "Questa è la cosa peggiore.",
-          "delayMs": 5000,
+          "text": "Non riesco a far stare insieme le due cose.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4547,85 +2944,36 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S09-B05-M01",
           "sender": "nico",
-          "text": "Elia ha parlato.",
+          "text": "Elia ha parlato poco. Ha ringraziato quelli che sono qui da anni e quelli arrivati da poco. Anche chi ha avuto paura, chi ha dubitato.",
           "delayMs": 4000,
           "delivery": "live"
         },
         {
           "id": "A4-S09-B05-M02",
           "sender": "nico",
-          "text": "Poco.",
-          "delayMs": 2000,
+          "text": "\"Abbiamo passato anni a prepararci a non avere paura.\"",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A4-S09-B05-M03",
           "sender": "nico",
-          "text": "Ha ringraziato tutti.",
-          "delayMs": 3000,
+          "text": "Poi: \"Non è necessario non avere paura.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S09-B05-M04",
           "sender": "nico",
-          "text": "Quelli che sono qui da anni.",
-          "delayMs": 0,
+          "text": "La stessa frase della registrazione.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S09-B05-M05",
           "sender": "nico",
-          "text": "Quelli arrivati da poco.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B05-M06",
-          "sender": "nico",
-          "text": "Quelli che hanno avuto paura.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B05-M07",
-          "sender": "nico",
-          "text": "Quelli che hanno dubitato.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B05-M08",
-          "sender": "nico",
-          "text": "\"Abbiamo passato anni a prepararci a non avere paura.\"",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B05-M09",
-          "sender": "nico",
-          "text": "\"Non è necessario non avere paura.\"",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B05-M10",
-          "sender": "nico",
-          "text": "Lea guarda il tavolo.",
-          "delayMs": 5000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B05-M11",
-          "sender": "nico",
-          "text": "Davide guarda Elia.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B05-M12",
-          "sender": "nico",
-          "text": "Marta guarda me.",
-          "delayMs": 2000,
+          "text": "Lea guarda il tavolo. Davide guarda lui. Marta cerca i miei occhi.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4639,43 +2987,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S09-B06-M01",
           "sender": "nico",
-          "text": "Il nostro piano era aspettare il momento giusto.",
+          "text": "Dobbiamo aspettare un momento in cui possiamo allontanarci, poi bosco.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S09-B06-M02",
           "sender": "nico",
-          "text": "Poi bosco.",
-          "delayMs": 3000,
+          "text": "Marta ha quello che può portare senza farsi notare. Io il vecchio telefono.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S09-B06-M03",
           "sender": "nico",
-          "text": "Marta ha già tutto quello che può portare senza farsi notare.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B06-M04",
-          "sender": "nico",
-          "text": "Io ho il vecchio telefono.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B06-M05",
-          "sender": "nico",
-          "text": "Dobbiamo solo aspettare.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S09-B06-M06",
-          "sender": "nico",
           "text": "Ancora un po'.",
-          "delayMs": 4000,
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4710,36 +3037,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S10-B01-M01",
           "sender": "nico",
-          "text": "Qualcuno sta urlando.",
+          "text": "Qualcuno urla.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S10-B01-M02",
           "sender": "nico",
-          "text": "Non parte del rituale.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B01-M03",
-          "sender": "nico",
-          "text": "Urla davvero.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B01-M04",
-          "sender": "nico",
-          "text": "È uno dei nuovi.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B01-M05",
-          "sender": "nico",
-          "text": "Quello che non sapeva tutto.",
-          "delayMs": 0,
+          "text": "È uno dei nuovi. Uno di quelli che non sapevano tutto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4753,57 +3059,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S10-B02-M01",
           "sender": "nico",
-          "text": "Ha capito.",
+          "text": "Ha capito. Non so cosa abbia visto o chi gli abbia parlato.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S10-B02-M02",
           "sender": "nico",
-          "text": "Non so chi gliel'ha detto.",
-          "delayMs": 3000,
+          "text": "Continua a dire: \"No, io non sapevo. Non lo sapevo.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S10-B02-M03",
           "sender": "nico",
-          "text": "O cosa ha visto.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B02-M04",
-          "sender": "nico",
-          "text": "Ma ha capito.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B02-M05",
-          "sender": "nico",
-          "text": "Sta dicendo:",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B02-M06",
-          "sender": "nico",
-          "text": "\"No.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B02-M07",
-          "sender": "nico",
-          "text": "\"No, io non sapevo.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B02-M08",
-          "sender": "nico",
-          "text": "E adesso lo sanno tutti che lui non sapeva.",
-          "delayMs": 4000,
+          "text": "Lo stanno sentendo tutti.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4817,50 +3088,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S10-B03-M01",
           "sender": "nico",
-          "text": "Sta andando verso l'uscita.",
+          "text": "Va verso l'uscita. Due persone cercano di fermarlo per parlargli, un'altra gli dice di respirare.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S10-B03-M02",
           "sender": "nico",
-          "text": "Due persone cercano di calmarlo.",
-          "delayMs": 2000,
+          "text": "Una donna piange, vuole andare con lui. Le dicono di aspettare.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S10-B03-M03",
           "sender": "nico",
-          "text": "Un'altra gli dice di respirare.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B03-M04",
-          "sender": "nico",
-          "text": "Una donna piange e dice che vuole andare con lui.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B03-M05",
-          "sender": "nico",
-          "text": "Un'altra le dice:",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B03-M06",
-          "sender": "nico",
-          "text": "\"Aspetta.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B03-M07",
-          "sender": "nico",
-          "text": "Tutto insieme.",
-          "delayMs": 3000,
+          "text": "Parlano tutti insieme.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4874,50 +3117,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S10-B04-M01",
           "sender": "nico",
-          "text": "Elia sta parlando.",
+          "text": "Elia dice che non bisogna decidere nel panico. Che avere paura adesso non significa voler cambiare scelta.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S10-B04-M02",
           "sender": "nico",
-          "text": "Non urla.",
-          "delayMs": 2000,
+          "text": "Gli altri continuano a dirgli di calmarsi. Prima deve calmarsi, poi potrà decidere.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A4-S10-B04-M03",
           "sender": "nico",
-          "text": "Dice che nessuno deve decidere nel panico.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B04-M04",
-          "sender": "nico",
-          "text": "Che la paura dell'ultimo momento non è necessariamente la stessa cosa di voler davvero cambiare scelta.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B04-M05",
-          "sender": "nico",
-          "text": "Ed ecco il problema.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B04-M06",
-          "sender": "nico",
-          "text": "Per loro fermare qualcuno per \"farlo calmare\" non significa impedirgli di andarsene.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B04-M07",
-          "sender": "nico",
-          "text": "Significa aspettare che torni a essere se stesso.",
-          "delayMs": 3000,
+          "text": "Lui chiede di uscire e loro gli spiegano come dovrebbe sentirsi.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4931,57 +3146,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S10-B05-M01",
           "sender": "nico",
-          "text": "Adesso non c'è più ordine.",
+          "text": "Non riesco più a seguire tutto. Qualcuno vuole continuare, qualcuno cerca una persona, qualcuno vuole andarsene.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S10-B05-M02",
           "sender": "nico",
-          "text": "Persone che piangono.",
-          "delayMs": 2000,
+          "text": "Una persona si alza, poi si risiede. Altri piangono.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A4-S10-B05-M03",
           "sender": "nico",
-          "text": "Persone che cercano qualcuno.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B05-M04",
-          "sender": "nico",
-          "text": "Persone che vogliono continuare.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B05-M05",
-          "sender": "nico",
-          "text": "Persone che vogliono uscire.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B05-M06",
-          "sender": "nico",
-          "text": "Persone che cambiano idea.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B05-M07",
-          "sender": "nico",
-          "text": "Persone che cambiano idea sul fatto di aver cambiato idea.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B05-M08",
-          "sender": "nico",
-          "text": "Tommaso sta cercando di tenere insieme tutto.",
-          "delayMs": 4000,
+          "text": "Tommaso passa da uno all'altro, cerca di tenere insieme la sala.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -4995,64 +3175,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S10-B06-M01",
           "sender": "nico",
-          "text": "Ma non stanno uscendo tutti.",
+          "text": "Quelli che vogliono uscire non riescono a mettersi insieme. Li fermano a parlare separatamente, li convincono ad aspettare.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S10-B06-M02",
           "sender": "nico",
-          "text": "È questo il punto.",
-          "delayMs": 3000,
+          "text": "Qualcuno smette di insistere.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A4-S10-B06-M03",
           "sender": "nico",
-          "text": "Quelli che vogliono andare non riescono a trasformarsi in un gruppo.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B06-M04",
-          "sender": "nico",
-          "text": "Vengono rallentati.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B06-M05",
-          "sender": "nico",
-          "text": "Separati.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B06-M06",
-          "sender": "nico",
-          "text": "Convinti ad aspettare.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B06-M07",
-          "sender": "nico",
-          "text": "Alcuni dopo un po' smettono di provarci.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B06-M08",
-          "sender": "nico",
-          "text": "Non c'è una fuga.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B06-M09",
-          "sender": "nico",
-          "text": "C'è solo confusione.",
-          "delayMs": 0,
+          "text": "Non stanno scappando. Restano tutti in questa confusione.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5066,43 +3204,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S10-B07-M01",
           "sender": "nico",
-          "text": "\"Stanno anticipando.\"",
+          "text": "Marta mi ha detto: \"Stanno anticipando.\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S10-B07-M02",
           "sender": "nico",
-          "text": "\"Cosa?\"",
-          "delayMs": 4000,
+          "text": "Le ho chiesto cosa.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S10-B07-M03",
           "sender": "nico",
-          "text": "Poi lo capisco.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B07-M04",
-          "sender": "nico",
-          "text": "Il rituale.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B07-M05",
-          "sender": "nico",
-          "text": "Di nuovo.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S10-B07-M06",
-          "sender": "nico",
-          "text": "Non aspettano più il momento previsto.",
-          "delayMs": 3000,
+          "text": "Il rituale. Non aspettano più neanche l'ora prevista.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5142,29 +3259,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S11-B01-M01",
           "sender": "nico",
-          "text": "Sta succedendo qualcosa.",
+          "text": "Marta dice che dobbiamo andare ADESSO.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S11-B01-M02",
           "sender": "nico",
-          "text": "No.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S11-B01-M03",
-          "sender": "nico",
-          "text": "Sta succedendo tutto.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S11-B01-M04",
-          "sender": "nico",
-          "text": "Marta dice che dobbiamo andare ADESSO.",
-          "delayMs": 3000,
+          "text": "Non riesco più a capire chi sta facendo cosa.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5178,22 +3281,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S11-C40-A-R-M01",
           "sender": "nico",
-          "text": "Ok.",
+          "text": "Bosco.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S11-C40-A-R-M02",
           "sender": "nico",
-          "text": "Bosco.",
-          "delayMs": 1000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S11-C40-A-R-M03",
-          "sender": "nico",
           "text": "Andiamo.",
-          "delayMs": 0,
+          "delayMs": 500,
           "delivery": "live"
         }
       ],
@@ -5207,50 +3303,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S11-C40-B-R-M01",
           "sender": "nico",
-          "text": "Ok.",
+          "text": "Proviamo il cancello.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S11-C40-B-R-M02",
           "sender": "nico",
-          "text": "Cancello.",
-          "delayMs": 0,
+          "text": "No. Troppa gente, Tommaso è da quella parte.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S11-C40-B-R-M03",
           "sender": "nico",
-          "text": "No.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S11-C40-B-R-M04",
-          "sender": "nico",
-          "text": "Troppa gente.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S11-C40-B-R-M05",
-          "sender": "nico",
-          "text": "Tommaso è da quella parte.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S11-C40-B-R-M06",
-          "sender": "nico",
-          "text": "Marta mi tira verso il retro.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S11-C40-B-R-M07",
-          "sender": "nico",
-          "text": "Bosco.",
-          "delayMs": 0,
+          "text": "Marta mi tira verso il retro. Andiamo nel bosco.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5264,43 +3332,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S11-C40-C-R-M01",
           "sender": "nico",
-          "text": "Ok.",
+          "text": "Il deposito non va. Stanno portando fuori roba proprio adesso, c'è gente dappertutto.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S11-C40-C-R-M02",
           "sender": "nico",
-          "text": "Deposito.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S11-C40-C-R-M03",
-          "sender": "nico",
-          "text": "No.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S11-C40-C-R-M04",
-          "sender": "nico",
-          "text": "Stanno portando roba fuori proprio adesso.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S11-C40-C-R-M05",
-          "sender": "nico",
-          "text": "Troppa gente.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S11-C40-C-R-M06",
-          "sender": "nico",
-          "text": "Bosco.",
-          "delayMs": 0,
+          "text": "Andiamo verso il bosco.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5314,36 +3354,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S11-C40-D-R-M01",
           "sender": "nico",
-          "text": "Ok.",
+          "text": "Le ho detto di aspettare.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S11-C40-D-R-M02",
           "sender": "nico",
-          "text": "Aspetta.",
-          "delayMs": 2000,
+          "text": "Dice che se non usciamo adesso non usciamo più.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S11-C40-D-R-M03",
           "sender": "nico",
-          "text": "No.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S11-C40-D-R-M04",
-          "sender": "nico",
-          "text": "Marta dice che se aspettiamo adesso non usciamo più.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S11-C40-D-R-M05",
-          "sender": "nico",
-          "text": "Bosco.",
-          "delayMs": 2000,
+          "text": "Va bene. Bosco.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5416,43 +3442,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S11-B02-M01",
           "sender": "nico",
-          "text": "Sto correndo.",
+          "text": "Marta è davanti a me. Passiamo dal cortile, poi giù verso gli alberi.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S11-B02-M02",
           "sender": "nico",
-          "text": "Per una volta non sto discutendo.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S11-B02-M03",
-          "sender": "nico",
-          "text": "Goditela.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S11-B02-M04",
-          "sender": "nico",
-          "text": "Marta davanti.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S11-B02-M05",
-          "sender": "nico",
-          "text": "Io dietro.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S11-B02-M06",
-          "sender": "nico",
-          "text": "Attraversiamo il cortile e poi giù verso gli alberi.",
-          "delayMs": 2000,
+          "text": "Metto via. Corro.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5487,64 +3485,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S12-B01-M01",
           "sender": "nico",
-          "text": "Cortile.",
-          "delayMs": 0,
+          "text": "Ti scrivo appena riesco. Abbiamo attraversato il cortile.",
+          "delayMs": 4000,
           "delivery": "live"
         },
         {
           "id": "A4-S12-B01-M02",
           "sender": "nico",
-          "text": "Tutto è dove dovrebbe essere.",
-          "delayMs": 2000,
+          "text": "Sedie spostate, lettere per terra. Dovevamo passare in mezzo alla gente.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S12-B01-M03",
           "sender": "nico",
-          "text": "E niente lo è.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B01-M04",
-          "sender": "nico",
-          "text": "Sedie spostate.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B01-M05",
-          "sender": "nico",
-          "text": "Persone in mezzo.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B01-M06",
-          "sender": "nico",
-          "text": "Lettere per terra.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B01-M07",
-          "sender": "nico",
-          "text": "Qualcuno piange.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B01-M08",
-          "sender": "nico",
-          "text": "Qualcuno urla un nome.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B01-M09",
-          "sender": "nico",
-          "text": "Noi corriamo.",
-          "delayMs": 3000,
+          "text": "Qualcuno piangeva, qualcuno urlava un nome.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5558,64 +3514,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S12-B02-M01",
           "sender": "nico",
-          "text": "Lea.",
+          "text": "Lea era vicino ai tavoli. Teneva una persona per le spalle e le parlava piano.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S12-B02-M02",
           "sender": "nico",
-          "text": "È vicino ai tavoli.",
-          "delayMs": 3000,
+          "text": "Mi ha visto. Non ci ha fermati.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S12-B02-M03",
           "sender": "nico",
-          "text": "Tiene una persona per le spalle.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B02-M04",
-          "sender": "nico",
-          "text": "Le sta parlando piano.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B02-M05",
-          "sender": "nico",
-          "text": "Mi vede.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B02-M06",
-          "sender": "nico",
-          "text": "Non fa niente.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B02-M07",
-          "sender": "nico",
-          "text": "Non so se mi ha salutato.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B02-M08",
-          "sender": "nico",
-          "text": "Forse sì.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B02-M09",
-          "sender": "nico",
-          "text": "Forse volevo che lo facesse.",
-          "delayMs": 0,
+          "text": "Forse mi ha salutato. Non lo so, magari volevo soltanto che lo facesse.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5629,57 +3543,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S12-B03-M01",
           "sender": "nico",
-          "text": "Davide.",
+          "text": "Ho incrociato Davide. Mi ha guardato e mi ha lasciato passare.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S12-B03-M02",
           "sender": "nico",
-          "text": "Ci incrociamo.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B03-M03",
-          "sender": "nico",
-          "text": "Solo un secondo.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B03-M04",
-          "sender": "nico",
-          "text": "Mi guarda.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B03-M05",
-          "sender": "nico",
-          "text": "Non chiama nessuno.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B03-M06",
-          "sender": "nico",
-          "text": "Non si mette davanti.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B03-M07",
-          "sender": "nico",
-          "text": "Non mi ferma.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B03-M08",
-          "sender": "nico",
-          "text": "Basta quello.",
-          "delayMs": 4000,
+          "text": "Non ha chiamato nessuno. Non si è messo davanti come l'altra notte.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5700,43 +3572,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S12-B04-M01",
           "sender": "nico",
-          "text": "Tommaso è a terra con qualcuno che sta avendo una crisi.",
+          "text": "Tommaso era a terra con qualcuno che stava avendo una crisi. Gli teneva una mano e gli parlava.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S12-B04-M02",
           "sender": "nico",
-          "text": "Gli parla.",
-          "delayMs": 2000,
+          "text": "Mi è sembrato che volesse davvero aiutarlo.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S12-B04-M03",
           "sender": "nico",
-          "text": "Gli tiene una mano.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B04-M04",
-          "sender": "nico",
-          "text": "Per un secondo non sembra quello che ci ha tolto documenti, telefoni e zaino.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B04-M05",
-          "sender": "nico",
-          "text": "Sembra solo un uomo che pensa davvero di stare aiutando.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B04-M06",
-          "sender": "nico",
-          "text": "Poi ricordo che è esattamente il problema.",
-          "delayMs": 3000,
+          "text": "È lo stesso uomo che ci ha preso i documenti e lo zaino. Continuo a rivederlo così.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5750,57 +3601,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S12-B05-M01",
           "sender": "nico",
-          "text": "Elia.",
+          "text": "Elia ci ha visti dall'altra parte del cortile. Me e Marta.",
           "delayMs": 4000,
           "delivery": "live"
         },
         {
           "id": "A4-S12-B05-M02",
           "sender": "nico",
-          "text": "Dall'altra parte del cortile.",
-          "delayMs": 3000,
+          "text": "Non ha chiamato Tommaso, non ha detto di fermarci.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S12-B05-M03",
           "sender": "nico",
-          "text": "Mi vede.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B05-M04",
-          "sender": "nico",
-          "text": "Vede Marta.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B05-M05",
-          "sender": "nico",
-          "text": "Non viene verso di noi.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B05-M06",
-          "sender": "nico",
-          "text": "Non chiama Tommaso.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B05-M07",
-          "sender": "nico",
-          "text": "Non dice di fermarci.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B05-M08",
-          "sender": "nico",
-          "text": "Ci guarda e basta.",
-          "delayMs": 4000,
+          "text": "Ci guardava e basta.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5814,43 +3630,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S12-B06-M01",
           "sender": "nico",
-          "text": "Non so cosa c'era in quella faccia.",
+          "text": "Non so cosa volesse dire quello sguardo. Mi è sembrata pietà, ma non sono sicuro neanche di questo.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S12-B06-M02",
           "sender": "nico",
-          "text": "Delusione.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B06-M03",
-          "sender": "nico",
-          "text": "Pietà.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B06-M04",
-          "sender": "nico",
-          "text": "Accettazione.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B06-M05",
-          "sender": "nico",
-          "text": "Forse niente di tutto questo.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B06-M06",
-          "sender": "nico",
-          "text": "Non ho tempo di capirlo.",
-          "delayMs": 2000,
+          "text": "Non mi sono fermato a capirlo.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5864,43 +3652,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S12-B07-M01",
           "sender": "nico",
-          "text": "Marta:",
+          "text": "Marta mi ha detto: \"Corri.\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S12-B07-M02",
           "sender": "nico",
-          "text": "\"Corri.\"",
-          "delayMs": 0,
+          "text": "Ho continuato dietro di lei, verso gli alberi.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S12-B07-M03",
           "sender": "nico",
-          "text": "Sto correndo.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B07-M04",
-          "sender": "nico",
-          "text": "Gli alberi sono davanti.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B07-M05",
-          "sender": "nico",
-          "text": "Dietro c'è ancora tutto il resto.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S12-B07-M06",
-          "sender": "nico",
-          "text": "Non mi giro più.",
-          "delayMs": 3000,
+          "text": "Non mi sono più girato.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -5940,50 +3707,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S13-B01-M01",
           "sender": "nico",
-          "text": "Siamo nel bosco.",
+          "text": "Siamo nel bosco. Non vedo più il cortile o gli edifici.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S13-B01-M02",
           "sender": "nico",
-          "text": "Fuori davvero.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-B01-M03",
-          "sender": "nico",
-          "text": "Non vedo più il cortile.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-B01-M04",
-          "sender": "nico",
-          "text": "Non vedo più gli edifici.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-B01-M05",
-          "sender": "nico",
-          "text": "Solo alberi.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-B01-M06",
-          "sender": "nico",
-          "text": "Pioggia.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-B01-M07",
-          "sender": "nico",
-          "text": "Fango.",
-          "delayMs": 0,
+          "text": "Solo alberi, pioggia e fango.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6004,64 +3736,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S13-B02-M01",
           "sender": "nico",
-          "text": "Il sentiero esiste.",
+          "text": "C'è un sentiero, ma ogni poco sparisce sotto l'acqua o in mezzo alle radici.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S13-B02-M02",
           "sender": "nico",
-          "text": "Più o meno.",
-          "delayMs": 2000,
+          "text": "Marta sa da che parte andare meglio di me.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S13-B02-M03",
           "sender": "nico",
-          "text": "Ogni trenta metri diventa:",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-B02-M04",
-          "sender": "nico",
-          "text": "fango",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-B02-M05",
-          "sender": "nico",
-          "text": "radici",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-B02-M06",
-          "sender": "nico",
-          "text": "acqua",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-B02-M07",
-          "sender": "nico",
-          "text": "una decisione sbagliata.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-B02-M08",
-          "sender": "nico",
-          "text": "Marta conosce la direzione meglio di me.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-B02-M09",
-          "sender": "nico",
-          "text": "Che non significa abbastanza.",
-          "delayMs": 0,
+          "text": "Non vuol dire che sappia esattamente dove siamo.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6075,36 +3765,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S13-B03-M01",
           "sender": "nico",
-          "text": "Dobbiamo scendere.",
+          "text": "La strada è più in basso. Dobbiamo scendere finché la incontriamo.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S13-B03-M02",
           "sender": "nico",
-          "text": "La strada è da qualche parte più in basso.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-B03-M03",
-          "sender": "nico",
-          "text": "Non sappiamo il punto preciso.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-B03-M04",
-          "sender": "nico",
-          "text": "Solo la direzione.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-B03-M05",
-          "sender": "nico",
-          "text": "Ottimo sistema di navigazione.",
-          "delayMs": 3000,
+          "text": "Non sappiamo in quale punto. Abbiamo solo la direzione.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6118,36 +3787,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S13-B04-M01",
           "sender": "nico",
-          "text": "Il campo è praticamente sparito.",
+          "text": "Il campo è quasi sparito. Ogni tanto una tacca, poi niente.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S13-B04-M02",
           "sender": "nico",
-          "text": "Una tacca.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-B04-M03",
-          "sender": "nico",
-          "text": "Poi niente.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-B04-M04",
-          "sender": "nico",
-          "text": "La batteria è bassa.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-B04-M05",
-          "sender": "nico",
-          "text": "Molto più bassa di quanto vorrei.",
-          "delayMs": 2000,
+          "text": "Anche la batteria è bassa. Troppo bassa.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6173,29 +3821,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S13-C41-A-R-M01",
           "sender": "nico",
-          "text": "Lo tengo acceso.",
+          "text": "Lo tengo acceso. Se torna il segnale voglio accorgermene subito.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S13-C41-A-R-M02",
           "sender": "nico",
-          "text": "Se prende anche solo per qualche secondo voglio saperlo.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-C41-A-R-M03",
-          "sender": "nico",
-          "text": "Scelta ottima per il segnale.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-C41-A-R-M04",
-          "sender": "nico",
-          "text": "Pessima per la batteria.",
-          "delayMs": 0,
+          "text": "Cerco di non guardare la percentuale ogni volta. Non aiuta.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6209,29 +3843,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S13-C41-B-R-M01",
           "sender": "nico",
-          "text": "Lo spengo.",
+          "text": "Lo spengo tra un controllo e l'altro.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S13-C41-B-R-M02",
           "sender": "nico",
-          "text": "Lo riaccendo ogni tanto.",
-          "delayMs": 2000,
+          "text": "Ogni volta mi viene paura di perdere proprio il momento in cui potrei sentirti.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S13-C41-B-R-M03",
           "sender": "nico",
-          "text": "Mi fa sentire come se stessi spegnendo l'unica finestra sul mondo.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-C41-B-R-M04",
-          "sender": "nico",
-          "text": "Ma serve.",
-          "delayMs": 3000,
+          "text": "Ma devo farlo durare.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6245,29 +3872,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S13-C41-C-R-M01",
           "sender": "nico",
-          "text": "Uso la torcia del telefono nei pezzi peggiori.",
+          "text": "Nei tratti peggiori uso la torcia del telefono.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S13-C41-C-R-M02",
           "sender": "nico",
-          "text": "Lo so.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-C41-C-R-M03",
-          "sender": "nico",
-          "text": "Batteria.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-C41-C-R-M04",
-          "sender": "nico",
-          "text": "Ma preferisco non rompermi il collo nei prossimi cinque minuti.",
-          "delayMs": 2000,
+          "text": "Lo so che consuma. Ma qui non vedo dove metto i piedi.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6281,36 +3894,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S13-C41-D-R-M01",
           "sender": "nico",
-          "text": "Telefono quasi sempre spento.",
+          "text": "Uso la torcia separata. Il telefono lo tengo spento e lo controllo solo per poco.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S13-C41-D-R-M02",
           "sender": "nico",
-          "text": "Torcia separata.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-C41-D-R-M03",
-          "sender": "nico",
-          "text": "Controlli brevi.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-C41-D-R-M04",
-          "sender": "nico",
-          "text": "È la cosa sensata.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-C41-D-R-M05",
-          "sender": "nico",
-          "text": "Quindi naturalmente mi mette ansia.",
-          "delayMs": 2000,
+          "text": "Cerco di risparmiare più batteria possibile.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6402,22 +3994,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S13-B05-M01",
           "sender": "nico",
-          "text": "Continuiamo a scendere.",
+          "text": "Scendiamo ancora.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S13-B05-M02",
           "sender": "nico",
-          "text": "Finché andiamo verso il basso prima o poi troviamo la strada.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S13-B05-M03",
-          "sender": "nico",
-          "text": "Questa frase mi sembra molto più intelligente di quanto sia.",
-          "delayMs": 3000,
+          "text": "Continuo a ripetermi che prima o poi dobbiamo incontrare la strada.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6445,36 +4030,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S14-B01-M01",
           "sender": "nico",
-          "text": "Si sente ancora qualcosa.",
+          "text": "Da lontano arrivano ancora delle voci. Forse qualcuno urla.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S14-B01-M02",
           "sender": "nico",
-          "text": "Lontano.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S14-B01-M03",
-          "sender": "nico",
-          "text": "Voci.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S14-B01-M04",
-          "sender": "nico",
-          "text": "Forse qualcuno urla.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S14-B01-M05",
-          "sender": "nico",
-          "text": "Non riesco a capire le parole.",
-          "delayMs": 2000,
+          "text": "Non capisco le parole.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6488,36 +4052,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S14-B02-M01",
           "sender": "nico",
-          "text": "Marta dice di non fermarci.",
+          "text": "Marta mi dice di non fermarmi.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S14-B02-M02",
           "sender": "nico",
-          "text": "Ha ragione.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S14-B02-M03",
-          "sender": "nico",
-          "text": "Non possiamo tornare.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S14-B02-M04",
-          "sender": "nico",
-          "text": "Non possiamo vedere.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S14-B02-M05",
-          "sender": "nico",
-          "text": "Possiamo solo continuare.",
-          "delayMs": 0,
+          "text": "Non possiamo tornare a guardare. Continuo a camminare, ma ascolto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6538,22 +4081,8 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S14-B03-M02",
           "sender": "nico",
-          "text": "...",
-          "delayMs": 5000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S14-B03-M03",
-          "sender": "nico",
           "text": "Non sento più niente.",
-          "delayMs": 5000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S14-B03-M04",
-          "sender": "nico",
-          "text": "Niente.",
-          "delayMs": 6000,
+          "delayMs": 3500,
           "delivery": "live"
         }
       ],
@@ -6574,36 +4103,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S14-B04-M01",
           "sender": "nico",
-          "text": "Marta non dice niente.",
+          "text": "Marta non parla. Neanch'io.",
           "delayMs": 5000,
           "delivery": "live"
         },
         {
           "id": "A4-S14-B04-M02",
           "sender": "nico",
-          "text": "Nemmeno io.",
-          "delayMs": 3000,
+          "text": "Non sappiamo cosa sia successo là dentro.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S14-B04-M03",
           "sender": "nico",
-          "text": "Non sappiamo cosa è successo.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S14-B04-M04",
-          "sender": "nico",
-          "text": "Non davvero.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S14-B04-M05",
-          "sender": "nico",
-          "text": "Ma non credo che nessuno di noi due stia pensando una cosa buona.",
-          "delayMs": 4000,
+          "text": "Non voglio chiederle cosa sta pensando.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6631,50 +4146,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S15-B01-M01",
           "sender": "nico",
-          "text": "Merda.",
+          "text": "Merda. Marta è caduta.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S15-B01-M02",
           "sender": "nico",
-          "text": "Marta è caduta.",
-          "delayMs": 2000,
+          "text": "Le è scivolato un piede nel fango, la gamba si è piegata male.",
+          "delayMs": 1000,
           "delivery": "live"
         },
         {
           "id": "A4-S15-B01-M03",
           "sender": "nico",
-          "text": "Non da un dirupo.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-B01-M04",
-          "sender": "nico",
-          "text": "Non una cosa spettacolare.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-B01-M05",
-          "sender": "nico",
-          "text": "Un piede è scivolato nel fango.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-B01-M06",
-          "sender": "nico",
-          "text": "La gamba è andata male.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-B01-M07",
-          "sender": "nico",
-          "text": "Ed è bastato.",
-          "delayMs": 3000,
+          "text": "È successo in un secondo.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6688,36 +4175,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S15-B02-M01",
           "sender": "nico",
-          "text": "Ci siamo fermati.",
+          "text": "Ci siamo fermati. Dice che sta bene, ma quando prova ad appoggiarsi su quella gamba non ce la fa.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S15-B02-M02",
           "sender": "nico",
-          "text": "Dice che sta bene.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-B02-M03",
-          "sender": "nico",
-          "text": "Non sta bene.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-B02-M04",
-          "sender": "nico",
-          "text": "Non vedo niente che sembri immediatamente terribile.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-B02-M05",
-          "sender": "nico",
-          "text": "Ma non riesce a caricare bene il peso.",
-          "delayMs": 0,
+          "text": "Non vedo niente che mi faccia capire quanto sia grave.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6743,36 +4209,29 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S15-B03-M01",
           "sender": "nico",
-          "text": "Lei dice che riesce a camminare.",
+          "text": "Continua a dire che riesce a camminare.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S15-B03-M02",
           "sender": "nico",
-          "text": "Sta mentendo malissimo.",
-          "delayMs": 4000,
+          "text": "Le ho chiesto di stare ferma un minuto.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S15-B03-M03",
           "sender": "nico",
-          "text": "Le ho detto di stare ferma un minuto.",
-          "delayMs": 3000,
+          "text": "\"Se restiamo qui ci congeliamo.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S15-B03-M04",
           "sender": "nico",
-          "text": "Lei mi ha detto che se stiamo fermi ci congeliamo.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-B03-M05",
-          "sender": "nico",
-          "text": "Punto per Marta.",
-          "delayMs": 3000,
+          "text": "Vorrei che avesse torto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6786,57 +4245,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S15-C42-A-R-M01",
           "sender": "nico",
-          "text": "Ci fermiamo.",
+          "text": "Ci fermiamo un momento. Riesce a muovere il piede e il ginocchio, ma le fa molto male.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S15-C42-A-R-M02",
           "sender": "nico",
-          "text": "Poco.",
-          "delayMs": 3000,
+          "text": "Non so cosa significhi. Non riesco a capire cos'ha.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S15-C42-A-R-M03",
           "sender": "nico",
-          "text": "Muove il piede.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-C42-A-R-M04",
-          "sender": "nico",
-          "text": "Muove il ginocchio.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-C42-A-R-M05",
-          "sender": "nico",
-          "text": "Fa male.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-C42-A-R-M06",
-          "sender": "nico",
-          "text": "Molto.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-C42-A-R-M07",
-          "sender": "nico",
-          "text": "Non mi basta per capire cos'ha.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-C42-A-R-M08",
-          "sender": "nico",
-          "text": "Mi basta per capire che non possiamo restare qui.",
-          "delayMs": 0,
+          "text": "Non possiamo aspettare qui sotto l'acqua.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6850,43 +4274,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S15-C42-B-R-M01",
           "sender": "nico",
-          "text": "Le passo un braccio intorno.",
+          "text": "Le ho passato un braccio intorno. Appoggia quasi tutto il peso su di me.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S15-C42-B-R-M02",
           "sender": "nico",
-          "text": "Lei appoggia quasi tutto su di me.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-C42-B-R-M03",
-          "sender": "nico",
-          "text": "Facciamo tre passi.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-C42-B-R-M04",
-          "sender": "nico",
-          "text": "Lenti.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-C42-B-R-M05",
-          "sender": "nico",
-          "text": "Brutti.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-C42-B-R-M06",
-          "sender": "nico",
-          "text": "Ma li facciamo.",
-          "delayMs": 3000,
+          "text": "Abbiamo fatto tre passi. Piano, ma li abbiamo fatti.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6900,43 +4296,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S15-C42-C-R-M01",
           "sender": "nico",
-          "text": "Ho trovato un ramo abbastanza solido.",
+          "text": "Ho trovato un ramo abbastanza solido da usare come bastone.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S15-C42-C-R-M02",
           "sender": "nico",
-          "text": "Non chiamarlo attrezzatura.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-C42-C-R-M03",
-          "sender": "nico",
-          "text": "È un bastone.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-C42-C-R-M04",
-          "sender": "nico",
-          "text": "La aiuta.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-C42-C-R-M05",
-          "sender": "nico",
-          "text": "Poco.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-C42-C-R-M06",
-          "sender": "nico",
-          "text": "Ma poco adesso conta.",
-          "delayMs": 0,
+          "text": "La aiuta un po'. Per adesso prendiamo quello che c'è.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -6950,57 +4318,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S15-C42-D-R-M01",
           "sender": "nico",
-          "text": "Ho provato a portarla.",
+          "text": "Ho provato a portarla. Con la discesa, lo zaino e questo fango rischiavo di farci cadere tutti e due.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S15-C42-D-R-M02",
           "sender": "nico",
-          "text": "Idea pessima.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-C42-D-R-M03",
-          "sender": "nico",
-          "text": "Fango.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-C42-D-R-M04",
-          "sender": "nico",
-          "text": "Discesa.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-C42-D-R-M05",
-          "sender": "nico",
-          "text": "Zaino.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-C42-D-R-M06",
-          "sender": "nico",
-          "text": "Io che non sono improvvisamente diventato un soccorritore alpino.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-C42-D-R-M07",
-          "sender": "nico",
-          "text": "Dopo poco abbiamo cambiato.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-C42-D-R-M08",
-          "sender": "nico",
-          "text": "Lei appoggiata a me.",
-          "delayMs": 0,
+          "text": "Abbiamo cambiato. Lei si appoggia a me e camminiamo piano.",
+          "delayMs": 1800,
           "delivery": "live"
         }
       ],
@@ -7082,57 +4408,29 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S15-B04-M01",
           "sender": "nico",
-          "text": "Continuiamo.",
+          "text": "Andiamo avanti molto più lentamente. Siamo fradici, fa freddo, piove ancora.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S15-B04-M02",
           "sender": "nico",
-          "text": "Molto più piano.",
-          "delayMs": 3000,
+          "text": "Ogni tanto le chiedo come va.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S15-B04-M03",
           "sender": "nico",
-          "text": "Piove ancora.",
-          "delayMs": 2000,
+          "text": "\"Sto bene.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S15-B04-M04",
           "sender": "nico",
-          "text": "Siamo fradici.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-B04-M05",
-          "sender": "nico",
-          "text": "Fa freddo.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-B04-M06",
-          "sender": "nico",
-          "text": "Marta continua a dire:",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-B04-M07",
-          "sender": "nico",
-          "text": "\"Sto bene.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S15-B04-M08",
-          "sender": "nico",
-          "text": "Ogni volta ci mette un po' più tempo.",
-          "delayMs": 2000,
+          "text": "Ci mette sempre un po' di più a rispondere.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7177,36 +4475,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S16-B01-M01",
           "sender": "nico",
-          "text": "Aspetta.",
+          "text": "Aspetta. Davanti non ci sono più alberi.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S16-B01-M02",
           "sender": "nico",
-          "text": "C'è qualcosa davanti.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B01-M03",
-          "sender": "nico",
-          "text": "Non alberi.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B01-M04",
-          "sender": "nico",
-          "text": "Spazio.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B01-M05",
-          "sender": "nico",
-          "text": "Credo...",
-          "delayMs": 3000,
+          "text": "Credo di vedere...",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7220,57 +4497,29 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S16-B02-M01",
           "sender": "nico",
-          "text": "L'abbiamo trovata.",
+          "text": "LA STRADA.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S16-B02-M02",
           "sender": "nico",
-          "text": "CAZZO.",
-          "delayMs": 5000,
+          "text": "Cazzo, l'abbiamo trovata.",
+          "delayMs": 600,
           "delivery": "live"
         },
         {
           "id": "A4-S16-B02-M03",
           "sender": "nico",
-          "text": "LA STRADA.",
-          "delayMs": 3000,
+          "text": "Asfalto, guardrail. So da che parte si scende verso valle.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S16-B02-M04",
           "sender": "nico",
-          "text": "È lei.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B02-M05",
-          "sender": "nico",
-          "text": "Asfalto.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B02-M06",
-          "sender": "nico",
-          "text": "Guardrail.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B02-M07",
-          "sender": "nico",
-          "text": "Valle da quella parte.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B02-M08",
-          "sender": "nico",
-          "text": "Per la prima volta da non so quante ore so esattamente dove siamo.",
-          "delayMs": 4000,
+          "text": "Finalmente so dove siamo.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7291,64 +4540,29 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S16-B03-M01",
           "sender": "nico",
-          "text": "Marta sta ridendo.",
+          "text": "Marta ha cominciato a ridere. È venuto da ridere anche a me, non riuscivamo a smettere.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S16-B03-M02",
           "sender": "nico",
-          "text": "Io pure.",
-          "delayMs": 2000,
+          "text": "Le ho detto: \"Vedi? Piano perfetto.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S16-B03-M03",
           "sender": "nico",
-          "text": "Non perché sia divertente.",
-          "delayMs": 2000,
+          "text": "Mi ha detto di stare zitto.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S16-B03-M04",
           "sender": "nico",
-          "text": "È quella risata che fai quando il corpo decide da solo di scaricare qualcosa.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B03-M05",
-          "sender": "nico",
-          "text": "Le ho detto:",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B03-M06",
-          "sender": "nico",
-          "text": "\"Vedi?\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B03-M07",
-          "sender": "nico",
-          "text": "\"Piano perfetto.\"",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B03-M08",
-          "sender": "nico",
-          "text": "Lei mi ha detto di stare zitto.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B03-M09",
-          "sender": "nico",
-          "text": "Quindi stiamo benissimo.",
-          "delayMs": 2000,
+          "text": "Mi è sembrato che potessimo farcela davvero.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7362,57 +4576,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S16-B04-M01",
           "sender": "nico",
-          "text": "Adesso basta seguire la strada.",
+          "text": "Ora seguiamo la strada verso valle. Piano, lei appoggiata a me.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S16-B04-M02",
           "sender": "nico",
-          "text": "Piano.",
-          "delayMs": 2000,
+          "text": "Se torna il campo chiamiamo. Se passa qualcuno ci vede.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S16-B04-M03",
           "sender": "nico",
-          "text": "Lei appoggiata a me.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B04-M04",
-          "sender": "nico",
-          "text": "Verso valle.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B04-M05",
-          "sender": "nico",
-          "text": "Se prende il telefono, chiamiamo.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B04-M06",
-          "sender": "nico",
-          "text": "Se passa qualcuno, ci vede.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B04-M07",
-          "sender": "nico",
-          "text": "Se non passa nessuno, continuiamo.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B04-M08",
-          "sender": "nico",
-          "text": "Finalmente un piano che sembra un piano.",
-          "delayMs": 3000,
+          "text": "E se non passa nessuno almeno sappiamo dove andare.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7426,36 +4605,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S16-B05-M01",
           "sender": "nico",
-          "text": "Stiamo andando.",
+          "text": "Camminiamo. Marta mi dice di smettere di controllarla ogni tre secondi.",
           "delayMs": 12000,
           "delivery": "live"
         },
         {
           "id": "A4-S16-B05-M02",
           "sender": "nico",
-          "text": "Lenti.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B05-M03",
-          "sender": "nico",
-          "text": "Ma andando.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B05-M04",
-          "sender": "nico",
-          "text": "Marta continua a dirmi di smettere di guardarla ogni tre secondi.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S16-B05-M05",
-          "sender": "nico",
-          "text": "Non smetto.",
-          "delayMs": 2000,
+          "text": "Ci provo. Non ci riesco molto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7491,14 +4649,14 @@ window.LUA_CONTENT.act4 = {
           "id": "A4-S17-B01-M02",
           "sender": "nico",
           "text": "Aspetta.",
-          "delayMs": 2000,
+          "delayMs": 600,
           "delivery": "live"
         },
         {
           "id": "A4-S17-B01-M03",
           "sender": "nico",
           "text": "Ferma.",
-          "delayMs": 3000,
+          "delayMs": 500,
           "delivery": "live"
         }
       ],
@@ -7512,64 +4670,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S17-B02-M01",
           "sender": "nico",
-          "text": "La strada non c'è.",
+          "text": "Manca un pezzo di strada.",
           "delayMs": 4000,
           "delivery": "live"
         },
         {
           "id": "A4-S17-B02-M02",
           "sender": "nico",
-          "text": "Cioè.",
-          "delayMs": 4000,
+          "text": "È venuto giù tutto: fango, alberi, rocce. Il tracciato finisce davanti a noi.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S17-B02-M03",
           "sender": "nico",
-          "text": "C'è qui.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S17-B02-M04",
-          "sender": "nico",
-          "text": "Poi no.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S17-B02-M05",
-          "sender": "nico",
-          "text": "Una parte è venuta giù.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S17-B02-M06",
-          "sender": "nico",
-          "text": "Fango.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S17-B02-M07",
-          "sender": "nico",
-          "text": "Alberi.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S17-B02-M08",
-          "sender": "nico",
-          "text": "Rocce.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S17-B02-M09",
-          "sender": "nico",
-          "text": "Un pezzo del tracciato è sparito.",
-          "delayMs": 0,
+          "text": "Lo vedo ricominciare dall'altra parte.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7595,22 +4711,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S17-B03-M01",
           "sender": "nico",
-          "text": "Sto guardando.",
+          "text": "Sto cercando un punto dove passare.",
           "delayMs": 5000,
           "delivery": "live"
         },
         {
           "id": "A4-S17-B03-M02",
           "sender": "nico",
-          "text": "Sto ancora guardando.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S17-B03-M03",
-          "sender": "nico",
-          "text": "Non migliora.",
-          "delayMs": 4000,
+          "text": "Continuo a guardare.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7625,7 +4734,7 @@ window.LUA_CONTENT.act4 = {
           "id": "A4-S17-B04-M01",
           "sender": "nico",
           "text": "Ah.",
-          "delayMs": 5000,
+          "delayMs": 3500,
           "delivery": "live"
         }
       ],
@@ -7639,50 +4748,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S17-B05-M01",
           "sender": "nico",
-          "text": "Non possiamo passarci sopra.",
+          "text": "Non possiamo attraversare. Non con la gamba di Marta così. Forse neanche io da solo.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S17-B05-M02",
           "sender": "nico",
-          "text": "Non con Marta così.",
-          "delayMs": 2000,
+          "text": "Sotto c'è fango e vuoto.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S17-B05-M03",
           "sender": "nico",
-          "text": "Probabilmente nemmeno io da solo senza fare qualcosa di molto stupido.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S17-B05-M04",
-          "sender": "nico",
-          "text": "Sotto è fango e vuoto.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S17-B05-M05",
-          "sender": "nico",
-          "text": "Dall'altra parte la strada continua.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S17-B05-M06",
-          "sender": "nico",
-          "text": "La vedo.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S17-B05-M07",
-          "sender": "nico",
-          "text": "Che è quasi offensivo.",
-          "delayMs": 0,
+          "text": "La strada dall'altra parte è lì, la vedo. Mi sembra impossibile dover tornare indietro.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7696,57 +4777,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S17-B06-M01",
           "sender": "nico",
-          "text": "\"Torniamo nel bosco.\"",
+          "text": "Marta ha detto: \"Torniamo nel bosco.\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S17-B06-M02",
           "sender": "nico",
-          "text": "Sì.",
-          "delayMs": 4000,
+          "text": "Dobbiamo costeggiare la frana, cercare un punto più basso o un sentiero che ci faccia passare.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S17-B06-M03",
           "sender": "nico",
-          "text": "È l'unica cosa che possiamo fare.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S17-B06-M04",
-          "sender": "nico",
-          "text": "Costeggiare.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S17-B06-M05",
-          "sender": "nico",
-          "text": "Trovare un punto più basso.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S17-B06-M06",
-          "sender": "nico",
-          "text": "Un sentiero.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S17-B06-M07",
-          "sender": "nico",
-          "text": "Qualunque cosa.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S17-B06-M08",
-          "sender": "nico",
-          "text": "Di nuovo alberi.",
-          "delayMs": 4000,
+          "text": "Di nuovo tra gli alberi.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7774,29 +4820,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S18-B01-M01",
           "sender": "nico",
-          "text": "Stiamo costeggiando la frana.",
+          "text": "Stiamo costeggiando la frana. Più in alto non riusciamo a passare.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S18-B01-M02",
           "sender": "nico",
-          "text": "Più in alto non si passa.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B01-M03",
-          "sender": "nico",
-          "text": "Più in basso forse.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B01-M04",
-          "sender": "nico",
-          "text": "\"forse\" è diventata la parola principale della giornata.",
-          "delayMs": 2000,
+          "text": "Proviamo a cercare più in basso.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7810,50 +4842,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S18-B02-M01",
           "sender": "nico",
-          "text": "Marta va peggio.",
+          "text": "Marta va peggio. Non è solo la gamba, è lenta anche quando le parlo.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S18-B02-M02",
           "sender": "nico",
-          "text": "Non solo la gamba.",
-          "delayMs": 3000,
+          "text": "Le ho fatto delle domande e ci ha messo qualche secondo a rispondere.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S18-B02-M03",
           "sender": "nico",
-          "text": "È lenta.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B02-M04",
-          "sender": "nico",
-          "text": "Tre volte le ho fatto una domanda e ci ha messo qualche secondo a rispondere.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B02-M05",
-          "sender": "nico",
-          "text": "Dice che è solo stanca.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B02-M06",
-          "sender": "nico",
-          "text": "Siamo entrambi solo stanchi.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B02-M07",
-          "sender": "nico",
-          "text": "Questa frase non mi piace.",
-          "delayMs": 3000,
+          "text": "Dice che è stanca. Siamo stanchi tutti e due, ma prima rispondeva subito.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7874,43 +4878,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S18-B03-M01",
           "sender": "nico",
-          "text": "Telefono quasi morto.",
+          "text": "Il telefono è quasi morto. Il segnale compare per pochi secondi e se ne va.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S18-B03-M02",
           "sender": "nico",
-          "text": "Batteria critica.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B03-M03",
-          "sender": "nico",
-          "text": "Il segnale compare a caso.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B03-M04",
-          "sender": "nico",
-          "text": "Una tacca.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B03-M05",
-          "sender": "nico",
-          "text": "Poi niente.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B03-M06",
-          "sender": "nico",
-          "text": "Come se qualcuno lo accendesse per tre secondi solo per insultarmi.",
-          "delayMs": 2000,
+          "text": "Non riesco a finire niente prima che sparisca.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7936,50 +4912,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S18-C43-A-R-M01",
           "sender": "nico",
-          "text": "Salgo un po'.",
+          "text": "Sono salito un po'. Marta è rimasta riparata come poteva sotto gli alberi.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S18-C43-A-R-M02",
           "sender": "nico",
-          "text": "Marta resta riparata come può sotto gli alberi.",
-          "delayMs": 3000,
+          "text": "È comparsa una tacca. Ho provato a mandare la posizione.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S18-C43-A-R-M03",
           "sender": "nico",
-          "text": "Una tacca.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-C43-A-R-M04",
-          "sender": "nico",
-          "text": "Due secondi.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-C43-A-R-M05",
-          "sender": "nico",
-          "text": "Poi zero.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-C43-A-R-M06",
-          "sender": "nico",
-          "text": "Ho provato a mandare la posizione.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-C43-A-R-M07",
-          "sender": "nico",
-          "text": "Non so se è partita.",
-          "delayMs": 0,
+          "text": "Poi niente. Non so se sia partita.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -7993,50 +4941,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S18-C43-B-R-M01",
           "sender": "nico",
-          "text": "Cerco un sentiero.",
+          "text": "Ho trovato una traccia che scendeva nella direzione giusta. Forse un passaggio di animali, forse scavato dall'acqua.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S18-C43-B-R-M02",
           "sender": "nico",
-          "text": "Ne trovo uno che potrebbe essere animale.",
-          "delayMs": 3000,
+          "text": "L'ho seguita un po', ma poi è sparita.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A4-S18-C43-B-R-M03",
           "sender": "nico",
-          "text": "O acqua.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-C43-B-R-M04",
-          "sender": "nico",
-          "text": "O niente.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-C43-B-R-M05",
-          "sender": "nico",
-          "text": "Lo seguo abbastanza da capire che scende nella direzione giusta.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-C43-B-R-M06",
-          "sender": "nico",
-          "text": "Poi sparisce.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-C43-B-R-M07",
-          "sender": "nico",
-          "text": "Naturalmente.",
-          "delayMs": 2000,
+          "text": "Non riesco a ritrovarla.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -8050,50 +4970,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S18-C43-C-R-M01",
           "sender": "nico",
-          "text": "Prima riparo.",
+          "text": "Cerchiamo prima un riparo. Marta trema.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S18-C43-C-R-M02",
           "sender": "nico",
-          "text": "Marta sta tremando.",
-          "delayMs": 3000,
+          "text": "C'è una vecchia struttura più avanti, mezza aperta. Non capisco cosa fosse.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S18-C43-C-R-M03",
           "sender": "nico",
-          "text": "Troviamo una struttura più avanti.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-C43-C-R-M04",
-          "sender": "nico",
-          "text": "Non so ancora cosa sia.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-C43-C-R-M05",
-          "sender": "nico",
-          "text": "Vecchia.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-C43-C-R-M06",
-          "sender": "nico",
-          "text": "Mezza aperta.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-C43-C-R-M07",
-          "sender": "nico",
-          "text": "Ma ha un tetto.",
-          "delayMs": 3000,
+          "text": "Ha un tetto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -8107,64 +4999,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S18-C43-D-R-M01",
           "sender": "nico",
-          "text": "Sto provando a mandare la posizione.",
+          "text": "Provo a mandare un messaggio corto con la posizione. Frana, bosco, abbiamo bisogno d'aiuto.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S18-C43-D-R-M02",
           "sender": "nico",
-          "text": "Messaggio breve.",
-          "delayMs": 3000,
+          "text": "Resta in invio.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S18-C43-D-R-M03",
           "sender": "nico",
-          "text": "Posizione.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-C43-D-R-M04",
-          "sender": "nico",
-          "text": "Frana.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-C43-D-R-M05",
-          "sender": "nico",
-          "text": "Bosco.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-C43-D-R-M06",
-          "sender": "nico",
-          "text": "In invio.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-C43-D-R-M07",
-          "sender": "nico",
-          "text": "Ancora.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-C43-D-R-M08",
-          "sender": "nico",
-          "text": "Poi niente segnale.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-C43-D-R-M09",
-          "sender": "nico",
-          "text": "Non so se sia partito.",
-          "delayMs": 3000,
+          "text": "È sparito di nuovo il segnale. Non so se sia partito.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -8261,64 +5111,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S18-B04-M01",
           "sender": "nico",
-          "text": "Abbiamo provato tutto quello che mi viene in mente.",
+          "text": "Abbiamo cercato un sentiero, un punto per prendere campo, un riparo. Abbiamo acqua.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S18-B04-M02",
           "sender": "nico",
-          "text": "Sentiero.",
-          "delayMs": 2000,
+          "text": "Sto provando tutto quello che mi viene in mente.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S18-B04-M03",
           "sender": "nico",
-          "text": "Punto alto.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B04-M04",
-          "sender": "nico",
-          "text": "Segnale.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B04-M05",
-          "sender": "nico",
-          "text": "Riparo.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B04-M06",
-          "sender": "nico",
-          "text": "Acqua.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B04-M07",
-          "sender": "nico",
-          "text": "Non sto aspettando che succeda qualcosa.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B04-M08",
-          "sender": "nico",
-          "text": "Sto cercando.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B04-M09",
-          "sender": "nico",
-          "text": "Solo che ogni cosa prende più tempo di quanto abbiamo.",
-          "delayMs": 3000,
+          "text": "Ma per ogni cosa ci mettiamo più tempo. E Marta aspetta.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -8332,64 +5140,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S18-B05-M01",
           "sender": "nico",
-          "text": "Una tacca.",
+          "text": "Una tacca. Adesso.",
           "delayMs": 4000,
           "delivery": "live"
         },
         {
           "id": "A4-S18-B05-M02",
           "sender": "nico",
-          "text": "Adesso.",
-          "delayMs": 2000,
+          "text": "Riprovo: posizione, aiuto, strada bloccata.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S18-B05-M03",
           "sender": "nico",
-          "text": "Provo di nuovo.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B05-M04",
-          "sender": "nico",
-          "text": "Posizione.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B05-M05",
-          "sender": "nico",
-          "text": "Aiuto.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B05-M06",
-          "sender": "nico",
-          "text": "Strada bloccata.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B05-M07",
-          "sender": "nico",
-          "text": "...",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B05-M08",
-          "sender": "nico",
-          "text": "Non lo so.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B05-M09",
-          "sender": "nico",
-          "text": "È sparita prima che il telefono mi dicesse qualcosa.",
-          "delayMs": 2000,
+          "text": "Niente. È sparita prima che riuscissi a vedere se era partito.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -8415,50 +5181,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S18-B06-M01",
           "sender": "nico",
-          "text": "Abbiamo trovato un posto.",
+          "text": "Abbiamo trovato dove fermarci. Una vecchia struttura con tre lati e un tetto.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S18-B06-M02",
           "sender": "nico",
-          "text": "Chiamarlo posto è generoso.",
-          "delayMs": 3000,
+          "text": "Il pavimento è quasi asciutto.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S18-B06-M03",
           "sender": "nico",
-          "text": "Una vecchia struttura.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B06-M04",
-          "sender": "nico",
-          "text": "Tetto.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B06-M05",
-          "sender": "nico",
-          "text": "Tre lati.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B06-M06",
-          "sender": "nico",
-          "text": "Pavimento quasi asciutto.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S18-B06-M07",
-          "sender": "nico",
-          "text": "Per adesso basta.",
-          "delayMs": 3000,
+          "text": "Per adesso basta questo.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -8493,43 +5231,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S19-B01-M01",
           "sender": "nico",
-          "text": "Siamo sotto il tetto.",
+          "text": "Siamo seduti sotto il tetto. Non ci piove più direttamente addosso.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S19-B01-M02",
           "sender": "nico",
-          "text": "\"Tetto\" è generoso.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B01-M03",
-          "sender": "nico",
-          "text": "Ma non ci piove direttamente in faccia.",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B01-M04",
-          "sender": "nico",
-          "text": "Marta è seduta.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B01-M05",
-          "sender": "nico",
-          "text": "Io pure.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B01-M06",
-          "sender": "nico",
-          "text": "Non stiamo andando da nessuna parte per qualche minuto.",
-          "delayMs": 3000,
+          "text": "Per qualche minuto restiamo qui.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -8543,57 +5253,29 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S19-B02-M01",
           "sender": "nico",
-          "text": "Le ho detto:",
+          "text": "Le ho detto: \"Devo dirti una cosa.\"",
           "delayMs": 4000,
           "delivery": "live"
         },
         {
           "id": "A4-S19-B02-M02",
           "sender": "nico",
-          "text": "\"Devo dirti una cosa.\"",
-          "delayMs": 0,
+          "text": "\"Sei sposato?\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S19-B02-M03",
           "sender": "nico",
-          "text": "\"Sei sposato?\"",
-          "delayMs": 4000,
+          "text": "\"No. Peggio.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S19-B02-M04",
           "sender": "nico",
-          "text": "\"No.\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B02-M05",
-          "sender": "nico",
-          "text": "\"Peggio.\"",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B02-M06",
-          "sender": "nico",
-          "text": "Ha alzato un sopracciglio.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B02-M07",
-          "sender": "nico",
-          "text": "Giuro.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B02-M08",
-          "sender": "nico",
-          "text": "Anche adesso.",
-          "delayMs": 0,
+          "text": "Ha alzato un sopracciglio. Anche adesso riesce a farmi sentire un cretino.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -8607,57 +5289,29 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S19-B03-M01",
           "sender": "nico",
-          "text": "Le ho detto che non sapevo niente di spiritualità.",
+          "text": "Le ho detto che non sapevo niente di spiritualità. Non conoscevo l'Aurora, non sapevo cosa fosse il millenarismo. Non mi erano mai interessati i ritiri o tutte le cose di cui avevo finto di capire qualcosa.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S19-B03-M02",
           "sender": "nico",
-          "text": "Niente.",
-          "delayMs": 2000,
+          "text": "\"Quando ti ho chiesto se potevano venire anche persone nuove... volevo venire con te.\"",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A4-S19-B03-M03",
           "sender": "nico",
-          "text": "Non conoscevo l'Aurora.",
-          "delayMs": 2000,
+          "text": "Mi sono fermato, poi l'ho detto.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S19-B03-M04",
           "sender": "nico",
-          "text": "Non sapevo cosa fosse il millenarismo.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B03-M05",
-          "sender": "nico",
-          "text": "Non avevo mai avuto nessun interesse particolare per ritiri, illuminazioni, energie, transizioni o qualunque altra cosa le avessi raccontato.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B03-M06",
-          "sender": "nico",
-          "text": "E che quando le ho chiesto se potevano venire anche persone nuove...",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B03-M07",
-          "sender": "nico",
-          "text": "...volevo solo venire con lei.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B03-M08",
-          "sender": "nico",
-          "text": "Per provarci.",
-          "delayMs": 3000,
+          "text": "\"Per provarci.\"",
+          "delayMs": 2500,
           "delivery": "live"
         }
       ],
@@ -8678,64 +5332,43 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S19-B04-M01",
           "sender": "nico",
-          "text": "Sta ridendo.",
+          "text": "Si è messa a ridere.",
           "delayMs": 5000,
           "delivery": "live"
         },
         {
           "id": "A4-S19-B04-M02",
           "sender": "nico",
-          "text": "No.",
-          "delayMs": 3000,
+          "text": "Le ho detto che non c'era bisogno di ridere così tanto.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S19-B04-M03",
           "sender": "nico",
-          "text": "Sul serio.",
-          "delayMs": 0,
+          "text": "\"Sei venuto in una setta per provarci con me?\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S19-B04-M04",
           "sender": "nico",
-          "text": "Sta ridendo.",
-          "delayMs": 2000,
+          "text": "\"Quando lo dici così sembra stupido.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S19-B04-M05",
           "sender": "nico",
-          "text": "\"Non mi sembra una reazione proporzionata.\"",
-          "delayMs": 3000,
+          "text": "\"Come dovrei dirlo?\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S19-B04-M06",
           "sender": "nico",
-          "text": "\"Sei venuto in una setta per provarci con me?\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B04-M07",
-          "sender": "nico",
-          "text": "\"Quando lo dici così sembra stupido.\"",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B04-M08",
-          "sender": "nico",
-          "text": "\"Come dovrei dirlo?\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B04-M09",
-          "sender": "nico",
-          "text": "Non ho una buona risposta.",
-          "delayMs": 4000,
+          "text": "Non mi è venuta una versione migliore.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -8749,71 +5382,43 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S19-B05-M01",
           "sender": "nico",
-          "text": "Poi ha detto che lo aveva capito.",
+          "text": "Poi mi ha detto che l'aveva capito quasi subito.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S19-B05-M02",
           "sender": "nico",
-          "text": "Quasi subito.",
-          "delayMs": 2000,
+          "text": "Le ho chiesto cosa.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S19-B05-M03",
           "sender": "nico",
-          "text": "Io:",
-          "delayMs": 4000,
+          "text": "\"Che non sapevi niente.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S19-B05-M04",
           "sender": "nico",
-          "text": "\"Cosa?\"",
-          "delayMs": 0,
+          "text": "\"Non è la stessa cosa.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S19-B05-M05",
           "sender": "nico",
-          "text": "Lei:",
-          "delayMs": 2000,
+          "text": "\"Lo era abbastanza.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S19-B05-M06",
           "sender": "nico",
-          "text": "\"Che non sapevi niente.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B05-M07",
-          "sender": "nico",
-          "text": "\"Non è la stessa cosa.\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B05-M08",
-          "sender": "nico",
-          "text": "\"Lo era abbastanza.\"",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B05-M09",
-          "sender": "nico",
-          "text": "Quindi tutta quella parte in cui pensavo di essere sottile...",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B05-M10",
-          "sender": "nico",
-          "text": "No.",
-          "delayMs": 2000,
+          "text": "Io che cercavo di capire se fossi stato troppo esplicito. Lei era già molto più avanti.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -8827,29 +5432,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S19-C44-A-R-M01",
           "sender": "nico",
-          "text": "Le ho chiesto perché non avesse detto niente.",
+          "text": "Le ho chiesto perché non mi avesse detto niente.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S19-C44-A-R-M02",
           "sender": "nico",
-          "text": "Marta:",
-          "delayMs": 3000,
+          "text": "\"Perché era divertente.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S19-C44-A-R-M03",
           "sender": "nico",
-          "text": "\"Perché era divertente.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-C44-A-R-M04",
-          "sender": "nico",
-          "text": "Questa donna ha scelto il momento peggiore della storia per diventare simpatica.",
-          "delayMs": 3000,
+          "text": "Mi sono messo a ridere anch'io. Non sapevo cos'altro fare.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -8871,21 +5469,14 @@ window.LUA_CONTENT.act4 = {
           "id": "A4-S19-C44-B-R-M02",
           "sender": "nico",
           "text": "\"Tu ti sei autoinvitato.\"",
-          "delayMs": 3000,
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S19-C44-B-R-M03",
           "sender": "nico",
-          "text": "Corretto.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-C44-B-R-M04",
-          "sender": "nico",
-          "text": "Giuridicamente devastante.",
-          "delayMs": 2000,
+          "text": "Giusto. Non riuscirò mai a vincere quella discussione.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -8906,29 +5497,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S19-C44-C-R-M02",
           "sender": "nico",
-          "text": "Marta ha fatto quella faccia.",
-          "delayMs": 3000,
+          "text": "Mi ha guardato come per chiedermi se volevo davvero saperlo.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S19-C44-C-R-M03",
           "sender": "nico",
-          "text": "Quella che significa:",
-          "delayMs": 2000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-C44-C-R-M04",
-          "sender": "nico",
-          "text": "\"Vuoi davvero la risposta?\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-C44-C-R-M05",
-          "sender": "nico",
-          "text": "Ho ritirato la domanda.",
-          "delayMs": 3000,
+          "text": "Ho detto di lasciar perdere.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -8949,29 +5526,15 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S19-C44-D-R-M02",
           "sender": "nico",
-          "text": "\"No.\"",
-          "delayMs": 4000,
+          "text": "\"No. Sei un idiota.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S19-C44-D-R-M03",
           "sender": "nico",
-          "text": "Poi:",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-C44-D-R-M04",
-          "sender": "nico",
-          "text": "\"Sei un idiota.\"",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-C44-D-R-M05",
-          "sender": "nico",
-          "text": "Quello ormai è affetto.",
-          "delayMs": 2000,
+          "text": "Stavolta sorrideva mentre lo diceva.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -9048,29 +5611,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S19-B06-M01",
           "sender": "nico",
-          "text": "A questo punto c'è una domanda.",
+          "text": "Mi è rimasta una domanda.",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S19-B06-M02",
           "sender": "nico",
-          "text": "Una.",
-          "delayMs": 3000,
+          "text": "Con tutto quello che ci sta succedendo, continuo a voler sapere quella cosa.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S19-B06-M03",
           "sender": "nico",
-          "text": "La domanda più importante e più stupida possibile.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S19-B06-M04",
-          "sender": "nico",
-          "text": "E naturalmente la sto facendo.",
-          "delayMs": 4000,
+          "text": "Gliela chiedo.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -9098,36 +5654,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S20-B01-M01",
           "sender": "nico",
-          "text": "Le ho chiesto:",
+          "text": "\"Quindi avrei avuto qualche possibilità?\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S20-B01-M02",
           "sender": "nico",
-          "text": "\"Quindi avrei avuto qualche possibilità?\"",
-          "delayMs": 0,
+          "text": "\"Forse.\"",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S20-B01-M03",
           "sender": "nico",
-          "text": "\"Forse.\"",
-          "delayMs": 5000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S20-B01-M04",
-          "sender": "nico",
-          "text": "Forse.",
-          "delayMs": 5000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S20-B01-M05",
-          "sender": "nico",
-          "text": "Naturalmente non basta.",
-          "delayMs": 2000,
+          "text": "Mi ha guardato. Sapeva già che non mi sarebbe bastato.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -9149,28 +5691,14 @@ window.LUA_CONTENT.act4 = {
           "id": "A4-S20-B02-M02",
           "sender": "nico",
           "text": "\"Nico.\"",
-          "delayMs": 4000,
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S20-B02-M03",
           "sender": "nico",
-          "text": "\"Va bene.\"",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S20-B02-M04",
-          "sender": "nico",
-          "text": "...",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S20-B02-M05",
-          "sender": "nico",
-          "text": "Non va bene.",
-          "delayMs": 3000,
+          "text": "Le ho detto va bene. Ho provato a fermarmi lì.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -9184,50 +5712,29 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S20-B03-M01",
           "sender": "nico",
-          "text": "Le ho chiesto:",
+          "text": "Non ci sono riuscito. \"Più di zero?\"",
           "delayMs": 0,
           "delivery": "live"
         },
         {
           "id": "A4-S20-B03-M02",
           "sender": "nico",
-          "text": "\"Più di zero?\"",
-          "delayMs": 0,
+          "text": "Ha chiuso gli occhi, poi ha sorriso.",
+          "delayMs": 1200,
           "delivery": "live"
         },
         {
           "id": "A4-S20-B03-M03",
           "sender": "nico",
-          "text": "Marta ha chiuso gli occhi.",
-          "delayMs": 4000,
+          "text": "\"Molto più di zero.\"",
+          "delayMs": 2500,
           "delivery": "live"
         },
         {
           "id": "A4-S20-B03-M04",
           "sender": "nico",
-          "text": "Poi ha sorriso.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S20-B03-M05",
-          "sender": "nico",
-          "text": "\"Molto più di zero.\"",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S20-B03-M06",
-          "sender": "nico",
-          "text": "Ok.",
-          "delayMs": 5000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S20-B03-M07",
-          "sender": "nico",
-          "text": "Questa informazione sarebbe stata estremamente utile una settimana fa.",
-          "delayMs": 3000,
+          "text": "Avrei voluto saperlo prima. Ma sono contento che me l'abbia detto.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
@@ -9248,57 +5755,22 @@ window.LUA_CONTENT.act4 = {
         {
           "id": "A4-S20-B04-M01",
           "sender": "nico",
-          "text": "Non so cosa fare con questa informazione adesso.",
+          "text": "Non cambia niente di quello che dobbiamo fare. La strada manca, la gamba le fa male e il telefono sta morendo.",
           "delayMs": 4000,
           "delivery": "live"
         },
         {
           "id": "A4-S20-B04-M02",
           "sender": "nico",
-          "text": "Non cambia la strada.",
-          "delayMs": 3000,
+          "text": "Però non me l'ero inventato tutto.",
+          "delayMs": 1800,
           "delivery": "live"
         },
         {
           "id": "A4-S20-B04-M03",
           "sender": "nico",
-          "text": "Non cambia la frana.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S20-B04-M04",
-          "sender": "nico",
-          "text": "Non cambia la sua gamba.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S20-B04-M05",
-          "sender": "nico",
-          "text": "Non cambia il telefono.",
-          "delayMs": 0,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S20-B04-M06",
-          "sender": "nico",
-          "text": "Cambia solo una cosa.",
-          "delayMs": 4000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S20-B04-M07",
-          "sender": "nico",
-          "text": "Avevo ragione su Marta.",
-          "delayMs": 3000,
-          "delivery": "live"
-        },
-        {
-          "id": "A4-S20-B04-M08",
-          "sender": "nico",
-          "text": "Per una volta.",
-          "delayMs": 4000,
+          "text": "Le piacevo.",
+          "delayMs": 1200,
           "delivery": "live"
         }
       ],
